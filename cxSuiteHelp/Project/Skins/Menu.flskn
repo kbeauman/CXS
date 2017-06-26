@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Menu skin"
+  ComponentType="Menu"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#3A475B</Property>
+          <Property
+            Name="Color">#ffffff</Property>
+          <Property
+            Name="Width">265px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item">
+        <Classes>
+          <StyleClass
+            Name="Selected">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#1CBDFF</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+        <Properties>
+          <Property
+            Name="PaddingTop">5px</Property>
+          <Property
+            Name="PaddingBottom">5px</Property>
+          <Property
+            Name="PaddingLeft">10px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item (hover)">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#1CBDFF</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

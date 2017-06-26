@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Point Of Sale"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/pos.htm" />
+    <Link
+      Url="Content/store.htm" />
+    <Link
+      Url="Content/Resources/Images/POSreceipt1.png" />
+    <Link
+      Url="Content/Resources/Images/POSreceipt2.png" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Template Stores- POS Sweepstakes.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Template Stores-POS Coupon.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Template Stores-POS No Incentive.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Receipt Image Example.vsd" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Call to Action Examples.docx" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/pos.htm#WHAT" />
+    <Link
+      Url="Content/pos.htm#HOW" />
+    <Link
+      Url="Content/pos.htm#WHAT2" />
+    <Link
+      Url="Content/pos.htm#SAMPLE" />
+    <Link
+      Url="Content/pos.htm#SAMPLE2" />
+    <Link
+      Url="Content/pos.htm#GENERAL" />
+    <Link
+      Url="Content/pos.htm#SURVEY" />
+    <Link
+      Url="Content/pos.htm#IMPORTAN" />
+    <Link
+      Url="Content/store.htm" />
+    <Link
+      Url="Content/Resources/Images/POSreceipt1.png" />
+    <Link
+      Url="Content/Resources/Images/POSreceipt2.png" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Template Stores- POS Sweepstakes.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Template Stores-POS Coupon.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Template Stores-POS No Incentive.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Receipt Image Example.vsd" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Call to Action Examples.docx" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="SAMPLE" />
+    <Anchor
+      Name="SAMPLE2" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

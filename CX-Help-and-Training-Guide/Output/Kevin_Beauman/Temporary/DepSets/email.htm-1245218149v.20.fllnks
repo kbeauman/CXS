@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Email Deployment"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/cxMeasurement/functional.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/Resources/Images/EmailExample.png" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm" />
+    <Link
+      Url="Content/Resources/Images/EmailInviteTable.png" />
+    <Link
+      Url="Content/Resources/Images/EmailEPPsample.png" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/(General) Client Procedure_Contact Centers - Email.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/SRA Intro Email (Email).doc" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Call Center (Email).pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Call Centre Email (UK Version).pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Timeline Contact Center - Email.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Measurement Obj - Email.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Measurement Obj - Email (UK Version).docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Reminder Email Examples.docx" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#HOW" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#WHAT2" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE2" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE3" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE6" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE5" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE4" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#CLIENT" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/cxMeasurement/functional.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/Resources/Images/EmailExample.png" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm" />
+    <Link
+      Url="Content/Resources/Images/EmailInviteTable.png" />
+    <Link
+      Url="Content/Resources/Images/EmailEPPsample.png" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/(General) Client Procedure_Contact Centers - Email.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/SRA Intro Email (Email).doc" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Call Center (Email).pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Call Centre Email (UK Version).pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Timeline Contact Center - Email.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Measurement Obj - Email.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Measurement Obj - Email (UK Version).docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Reminder Email Examples.docx" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="FORESEE2" />
+    <Anchor
+      Name="FORESEE3" />
+    <Anchor
+      Name="FORESEE" />
+    <Anchor
+      Name="FORESEE6" />
+    <Anchor
+      Name="FORESEE5" />
+    <Anchor
+      Name="FORESEE4" />
+    <Anchor
+      Name="CLIENT" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

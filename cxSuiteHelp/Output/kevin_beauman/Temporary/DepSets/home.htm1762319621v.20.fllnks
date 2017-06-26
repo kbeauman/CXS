@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home"
+  FileTitle="Case Management Help"
+  FileSearchable="true"
+  MasterPage="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
+    <Link
+      Url="Content/Resources/TableStyles/home.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/CaseMgmt/releaseNotes.htm" />
+    <Link
+      Url="Content/Resources/Images/WhatsNewGrayTile.png" />
+    <Link
+      Url="Content/CaseMgmt/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/GettingStartedGrayTile.png" />
+    <Link
+      Url="Content/CaseMgmt/ManageSection.htm" />
+    <Link
+      Url="Content/Resources/Images/CaseMgmtGrayTile.png" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
+    <Link
+      Url="Content/Resources/TableStyles/home.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/CaseMgmt/releaseNotes.htm" />
+    <Link
+      Url="Content/Resources/Images/WhatsNewGrayTile.png" />
+    <Link
+      Url="Content/CaseMgmt/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/GettingStartedGrayTile.png" />
+    <Link
+      Url="Content/CaseMgmt/ManageSection.htm" />
+    <Link
+      Url="Content/Resources/Images/CaseMgmtGrayTile.png" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/home.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

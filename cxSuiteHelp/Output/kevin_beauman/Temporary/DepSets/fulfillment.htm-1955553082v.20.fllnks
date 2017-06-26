@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Fullfillment"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/4cBasic.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PossibleFulfillmentFlows.png" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/4cBasic.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#ACTIONAB" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#WHAT2" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#COMMON" />
+    <Link
+      Url="Content/cxMeasurement/fulfillment.htm#POSSIBLE" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PossibleFulfillmentFlows.png" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="COMMON" />
+    <Anchor
+      Name="CQs" />
+    <Anchor
+      Name="CPPs" />
+    <Anchor
+      Name="POSSIBLE" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/4cBasic.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

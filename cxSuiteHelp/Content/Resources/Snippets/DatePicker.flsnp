@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <span class="wintitle">Date Picker</span> - Click on the date range in the toolbar to display the <span class="wintitle">Date Picker</span>. The <span class="wintitle">Date Picker</span> offers the following options for limiting data to a specific range of dates:<ul><li>A list of preset date ranges along the left side which you can select to implement. When you click on a range the <span class="wintitle">Date Picker</span> closes and the screen refreshes to display data within the selected dates.</li><li><span class="wintitle">Start Date</span> and <span class="wintitle">End Date</span> text fields where you can type in the desired dates. When you enter the start and end dates the screen refreshes to display data within those dates.</li><li>A calendar displaying the current and previous month and the current date range highlighted. Click the start and end dates to set the range. Use the single arrows (&lt; and &gt;) to scroll one month at a time. Use the double arrows (&lt;&lt; and &gt;&gt;) to scroll one year at a time. When you select the start and end dates the screen refreshes to display data within those dates and the <span class="wintitle">Start Date</span> and <span class="wintitle">End Date</span> fields are updated.</li></ul>            Click outside the <span class="wintitle">Date Picker</span> to close.</p>
+    </body>
+    <head>
+        <link href="../Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+</html>

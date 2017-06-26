@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Integration - API"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/public-api/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm#SETUP" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/public-api/" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="SETUP" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

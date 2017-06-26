@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/CaseMgmt/home.htm" />
+    <Link
+      Url="Content/CaseMgmt/about.htm" />
+    <Link
+      Url="Content/CaseMgmt/using.htm" />
+    <Link
+      Url="Content/CaseMgmt/gettingStarted.htm" />
+    <Link
+      Url="Content/CaseMgmt/createAuto.htm" />
+    <Link
+      Url="Content/CaseMgmt/createManual.htm" />
+    <Link
+      Url="Content/CaseMgmt/ManageSection.htm" />
+    <Link
+      Url="Content/CaseMgmt/monitorCase.htm" />
+    <Link
+      Url="Content/CaseMgmt/changeUser.htm" />
+    <Link
+      Url="Content/CaseMgmt/filterViews.htm" />
+    <Link
+      Url="Content/CaseMgmt/workCase.htm" />
+    <Link
+      Url="Content/CaseMgmt/emailTemplates.htm" />
+    <Link
+      Url="Content/CaseMgmt/closeCase.htm" />
+    <Link
+      Url="Content/CaseMgmt/releaseNotes.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

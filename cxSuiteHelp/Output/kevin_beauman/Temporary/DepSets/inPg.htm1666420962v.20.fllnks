@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Feedback Dashboard"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/inPg.htm" />
+    <Link
+      Url="Content/Resources/Images/analyzeSurveyIcon.png" />
+    <Link
+      Url="Content/Resources/Images/viewSurveyIcon.png" />
+    <Link
+      Url="Content/Resources/Images/seeRespondentsIcon.png" />
+    <Link
+      Url="Content/CaseMgmt/datePicker.htm" />
+    <Link
+      Url="Content/Resources/Snippets/showHideTopic.flsnp" />
+    <Link
+      Url="Content/Resources/Images/nCountIcon.png" />
+    <Link
+      Url="Content/Resources/Images/aveStarRating.png" />
+    <Link
+      Url="Content/Resources/Images/menuIcon.png" />
+    <Link
+      Url="Content/Resources/Images/movieIcon.png" />
+    <Link
+      Url="Content/cxSuite/respondentDetails.htm" />
+    <Link
+      Url="Content/cxSuite/ReplayTOC.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CustomizeColumnsProcess.flsnp" />
+    <Link
+      Url="Content/cxSuite/using.htm" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/inPg.htm" />
+    <Link
+      Url="Content/Resources/Images/analyzeSurveyIcon.png" />
+    <Link
+      Url="Content/Resources/Images/viewSurveyIcon.png" />
+    <Link
+      Url="Content/Resources/Images/seeRespondentsIcon.png" />
+    <Link
+      Url="Content/CaseMgmt/datePicker.htm#Filterin" />
+    <Link
+      Url="Content/Resources/Snippets/showHideTopic.flsnp" />
+    <Link
+      Url="Content/Resources/Images/nCountIcon.png" />
+    <Link
+      Url="Content/Resources/Images/aveStarRating.png" />
+    <Link
+      Url="Content/Resources/Images/menuIcon.png" />
+    <Link
+      Url="Content/Resources/Images/movieIcon.png" />
+    <Link
+      Url="Content/cxSuite/respondentDetails.htm" />
+    <Link
+      Url="Content/cxSuite/ReplayTOC.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CustomizeColumnsProcess.flsnp" />
+    <Link
+      Url="Content/CaseMgmt/datePicker.htm" />
+    <Link
+      Url="Content/cxSuite/using.htm#Filterin" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="AnalyzeSurvey" />
+    <Anchor
+      Name="ViewSurvey" />
+    <Anchor
+      Name="SeeRespondents" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

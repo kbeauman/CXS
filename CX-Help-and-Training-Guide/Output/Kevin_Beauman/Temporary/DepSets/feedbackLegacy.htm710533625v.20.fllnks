@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Site Feedback - Legacy"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/feedbackLegacy.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction (Federal) - Product Solution.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/feedbackLegacy.htm#WHAT" />
+    <Link
+      Url="Content/feedbackLegacy.htm#WHY" />
+    <Link
+      Url="Content/feedbackLegacy.htm#DEPLOYME" />
+    <Link
+      Url="Content/feedbackLegacy.htm#LANGUAGE" />
+    <Link
+      Url="Content/feedbackLegacy.htm#INCLUDED" />
+    <Link
+      Url="Content/feedbackLegacy.htm#GENERAL" />
+    <Link
+      Url="Content/feedbackLegacy.htm#IMPORTAN" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction (Federal) - Product Solution.pdf" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

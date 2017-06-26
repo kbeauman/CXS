@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/cxReplayClientSuccessVideos.aspx" />
+    <Link
+      Url="Content/Resources/Images/replaysRole.png" />
+    <Link
+      Url="Content/Resources/Images/ReplayPooling.png" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay for Web - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay for Mobile - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Nutrisystem.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay Deck.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/cxReplayWebinars.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay FAQ.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/cxReplayDemos.aspx" />
+    <Link
+      Url="https://www.clicktale.com/product/session-replays" />
+    <Link
+      Url="https://www.appsee.com/features/user-recordings" />
+    <Link
+      Url="https://sessioncam.com/" />
+    <Link
+      Url="http://www.crazyegg.com/" />
+    <Link
+      Url="https://www.seevolution.com/" />
+    <Link
+      Url="http://www-01.ibm.com/software/info/tealeaf/" />
+    <Link
+      Url="http://software.dell.com/products/foglight-end-user/" />
+    <Link
+      Url="http://www.userzoom.com/" />
+    <Link
+      Url="https://www.usertesting.com/b/" />
+    <Link
+      Url="http://www.uxrecorder.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#HOW" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#ANONYMIT" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#SESSION" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#MOBILE" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#cxREPLAY" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#PAGE" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#ANDROID" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#iOS" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm#COMPETIT2" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/cxReplayClientSuccessVideos.aspx" />
+    <Link
+      Url="Content/Resources/Images/replaysRole.png" />
+    <Link
+      Url="Content/Resources/Images/ReplayPooling.png" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay for Web - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay for Mobile - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Nutrisystem.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay Deck.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/cxReplayWebinars.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/cxReplay FAQ.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/cxReplayDemos.aspx" />
+    <Link
+      Url="https://www.clicktale.com/product/session-replays" />
+    <Link
+      Url="https://www.appsee.com/features/user-recordings" />
+    <Link
+      Url="https://sessioncam.com/" />
+    <Link
+      Url="http://www.crazyegg.com/" />
+    <Link
+      Url="https://www.seevolution.com/" />
+    <Link
+      Url="http://www-01.ibm.com/software/info/tealeaf/" />
+    <Link
+      Url="http://software.dell.com/products/foglight-end-user/" />
+    <Link
+      Url="http://www.userzoom.com/" />
+    <Link
+      Url="https://www.usertesting.com/b/" />
+    <Link
+      Url="http://www.uxrecorder.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="ANONYMIT" />
+    <Anchor
+      Name="SESSION" />
+    <Anchor
+      Name="MOBILE" />
+    <Anchor
+      Name="cxREPLAY" />
+    <Anchor
+      Name="PAGE" />
+    <Anchor
+      Name="ANDROID" />
+    <Anchor
+      Name="iOS" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

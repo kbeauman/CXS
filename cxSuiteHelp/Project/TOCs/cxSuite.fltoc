@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/cxSuite/gettingStarted.htm">
+    <TocEntry
+      Title="Creating a Project"
+      Link="/Content/cxSuite/createProject.htm" />
+    <TocEntry
+      Title="Using CX Suite"
+      Link="/Content/cxSuite/using.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Reports"
+    Link="/Content/cxSuite/reports.htm" />
+  <TocEntry
+    Title="Alerts" />
+  <TocEntry
+    Title="Release Notes"
+    Link="/Content/cxSuite/releaseNotes.htm" />
+</CatapultToc>

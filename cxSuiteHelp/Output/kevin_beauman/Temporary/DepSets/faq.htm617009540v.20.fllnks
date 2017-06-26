@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="FAQ's"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/faq.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/faq.htm#Feedback" />
+    <Link
+      Url="Content/cxSuite/faq.htm#Survey" />
+    <Link
+      Url="Content/cxSuite/faq.htm#Survey2" />
+    <Link
+      Url="Content/cxSuite/faq.htm#New" />
+    <Link
+      Url="Content/cxSuite/faq.htm#Roles" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Feedback" />
+    <Anchor
+      Name="Survey" />
+    <Anchor
+      Name="Survey2" />
+    <Anchor
+      Name="New" />
+    <Anchor
+      Name="Roles" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+    <Variable
+      Name="Tooltips.Tooltip Section" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

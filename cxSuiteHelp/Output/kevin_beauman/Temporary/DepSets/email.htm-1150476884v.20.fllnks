@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Email Deployment"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Images/EmailExample.png" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Images/EmailInviteTable.png" />
+    <Link
+      Url="Content/Resources/Images/EmailEPPsample.png" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Images/EmailExample.png" />
+    <Link
+      Url="Content/cxMeasurement/email.htm#FORESEE" />
+    <Link
+      Url="Content/Resources/Images/EmailInviteTable.png" />
+    <Link
+      Url="Content/Resources/Images/EmailEPPsample.png" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="FORESEE2" />
+    <Anchor
+      Name="FORESEE3" />
+    <Anchor
+      Name="FORESEE" />
+    <Anchor
+      Name="FORESEE6" />
+    <Anchor
+      Name="FORESEE5" />
+    <Anchor
+      Name="FORESEE4" />
+    <Anchor
+      Name="CLIENT" />
+    <Anchor
+      Name="DEPLOYME" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

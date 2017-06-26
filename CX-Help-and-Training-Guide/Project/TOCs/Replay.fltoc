@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="ForeSee Replay Help Home Page"
+    Link="/Content/Replay/home.htm" />
+  <TocEntry
+    Title="Using CX Suite"
+    Link="/Content/Replay/using.htm" />
+  <TocEntry
+    Title="About ForeSee Replay"
+    Link="/Content/Replay/cxReplay.htm"></TocEntry>
+  <TocEntry
+    Title="Heat Maps"
+    Link="/Content/Replay/heatMaps.htm" />
+  <TocEntry
+    Title="Web Based Player"
+    Link="/Content/Replay/player.htm" />
+  <TocEntry
+    Title="Create a Replay Project"
+    Link="/Content/Replay/create.htm" />
+  <TocEntry
+    Title="ForeSee Replay Security"
+    Link="/Content/Replay/cxReplaySecurity.htm" />
+  <TocEntry
+    Title="Release Notes"
+    Link="/Content/Replay/releaseNotes.htm" />
+</CatapultToc>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <span class="wintitle">Date</span> - A timestamp of when the survey was submitted. The data is sorted by this column to show the most recent response.</body>
+</html>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Resources/Carousel/css/bootstrap.min.css" />
+    <Link
+      Url="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/js/bootstrap.min.js" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/Content/Resources/Multimedia/cxSuiteOverview.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/overviewCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/Content/Resources/Multimedia/Alerts.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/alertsCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/Content/Resources/Multimedia/Reports.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/reportsCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/videos/InPage.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/inpageCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Resources/Carousel/css/bootstrap.min.css" />
+    <Link
+      Url="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/js/bootstrap.min.js" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/Content/Resources/Multimedia/cxSuiteOverview.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/overviewCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/Content/Resources/Multimedia/Alerts.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/alertsCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/Content/Resources/Multimedia/Reports.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/reportsCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/videos/InPage.mp4" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/graphics/inpageCarousel.png" />
+    <Link
+      Url="Content/Resources/Resources/Carousel#myCarousel" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

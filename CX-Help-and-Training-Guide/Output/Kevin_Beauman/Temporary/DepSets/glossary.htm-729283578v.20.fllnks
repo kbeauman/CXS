@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Glossary"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/HT/glossary.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPEPP.flsnp" />
+    <Link
+      Url="Content/Resources/Images/URLbreakdown.png" />
+    <Link
+      Url="https://www.lynchpin.com/blog/props-or-evars-beginners-guide/" />
+    <Link
+      Url="https://docs.google.com/presentation/d/1cbuvnCxOQHmrtHeuOo5XZ9LBwHo2aU4TziHCS4x0QoU/edit" />
+    <Link
+      Url="http://www.gsa.gov/portal/category/102375" />
+    <Link
+      Url="http://www.hhs.gov/hipaa" />
+    <Link
+      Url="http://www.researchnow.com/en-US/Panels.aspx" />
+    <Link
+      Url="https://luc.id/" />
+    <Link
+      Url="http://www.differencebetween.net/technology/industrial/difference-between-one-way-electrical-switches-and-two-way-electrical-switches/" />
+    <Link
+      Url="http://www.differencebetween.net/technology/communication-technology/difference-between-pbx-and-acd/" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="https://www.scrum.org/" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="http://www.itic.org/dotAsset/5644ecd2-5024-417f-bc23-a52650f47ef8.doc" />
+    <Link
+      Url="http://searchsoftwarequality.techtarget.com/definition/waterfall-model" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/HT/glossary.htm#FedRAMP" />
+    <Link
+      Url="Content/HT/glossary.htm#IVR" />
+    <Link
+      Url="Content/HT/glossary.htm#WOMI" />
+    <Link
+      Url="Content/HT/glossary.htm#NPS" />
+    <Link
+      Url="Content/HT/glossary.htm#AWS" />
+    <Link
+      Url="Content/HT/glossary.htm#ROPIS" />
+    <Link
+      Url="Content/HT/glossary.htm#BOPIS" />
+    <Link
+      Url="Content/HT/glossary.htm#EPP" />
+    <Link
+      Url="Content/Resources/Snippets/CPPEPP.flsnp" />
+    <Link
+      Url="Content/HT/glossary.htm#HTML" />
+    <Link
+      Url="Content/HT/glossary.htm#JS" />
+    <Link
+      Url="Content/HT/glossary.htm#URL" />
+    <Link
+      Url="Content/Resources/Images/URLbreakdown.png" />
+    <Link
+      Url="Content/HT/glossary.htm#CPP" />
+    <Link
+      Url="https://www.lynchpin.com/blog/props-or-evars-beginners-guide/" />
+    <Link
+      Url="https://docs.google.com/presentation/d/1cbuvnCxOQHmrtHeuOo5XZ9LBwHo2aU4TziHCS4x0QoU/edit#slide=id.g728ae81b5_0_0" />
+    <Link
+      Url="http://www.gsa.gov/portal/category/102375" />
+    <Link
+      Url="Content/HT/glossary.htm#SFTP" />
+    <Link
+      Url="http://www.hhs.gov/hipaa" />
+    <Link
+      Url="Content/HT/glossary.htm#CSS" />
+    <Link
+      Url="Content/HT/glossary.htm#manifestvar" />
+    <Link
+      Url="Content/HT/glossary.htm#softlaunch" />
+    <Link
+      Url="Content/HT/glossary.htm#latentvar" />
+    <Link
+      Url="Content/HT/glossary.htm#Respondent" />
+    <Link
+      Url="Content/HT/glossary.htm#CQs" />
+    <Link
+      Url="http://www.researchnow.com/en-US/Panels.aspx" />
+    <Link
+      Url="https://luc.id/" />
+    <Link
+      Url="Content/HT/glossary.htm#FXI" />
+    <Link
+      Url="http://www.differencebetween.net/technology/industrial/difference-between-one-way-electrical-switches-and-two-way-electrical-switches/" />
+    <Link
+      Url="http://www.differencebetween.net/technology/communication-technology/difference-between-pbx-and-acd/" />
+    <Link
+      Url="Content/HT/glossary.htm#MQs" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/HT/glossary.htm#ANI" />
+    <Link
+      Url="Content/HT/glossary.htm#CRM" />
+    <Link
+      Url="Content/HT/glossary.htm#N_Count" />
+    <Link
+      Url="https://www.scrum.org/" />
+    <Link
+      Url="Content/HT/glossary.htm#SSH" />
+    <Link
+      Url="Content/HT/glossary.htm#LF" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="http://www.itic.org/dotAsset/5644ecd2-5024-417f-bc23-a52650f47ef8.doc" />
+    <Link
+      Url="Content/HT/glossary.htm#SDLC" />
+    <Link
+      Url="http://searchsoftwarequality.techtarget.com/definition/waterfall-model" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="ANI" />
+    <Anchor
+      Name="AWS" />
+    <Anchor
+      Name="BOPIS" />
+    <Anchor
+      Name="CPP" />
+    <Anchor
+      Name="CQs" />
+    <Anchor
+      Name="CRM" />
+    <Anchor
+      Name="CSS" />
+    <Anchor
+      Name="EPP" />
+    <Anchor
+      Name="eVars" />
+    <Anchor
+      Name="FedRAMP" />
+    <Anchor
+      Name="FXI" />
+    <Anchor
+      Name="HTML" />
+    <Anchor
+      Name="IVR" />
+    <Anchor
+      Name="JS" />
+    <Anchor
+      Name="latentvar" />
+    <Anchor
+      Name="LF" />
+    <Anchor
+      Name="manifestvar" />
+    <Anchor
+      Name="MQs" />
+    <Anchor
+      Name="N_Count" />
+    <Anchor
+      Name="NPS" />
+    <Anchor
+      Name="Premium" />
+    <Anchor
+      Name="Respondent" />
+    <Anchor
+      Name="ROPIS" />
+    <Anchor
+      Name="SDLC" />
+    <Anchor
+      Name="SFTP" />
+    <Anchor
+      Name="softlaunch" />
+    <Anchor
+      Name="SSH" />
+    <Anchor
+      Name="URL" />
+    <Anchor
+      Name="WOMI" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Glossary" />
+    <Variable
+      Name="Tooltips.Tooltip Section" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

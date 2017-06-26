@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/SettingsIcon.png" />
+    <Url Source="file:///Z:/CX Suite/CX Help and Training Guide - old/CX Help and Training Guide - old/Content/Resources/Images/URLbreakdown.png" />
+    <Url Source="../../Graphics/CaseMgmtTile.png" />
+    <Url Source="../../Graphics/cxMeasureTile.png" />
+    <Url Source="../../Graphics/GettingStartedTile.png" />
+    <Url Source="../../Graphics/What'sNewTile.png" />
+    <Url Source="Resources/Images/movieIcon.png" />
+    <Url Source="Resources/Images/replayIcon.png" />
+    <Url Source="../../Graphics/SettingsIcon.png" />
+    <Url Source="../../Graphics/cxMeasurementTileGray.png" />
+    <Url Source="../../Graphics/WhatsNewGrayTile.png" />
+    <Url Source="Resources/Images/cxMeasurementTile.png" />
+    <Url Source="Resources/Images/cxSuiteTile.png" />
+    <Url Source="Resources/Images/WhatsNewTile.png" />
+</UrlList>

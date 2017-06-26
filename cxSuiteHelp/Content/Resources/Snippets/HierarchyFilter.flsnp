@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="145" MadCap:lastWidth="1478">
+    <body>
+        <p><span class="wintitle">Hierarchy Filter</span> - The <span class="wintitle">Selected Locations</span> displays in the toolbar next to the <span class="wintitle">Date Picker</span> and offers the following options:<ul><li><span class="wintitle">Search</span> - Type in a hierarchy level. As you type, a list of hierarchy levels matching your entry displays.</li><li><span class="wintitle">Locations</span> - A tree view of locations which may be deselected to omit them from the display. When you deselect a parent location, the child locations are also deselected. If you select a child location, only data from that location, and its child locations, display. For <span class="wintitle">Case Management</span>, only a single child location can be selected.</li></ul>
+            This filter only displays three levels for simplicity. When you drill down to a lower level, a Return button (<img src="../Images/returnButton.png" title="Return Button" alt="return button" />) displays for you to move back up one level.</p>
+    </body>
+</html>

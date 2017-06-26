@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="ForeSee Mobile Portal"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/cxSuite/Resources/jquery.min.js" />
+    <Link
+      Url="Content/cxSuite/Resources/behaviors.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileIcon2016.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Snippets/AndroidTouchCheck.flsnp" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileAppIcon.JPG" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileLogin.png" />
+    <Link
+      Url="Content/cxSuite/Resources/TableStyles/Blind.css" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileNav.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileNav_iOS.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileSum.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileSat.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/QuarterMark.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/image5.gif" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/image6.gif" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileTrendLandscape.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/HamMenuIcon.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileFilterIconSmall.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/HierFilterIcon.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/Pencil.png" />
+    <Link
+      Url="Content/Resources/Images/trash.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/cxSuite/Resources/jquery.min.js" />
+    <Link
+      Url="Content/cxSuite/Resources/behaviors.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileIcon2016.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Snippets/AndroidTouchCheck.flsnp#CX" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileAppIcon.JPG" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileLogin.png" />
+    <Link
+      Url="Content/cxSuite/Resources/TableStyles/Blind.css" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileNav.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileNav_iOS.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileSum.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileSat.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/QuarterMark.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/image5.gif" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/image6.gif" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileTrendLandscape.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/HamMenuIcon.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/MobileFilterIconSmall.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/HierFilterIcon.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Images/Pencil.png" />
+    <Link
+      Url="Content/cxSuite/Resources/Snippets/AndroidTouchCheck.flsnp" />
+    <Link
+      Url="Content/Resources/Images/trash.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="CX" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Mobile Portal"
+      Conditions=""
+      LocalConditions=""
+      Position="9" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

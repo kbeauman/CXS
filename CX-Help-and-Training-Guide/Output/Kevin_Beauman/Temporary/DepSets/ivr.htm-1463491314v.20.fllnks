@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="IVR/IVA"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/IVR Deployment Training.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/(General) Client Procedure_Contact Centers - IVR.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/SRA Intro Email (IVR).doc" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Call Center (IVR).pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Internal Kick Off Checklist_IVR Contact Center.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Timeline Contact Center - IVR.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Measurement Obj - IVR.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/IVR Script Template.docx" />
+    <Link
+      Url="https://drive.google.com/drive/folders/0B3nQm4pPlf2GQU4yUkU0d29xbWc" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#WHICH" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#TYPES" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#IVR" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#SURVEY" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#QUESTION" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#TRANSCRI" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#FUNCTION" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#IVR2" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#CONTACT" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#STORE" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/IVR Deployment Training.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/(General) Client Procedure_Contact Centers - IVR.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/SRA Intro Email (IVR).doc" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Kick-Off Call Center (IVR).pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Internal Kick Off Checklist_IVR Contact Center.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Timeline Contact Center - IVR.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/Contact Center Measurement Obj - IVR.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/IVR Script Template.docx" />
+    <Link
+      Url="https://drive.google.com/drive/folders/0B3nQm4pPlf2GQU4yUkU0d29xbWc" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHICH" />
+    <Anchor
+      Name="TYPES" />
+    <Anchor
+      Name="IVR" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="QUESTION" />
+    <Anchor
+      Name="TRANSCRI" />
+    <Anchor
+      Name="FUNCTION" />
+    <Anchor
+      Name="IVR2" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="CONTACT" />
+    <Anchor
+      Name="STORE" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

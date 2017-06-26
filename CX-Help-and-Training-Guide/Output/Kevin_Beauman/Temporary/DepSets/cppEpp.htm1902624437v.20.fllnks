@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm" />
+    <Link
+      Url="Content/triggerCode18x.htm" />
+    <Link
+      Url="Content/sdk.htm" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/Survey-Link-SiteFeedback" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/ForeSee_CPP_Information.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#PASSING" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#PASSING2" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#TRIGGERI" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#HOW" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm#IMPORTAN" />
+    <Link
+      Url="Content/triggerCode18x.htm" />
+    <Link
+      Url="Content/sdk.htm" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/Survey-Link-SiteFeedback" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/ForeSee_CPP_Information.pdf" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="PASSING" />
+    <Anchor
+      Name="PASSING2" />
+    <Anchor
+      Name="TRIGGERI" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

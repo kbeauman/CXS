@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="About ForeSee Replay"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/jquery.min.js" />
+    <Link
+      Url="Content/Resources/behaviors.js" />
+    <Link
+      Url="Content/Replay/create.htm" />
+    <Link
+      Url="Content/Replay/cxReplaySecurity.htm" />
+    <Link
+      Url="Content/Replay/player.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/jquery.min.js" />
+    <Link
+      Url="Content/Resources/behaviors.js" />
+    <Link
+      Url="Content/Replay/create.htm" />
+    <Link
+      Url="Content/Replay/cxReplaySecurity.htm" />
+    <Link
+      Url="Content/Replay/player.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="CX Help &amp; Training Guide Home"
+    Link="/Content/HT/home.htm" />
+  <TocEntry
+    Title="What's New"
+    Link="/Content/cxSuite/whatsNew.htm">
+    <TocEntry
+      Title="Release Notes"
+      Link="/Content/cxSuite/releaseNotes.htm" />
+    <TocEntry
+      Title="Preferred ForeSee Maintenance Schedule"
+      Link="/Content/cxSuite/ReleaseCalendar.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CX Suite"
+    Link="/Content/HT/cxSuiteTOC.htm">
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/cxSuite/gettingStarted.htm">
+      <TocEntry
+        Title="Using CX Suite"
+        Link="/Content/cxSuite/using.htm" />
+      <TocEntry
+        Title="Creating a Project"
+        Link="/Content/cxSuite/createProject.htm" />
+      <TocEntry
+        Title="CX 360 Dashboard"
+        Link="/Content/cxSuite/cx360.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Measures Dashboard"
+      Link="/Content/cxSuite/MeasuresDashboard.htm" />
+    <TocEntry
+      Title="Alerts"
+      Link="/Content/cxSuite/Alerts.htm" />
+    <TocEntry
+      Title="Reports"
+      Link="/Content/cxSuite/reports.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Survey Builder"
+    Link="/Content/HT/surveyBuilderTOC.htm">
+    <TocEntry
+      Title="About ForeSee Feedback Surveys"
+      Link="/Content/Feedback/aboutSurveys.htm" />
+    <TocEntry
+      Title="Creating a Feedback Survey"
+      Link="/Content/Feedback/newSurvey.htm" />
+    <TocEntry
+      Title="Configuring a Survey"
+      Link="/Content/Feedback/configureSurvey.htm" />
+    <TocEntry
+      Title="Topics"
+      Link="/Content/Feedback/topics.htm" />
+    <TocEntry
+      Title="Analytics"
+      Link="/Content/Feedback/analytics.htm" />
+    <TocEntry
+      Title="In-Page Reporting"
+      Link="/Content/Feedback/inPg.htm" />
+    <TocEntry
+      Title="Alerts"
+      Link="/Content/Feedback/Alerts.htm" />
+    <TocEntry
+      Title="FAQ's"
+      Link="/Content/Feedback/faq.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Survey Deployment"
+    Link="/Content/HT/surveyDeploymentTOC.htm">
+    <TocEntry
+      Title="Feedback"
+      Link="/Content/HT/FeedbackTOC.htm">
+      <TocEntry
+        Title="Publishing a Survey"
+        Link="/Content/Feedback/publishing.htm" />
+      <TocEntry
+        Title="Manual Launch of Survey"
+        Link="/Content/Feedback/manualLaunch.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="CX Measurement Deployment Options"
+      Link="/Content/cxMeasurement/deploymentOptions.htm">
+      <TocEntry
+        Title="Email Deployment"
+        Link="/Content/cxMeasurement/email.htm" />
+      <TocEntry
+        Title="IVR/IVA"
+        Link="/Content/cxMeasurement/ivr.htm" />
+      <TocEntry
+        Title="Panel Deployment"
+        Link="/Content/cxMeasurement/panel.htm" />
+      <TocEntry
+        Title="Point Of Sale"
+        Link="/Content/cxMeasurement/pos.htm" />
+      <TocEntry
+        Title="SDK Deployment"
+        Link="/Content/cxMeasurement/sdk.htm" />
+      <TocEntry
+        Title="Trigger Code - 18x"
+        Link="/Content/cxMeasurement/triggerCode18x.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CX Measurement"
+    Link="/Content/HT/cxMeasurementTOC.htm">
+    <TocEntry
+      Title="Master List of CX Measures"
+      Link="/Content/cxMeasurement/MasterList.htm" />
+    <TocEntry
+      Title="Cart/Checkout Abandon"
+      Link="/Content/cxMeasurement/cartCheckoutAbandon.htm" />
+    <TocEntry
+      Title="Contact Center"
+      Link="/Content/cxMeasurement/contactCenter.htm" />
+    <TocEntry
+      Title="Customer Relationship Measurement"
+      Link="/Content/cxMeasurement/crm.htm" />
+    <TocEntry
+      Title="cxCompare"
+      Link="/Content/cxMeasurement/cxCompare.htm" />
+    <TocEntry
+      Title="cxMeasure for Email"
+      Link="/Content/cxMeasurement/emailMeasure.htm" />
+    <TocEntry
+      Title="cxMeasure Purchase"
+      Link="/Content/cxMeasurement/purchase.htm" />
+    <TocEntry
+      Title="Employee Experience Measurement"
+      Link="/Content/cxMeasurement/employee.htm" />
+    <TocEntry
+      Title="ForeSee Feedback - New"
+      Link="/Content/cxMeasurement/feedback.htm" />
+    <TocEntry
+      Title="Functional Measure"
+      Link="/Content/cxMeasurement/functional.htm" />
+    <TocEntry
+      Title="Loyalty Program"
+      Link="/Content/cxMeasurement/loyalty.htm" />
+    <TocEntry
+      Title="Post-Visit"
+      Link="/Content/cxMeasurement/postVisit.htm" />
+    <TocEntry
+      Title="Site Feedback - Legacy"
+      Link="/Content/cxMeasurement/feedbackLegacy.htm" />
+    <TocEntry
+      Title="Social Media"
+      Link="/Content/cxMeasurement/socialMedia.htm" />
+    <TocEntry
+      Title="Store"
+      Link="/Content/cxMeasurement/store.htm" />
+    <TocEntry
+      Title="Miscellaneous"
+      Link="/Content/cxMeasurement/misc.htm">
+      <TocEntry
+        Title="Benchmarks"
+        Link="/Content/cxMeasurement/benchmarks.htm" />
+      <TocEntry
+        Title="Language Options"
+        Link="/Content/cxMeasurement/languageOptions.htm" />
+      <TocEntry
+        Title="Reporting"
+        Link="/Content/cxMeasurement/reporting.htm" />
+      <TocEntry
+        Title="Security"
+        Link="/Content/cxMeasurement/security.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Ratings and Reviews"
+    Link="/Content/cxMeasurement/ratingsAndReviews.htm"
+    StartSection="false" />
+  <TocEntry
+    Title="Integration - API"
+    Link="/Content/cxMeasurement/integrationAPI.htm" />
+  <TocEntry
+    Title="Integration - Respondent Level"
+    Link="/Content/cxMeasurement/integration.htm">
+    <TocEntry
+      Title="CPPs/EPPs"
+      Link="/Content/cxMeasurement/cppEpp.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Integration - Corporate Metrics"
+    Link="/Content/cxMeasurement/IntegrationCorpMetrics.htm" />
+  <TocEntry
+    Title="Replay"
+    Link="/Content/HT/ReplayTOC.htm">
+    <TocEntry
+      Title="About ForeSee Replay"
+      Link="/Content/Replay/cxReplay.htm" />
+    <TocEntry
+      Title="Create a Replay Project"
+      Link="/Content/Replay/create.htm" />
+    <TocEntry
+      Title="Web Based Player"
+      Link="/Content/Replay/player.htm" />
+    <TocEntry
+      Title="Heatmaps"
+      Link="/Content/Replay/heatMaps.htm" />
+    <TocEntry
+      Title="ForeSee Replay Security"
+      Link="/Content/Replay/cxReplaySecurity.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Case Management"
+    Link="/Content/HT/CaseMgmtTOC.htm">
+    <TocEntry
+      Title="About Case Management"
+      Link="/Content/CaseMgmt/about.htm"></TocEntry>
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/CaseMgmt/gettingStarted.htm">
+      <TocEntry
+        Title="Create an Automated Case"
+        Link="/Content/CaseMgmt/createAuto.htm" />
+      <TocEntry
+        Title="Create a Manual Case"
+        Link="/Content/CaseMgmt/createManual.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Managing Cases"
+      Link="/Content/CaseMgmt/ManageSection.htm">
+      <TocEntry
+        Title="Monitor Cases"
+        Link="/Content/CaseMgmt/monitorCase.htm" />
+      <TocEntry
+        Title="Using the Hierarchy Filter"
+        Link="/Content/CaseMgmt/hierarchyFilter.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Work on a Case"
+      Link="/Content/CaseMgmt/workCase.htm"></TocEntry>
+    <TocEntry
+      Title="Using the Date Picker"
+      Link="/Content/CaseMgmt/datePicker.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Text Analytics"
+    Link="/Content/HT/TextAnalyticsTOC.htm">
+    <TocEntry
+      Title="About Text Analytics"
+      Link="/Content/TextAnalytics/about.htm" />
+    <TocEntry
+      Title="Analyzing Data"
+      Link="/Content/TextAnalytics/analyzing.htm" />
+    <TocEntry
+      Title="Sentiment Analytics"
+      Link="/Content/cxMeasurement/sentimentAnalytics.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Glossary"
+    Link="/Content/HT/glossary.htm" />
+</CatapultToc>

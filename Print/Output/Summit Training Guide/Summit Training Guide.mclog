@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated Summit Training Guide.fltar" Date="2017-03-31T11:29:36.3802482-04:00">
+    <Messages>Compiling target Summit Training Guide...
+Checking Word version...
+Removing previously generated content...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Generating Glossary...
+Processing Page Layouts...
+Collecting source files...
+Processing source files...
+Processing topic: cover.htm
+Processing topic: printTOC.htm
+Processing topic: using.htm
+Processing topic: cx360.htm
+Processing topic: CaseMgmtTOC.htm
+Processing topic: about.htm
+Processing topic: createAuto.htm
+Processing topic: createManual.htm
+Processing topic: workCase.htm
+Processing topic: MeasuresDashboard.htm
+Processing topic: respondentDetails.htm
+Processing topic: TextAnalyticsTOC.htm
+Processing topic: about.htm
+Processing topic: analyzing.htm
+Processing topic: MobileApp.htm
+File can not be generated to MsWord output.
+Processing topic: FeedbackTOC.htm
+Processing topic: aboutSurveys.htm
+Processing topic: feedback.htm
+Processing topic: newSurvey.htm
+Processing topic: topics.htm
+Processing topic: configureSurvey.htm
+Processing topic: publishing.htm
+Processing topic: Alerts.htm
+Processing topic: surveyOff.htm
+Processing topic: viewingData.htm
+Processing topic: inPg.htm
+Generating Index...
+Generating final output...
+Patching links and page references...
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\cxSurveyTOC.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\ReplayTOC.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\touchpointsTOC.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\globalSettings.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\ManageSection.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\respondentDetails.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Replay\cxReplay.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\TextAnalytics\settings.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\hostedcode.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\skipLogic.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\manualLaunch.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\feedbackDashboard.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\inPg.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\datePicker.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\datePicker.htm. File may not be included in the output.
+Saving word output...
+Embedding images into document. This may take several minutes.
+Generated ../../../../../Print/Output/Summit Training Guide/SummitTrainingGuide.doc
+Saving result set...
+Output generated in 10 second(s).
+
+Done
+Saving log to "C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\Print\Output\Summit Training Guide\Summit Training Guide.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry File="../../../Content/Resources/PDFs/1602_Implementation_Guide-Survey_Invite_v1MR.pdf" Message="File can not be generated to MsWord output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="110012" />
+        <LogEntry File="../../../Content/cxSuite/cxSurveyTOC.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\cxSurveyTOC.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/cxSuite/ReplayTOC.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\ReplayTOC.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/cxSuite/touchpointsTOC.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\touchpointsTOC.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/cxSuite/globalSettings.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\globalSettings.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/CaseMgmt/ManageSection.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\ManageSection.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/cxSuite/respondentDetails.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\respondentDetails.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/Replay/cxReplay.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Replay\cxReplay.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/TextAnalytics/settings.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\TextAnalytics\settings.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/cxSuite/hostedcode.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\hostedcode.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/Feedback/skipLogic.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\skipLogic.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/Feedback/manualLaunch.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\manualLaunch.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/Feedback/feedbackDashboard.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\feedbackDashboard.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/inPg.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\inPg.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/CaseMgmt/datePicker.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\datePicker.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+        <LogEntry File="../../../Content/CaseMgmt/datePicker.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\datePicker.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Summit Training Guide" ErrorID="40017" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

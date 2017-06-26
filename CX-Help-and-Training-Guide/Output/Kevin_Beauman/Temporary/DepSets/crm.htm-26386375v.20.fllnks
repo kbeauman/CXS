@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Customer Relationship Measurement"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/crm.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/CRM_model.png" />
+    <Link
+      Url="Content/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/store.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Customer Relationship Measure Qualification Form.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Customer Relationship.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Customer Relationship Measure Training.pptx" />
+    <Link
+      Url="http://www.jdpower.com/content/jd-power-voice-of-experience-vox" />
+    <Link
+      Url="http://www.marketstrategies.com/en/services/customer-experience-research.aspx" />
+    <Link
+      Url="http://www.maritz.com/customer-experience-technology-solutions" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/salesforce-integration" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/crm.htm#WHAT" />
+    <Link
+      Url="Content/crm.htm#WHY" />
+    <Link
+      Url="Content/crm.htm#TARGET" />
+    <Link
+      Url="Content/crm.htm#ACTIONAB" />
+    <Link
+      Url="Content/crm.htm#COMMON" />
+    <Link
+      Url="Content/crm.htm#COMMON2" />
+    <Link
+      Url="Content/crm.htm#MODEL" />
+    <Link
+      Url="Content/crm.htm#DEPLOYME" />
+    <Link
+      Url="Content/crm.htm#LANGUAGE" />
+    <Link
+      Url="Content/crm.htm#SURVEY" />
+    <Link
+      Url="Content/crm.htm#INCLUDED" />
+    <Link
+      Url="Content/crm.htm#GENERAL" />
+    <Link
+      Url="Content/crm.htm#WHO" />
+    <Link
+      Url="Content/crm.htm#IMPORTAN" />
+    <Link
+      Url="Content/crm.htm#COMPETIT" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/CRM_model.png" />
+    <Link
+      Url="Content/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/store.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Customer Relationship Measure Qualification Form.docx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Customer Relationship.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Customer Relationship Measure Training.pptx" />
+    <Link
+      Url="http://www.jdpower.com/content/jd-power-voice-of-experience-vox" />
+    <Link
+      Url="http://www.marketstrategies.com/en/services/customer-experience-research.aspx" />
+    <Link
+      Url="http://www.maritz.com/customer-experience-technology-solutions" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/salesforce-integration?ut_source=header" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="COMMON" />
+    <Anchor
+      Name="COMMON2" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

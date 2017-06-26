@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/cartCheckoutAbandon.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Site Management Model - Web or Tablet.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Site Management Model - Mobile.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Site Management Model - App.xlsx" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="http://www.qualtrics.com/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#WHAT" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#WHY" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#MODEL" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#TARGET" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#ACTIONAB" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#DEPLOYME" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#LANGUAGE" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#COMMON" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#INCLUDED" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#GENERAL" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#COMPETIT" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#WHO" />
+    <Link
+      Url="Content/cartCheckoutAbandon.htm#SURVEY" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Site Management Model - Web or Tablet.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Site Management Model - Mobile.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Site Management Model - App.xlsx" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="http://www.qualtrics.com/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="COMMON" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="COMPETIT" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="SURVEY" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

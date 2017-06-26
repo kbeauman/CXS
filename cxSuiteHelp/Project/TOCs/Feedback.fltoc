@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/Feedback/gettingStarted.htm">
+    <TocEntry
+      Title="About Feedback Surveys"
+      Link="/Content/Feedback/aboutSurveys.htm"></TocEntry>
+    <TocEntry
+      Title="Topics"
+      Link="/Content/Feedback/topics.htm" />
+    <TocEntry
+      Title="Creating a Feedback Survey"
+      Link="/Content/Feedback/newSurvey.htm" />
+    <TocEntry
+      Title="Configuring a Survey"
+      Link="/Content/Feedback/configureSurvey.htm"></TocEntry>
+    <TocEntry
+      Title="Manual Launch of Survey"
+      Link="/Content/Feedback/manualLaunch.htm" />
+    <TocEntry
+      Title="Publishing a Survey"
+      Link="/Content/Feedback/publishing.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Analytics"
+    Link="/Content/Feedback/feedbackDashboard.htm"></TocEntry>
+  <TocEntry
+    Title="In-Page Reporting"
+    Link="/Content/Feedback/inPg.htm" />
+  <TocEntry
+    Title="Reports"></TocEntry>
+  <TocEntry
+    Title="Alerts"
+    Link="/Content/Feedback/Alerts.htm" />
+  <TocEntry
+    Title="FAQ's"
+    Link="/Content/cxSuite/faq.htm" />
+  <TocEntry
+    Title="Release Notes" />
+</CatapultToc>

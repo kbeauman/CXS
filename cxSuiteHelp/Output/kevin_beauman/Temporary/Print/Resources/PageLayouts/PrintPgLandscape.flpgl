@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="Default.PrintOnly" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Name="Normal" Orientation="landscape">
+        <Frame X="-146px" Y="-97px" Width="11in" Height="1in" Flow="header" BackgroundType="Solid" Anchors="" Right="-94px" Bottom="625px" BackgroundRepeat="no-repeat" BackgroundImage="../Images/corner.jpg" BackgroundPositionX="left" BackgroundPositionY="top" BackgroundColor="transparent" />
+        <Frame X="-145px" Y="654px" Width="1059px" Height="69px" Flow="footer" Right="-98px" Bottom="-99px" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#b7c0cc" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>© 2016 ForeSee, all rights reserved <MadCap:variable xhtml:name="System.PageNumber" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

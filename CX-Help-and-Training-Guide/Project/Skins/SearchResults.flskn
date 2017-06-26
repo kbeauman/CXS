@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="Component"
+  Comment="HTML5 Search Results skin"
+  ComponentType="SearchResults">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Heading">
+        <Properties>
+          <Property
+            Name="Color">#222b3c</Property>
+          <Property
+            Name="BorderBottom">solid 0px #ebebeb</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link">
+        <Properties>
+          <Property
+            Name="Color">#1cbdff</Property>
+          <Property
+            Name="TextDecoration">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (active)">
+        <Properties>
+          <Property
+            Name="Color">#009fea</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (focus)">
+        <Properties>
+          <Property
+            Name="Color">#009fea</Property>
+          <Property
+            Name="TextDecoration">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (hover)">
+        <Properties>
+          <Property
+            Name="Color">#007bca</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Link (visited)">
+        <Properties>
+          <Property
+            Name="Color">#007bca</Property>
+          <Property
+            Name="TextDecoration">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Path">
+        <Properties>
+          <Property
+            Name="Color">#3a475b</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Result Abstract">
+        <Properties>
+          <Property
+            Name="Color">#222b3c</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Glossary Term Link (focus)">
+        <Properties>
+          <Property
+            Name="TextDecoration">none</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Glossary Term Link (hover)">
+        <Properties>
+          <Property
+            Name="TextDecoration">underline</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

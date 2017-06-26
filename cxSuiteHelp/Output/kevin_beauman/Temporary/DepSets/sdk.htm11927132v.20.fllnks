@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="SDK Deployment"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/supported-platforms/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/trigger/invite-modes/" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/supported-platforms/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/trigger/invite-modes/" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="iOS" />
+    <Anchor
+      Name="ANDROID" />
+    <Anchor
+      Name="ON-EXIT" />
+    <Anchor
+      Name="SUPPORT" />
+    <Anchor
+      Name="EXCLUSIO" />
+    <Anchor
+      Name="COOKIES" />
+    <Anchor
+      Name="SAMPLING" />
+    <Anchor
+      Name="EVENT" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Web Site" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

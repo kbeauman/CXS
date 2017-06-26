@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home"
+  FileTitle="CX Suite Help Home"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/bootstrapCarousel.htm" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/cxSuite/using.htm" />
+    <Link
+      Url="Content/cxSuite/reports.htm" />
+    <Link
+      Url="Content/cxSuite/Alerts.htm" />
+    <Link
+      Url="Content/cxSuite/releaseNotes.htm" />
+    <Link
+      Url="Content/cxSuite/vids.htm" />
+    <Link
+      Url="../../Feedback/Default.htm" />
+    <Link
+      Url="../../Replay/Default.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Resources/Carousel/bootstrapCarousel.htm" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/cxSuite/using.htm" />
+    <Link
+      Url="Content/cxSuite/reports.htm" />
+    <Link
+      Url="Content/cxSuite/Alerts.htm" />
+    <Link
+      Url="Content/cxSuite/releaseNotes.htm" />
+    <Link
+      Url="Content/cxSuite/vids.htm" />
+    <Link
+      Url="../../Feedback/Default.htm" />
+    <Link
+      Url="../../Replay/Default.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

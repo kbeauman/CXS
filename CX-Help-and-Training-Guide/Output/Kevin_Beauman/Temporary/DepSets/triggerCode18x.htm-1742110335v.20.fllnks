@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/triggerCode18x.htm" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/alternate-directory-structures/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/using-tag-managers/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/flash-and-dhtml/" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/cookie-information" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam5.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam6.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays2.flsnp" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/" />
+    <Link
+      Url="https://www.quora.com/What-is-the-difference-between-first-and-third-party-cookies" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/triggerCode18x.htm#WHAT" />
+    <Link
+      Url="Content/triggerCode18x.htm#HOW" />
+    <Link
+      Url="Content/triggerCode18x.htm#WHAT2" />
+    <Link
+      Url="Content/triggerCode18x.htm#GENERAL" />
+    <Link
+      Url="Content/triggerCode18x.htm#EXCLUSIO" />
+    <Link
+      Url="Content/triggerCode18x.htm#COOKIES" />
+    <Link
+      Url="Content/triggerCode18x.htm#PINNING" />
+    <Link
+      Url="Content/triggerCode18x.htm#EVENT" />
+    <Link
+      Url="Content/triggerCode18x.htm#SAMPLING" />
+    <Link
+      Url="Content/triggerCode18x.htm#POOLING" />
+    <Link
+      Url="Content/triggerCode18x.htm#REPEAT" />
+    <Link
+      Url="Content/triggerCode18x.htm#SUPPORTE" />
+    <Link
+      Url="Content/triggerCode18x.htm#IMPORTAN" />
+    <Link
+      Url="Content/triggerCode18x.htm#TRIGGER" />
+    <Link
+      Url="Content/triggerCode18x.htm#FORESEE" />
+    <Link
+      Url="Content/triggerCode18x.htm#PINNING2" />
+    <Link
+      Url="Content/triggerCode18x.htm#EVENT2" />
+    <Link
+      Url="Content/triggerCode18x.htm#EXCLUSIO2" />
+    <Link
+      Url="Content/triggerCode18x.htm#COOKIES2" />
+    <Link
+      Url="Content/triggerCode18x.htm#SAMPLING2" />
+    <Link
+      Url="Content/triggerCode18x.htm#POOLING2" />
+    <Link
+      Url="Content/triggerCode18x.htm#REPEAT2" />
+    <Link
+      Url="Content/triggerCode18x.htm#SUPPORTE2" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/alternate-directory-structures/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/using-tag-managers/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/flash-and-dhtml/" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/cookie-information" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam5.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam6.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays2.flsnp" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/" />
+    <Link
+      Url="https://www.quora.com/What-is-the-difference-between-first-and-third-party-cookies" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="EXCLUSIO" />
+    <Anchor
+      Name="COOKIES" />
+    <Anchor
+      Name="PINNING" />
+    <Anchor
+      Name="EVENT" />
+    <Anchor
+      Name="SAMPLING" />
+    <Anchor
+      Name="POOLING" />
+    <Anchor
+      Name="REPEAT" />
+    <Anchor
+      Name="SUPPORTE" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="TRIGGER" />
+    <Anchor
+      Name="FORESEE" />
+    <Anchor
+      Name="PINNING2" />
+    <Anchor
+      Name="EVENT2" />
+    <Anchor
+      Name="EXCLUSIO2" />
+    <Anchor
+      Name="COOKIES2" />
+    <Anchor
+      Name="SAMPLING2" />
+    <Anchor
+      Name="POOLING2" />
+    <Anchor
+      Name="REPEAT2" />
+    <Anchor
+      Name="SUPPORTE2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

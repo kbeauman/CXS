@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Case Management Help Home"
+    Link="/Content/CaseMgmt/home.htm" />
+  <TocEntry
+    Title="About Case Management"
+    Link="/Content/CaseMgmt/about.htm" />
+  <TocEntry
+    Title="Using Case Management"
+    Link="/Content/CaseMgmt/using.htm" />
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/CaseMgmt/gettingStarted.htm">
+    <TocEntry
+      Title="Create An Automated Case"
+      Link="/Content/CaseMgmt/createAuto.htm" />
+    <TocEntry
+      Title="Create A Manual Case"
+      Link="/Content/CaseMgmt/createManual.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Managing Cases"
+    Link="/Content/CaseMgmt/ManageSection.htm">
+    <TocEntry
+      Title="Monitor Cases"
+      Link="/Content/CaseMgmt/monitorCase.htm"></TocEntry>
+    <TocEntry
+      Title="Assigning A Case"
+      Link="/Content/CaseMgmt/changeUser.htm" />
+    <TocEntry
+      Title="Filter Views by Hierarchy Level"
+      Link="/Content/CaseMgmt/filterViews.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Work On A Case"
+    Link="/Content/CaseMgmt/workCase.htm">
+    <TocEntry
+      Title="Using Client-Specific Email Templates"
+      Link="/Content/CaseMgmt/emailTemplates.htm" />
+    <TocEntry
+      Title="Close A Case"
+      Link="/Content/CaseMgmt/closeCase.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Release Notes"
+    Link="/Content/CaseMgmt/releaseNotes.htm" />
+</CatapultToc>

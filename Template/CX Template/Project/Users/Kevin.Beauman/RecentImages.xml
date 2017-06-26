@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/cxMeasurementTile.png" />
+    <Url Source="Resources/Images/cxSuiteTile.png" />
+    <Url Source="Resources/Images/WhatsNewTile.png" />
+    <Url Source="Resources/Images/ForeSee_logo_wht_40.png" />
+    <Url Source="../../../Graphics/SearchLabel.png" />
+    <Url Source="../../../Graphics/closeWht.png" />
+    <Url Source="../../../Graphics/openWht.png" />
+    <Url Source="../../../Graphics/open.png" />
+    <Url Source="../../../Graphics/close.png" />
+    <Url Source="../../../Graphics/ForeSee_logo_wht_40.png" />
+    <Url Source="../../../Graphics/SearchLabel.png" />
+    <Url Source="../../../Graphics/breadcrumbBorder.png" />
+    <Url Source="../../../Graphics/heading.png" />
+    <Url Source="../../../Graphics/SearchLabel.png" />
+</UrlList>

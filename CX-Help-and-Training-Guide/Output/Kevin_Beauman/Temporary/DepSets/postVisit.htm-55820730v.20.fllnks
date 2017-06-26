@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Post-Visit"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/postVisit.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PostVisitModel.png" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Web Post-Visit Shopping Experience Model (formerly Multichannel).xlsx" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/Resources/Images/PostVisitDropDown.jpg" />
+    <Link
+      Url="Content/Resources/Images/PostVisitFilter.jpg" />
+    <Link
+      Url="Content/Resources/Images/PostVisitScenarios.jpg" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Post-Visit Measure Deck.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/L'Oreal.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/SuccessStories.aspx" />
+    <Link
+      Url="http://www.medallia.com/" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/postVisit.htm#WHAT" />
+    <Link
+      Url="Content/postVisit.htm#WHY" />
+    <Link
+      Url="Content/postVisit.htm#TARGET" />
+    <Link
+      Url="Content/postVisit.htm#ACTIONAB" />
+    <Link
+      Url="Content/postVisit.htm#CQs" />
+    <Link
+      Url="Content/postVisit.htm#CPPs" />
+    <Link
+      Url="Content/postVisit.htm#MODEL" />
+    <Link
+      Url="Content/postVisit.htm#DEPLOYME" />
+    <Link
+      Url="Content/postVisit.htm#LANGUAGE" />
+    <Link
+      Url="Content/postVisit.htm#SURVEY" />
+    <Link
+      Url="Content/postVisit.htm#INCLUDED" />
+    <Link
+      Url="Content/postVisit.htm#GENERAL" />
+    <Link
+      Url="Content/postVisit.htm#INITIATI" />
+    <Link
+      Url="Content/postVisit.htm#IMPORTAN" />
+    <Link
+      Url="Content/postVisit.htm#COMPETIT2" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PostVisitModel.png" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Web Post-Visit Shopping Experience Model (formerly Multichannel).xlsx" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/Resources/Images/PostVisitDropDown.jpg" />
+    <Link
+      Url="Content/Resources/Images/PostVisitFilter.jpg" />
+    <Link
+      Url="Content/Resources/Images/PostVisitScenarios.jpg" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Post-Visit Measure Deck.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/L'Oreal.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/SuccessStories.aspx" />
+    <Link
+      Url="http://www.medallia.com/" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="CQs" />
+    <Anchor
+      Name="CPPs" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="INITIATI" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

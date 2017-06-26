@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/cxMeasurement/productsMeasures.htm" />
+    <Link
+      Url="Content/cxMeasurement/cartCheckoutAbandon.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/cxMeasurement/competitor.htm" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm" />
+    <Link
+      Url="Content/cxMeasurement/purchase.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/cxMeasurement/feedback.htm" />
+    <Link
+      Url="Content/cxMeasurement/functional.htm" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/cxMeasurement/digitalContribution.htm" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/cxMeasurement/deploymentOptions.htm" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm" />
+    <Link
+      Url="Content/cxMeasurement/panel.htm" />
+    <Link
+      Url="Content/cxMeasurement/pos.htm" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm" />
+    <Link
+      Url="Content/cxMeasurement/triggerCode.htm" />
+    <Link
+      Url="Content/cxMeasurement/apps.htm" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm" />
+    <Link
+      Url="Content/cxMeasurement/IntegrationCorpMetrics.htm" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm" />
+    <Link
+      Url="Content/cxMeasurement/replay.htm" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/misc.htm" />
+    <Link
+      Url="Content/cxMeasurement/benchmarks.htm" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm" />
+    <Link
+      Url="Content/cxMeasurement/security.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

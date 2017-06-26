@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/../Print/Output/Summit Training Guide/SummitTrainingGuide.doc"
+  BuildVersion="12.0.5991.25330">
+  <Files>
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/corner.jpg" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/returnButton.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/SettingsIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/movieIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/menuIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/MobileIcon2016.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/fbBadgeExample.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/pcIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/tabletIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/mobileIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/ExpandIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/requiredIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/Pencil.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/fbBadge.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/unPubIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/trash.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/validIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/analyzeSurveyIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/viewSurveyIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/seeRespondentsIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/nCountIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/aveStarRating.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Summit Training Guide/Resources/Images/downloadIcon.png" />
+    <Url
+      Source="../Print/Output/Summit Training Guide/SummitTrainingGuide.doc" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

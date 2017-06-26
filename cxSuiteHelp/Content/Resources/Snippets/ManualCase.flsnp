@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>Manually created cases are not associated with a <span class="wintitle">ForeSee CX Measure</span>, but must be tied to a <span class="wintitle">Hierarchy</span> level of a measure in order to be reported in <span class="wintitle">CX Suite</span>. Since <span class="wintitle">Hierarchy</span> is an add-on service, measures without hierarchy association must be replaced with a new measure. There is no loss of historical data. </body>
+</html>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Loyalty Program"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/LoyaltyProgramModel.png" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/cxMeasurement/triggerCode18x.htm" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm" />
+    <Link
+      Url="Content/cxMeasurement/panel.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Loyalty Program Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Loyalty Program IPM Deck.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/How to Meaningfully Measure Customer Loyalty Programs to Drive Engagement.pdf" />
+    <Link
+      Url="http://www.kobie.com/our-services/program-management/" />
+    <Link
+      Url="https://www.aimia.com/en/capabilities/consumers/customer-loyalty-management.html" />
+    <Link
+      Url="http://www.jdpower.com/content/jd-power-voice-of-experience-vox" />
+    <Link
+      Url="http://www.marketstrategies.com/en/services/customer-experience-research.aspx" />
+    <Link
+      Url="http://www.maritz.com/customer-experience-technology-solutions" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#CQs" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#CPPs" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#MODEL" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#SURVEY" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm#COMPETIT2" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/LoyaltyProgramModel.png" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/cxMeasurement/triggerCode18x.htm" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm" />
+    <Link
+      Url="Content/cxMeasurement/panel.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Loyalty Program Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Loyalty Program IPM Deck.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/How to Meaningfully Measure Customer Loyalty Programs to Drive Engagement.pdf" />
+    <Link
+      Url="http://www.kobie.com/our-services/program-management/" />
+    <Link
+      Url="https://www.aimia.com/en/capabilities/consumers/customer-loyalty-management.html" />
+    <Link
+      Url="http://www.jdpower.com/content/jd-power-voice-of-experience-vox" />
+    <Link
+      Url="http://www.marketstrategies.com/en/services/customer-experience-research.aspx" />
+    <Link
+      Url="http://www.maritz.com/customer-experience-technology-solutions" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="CQs" />
+    <Anchor
+      Name="CPPs" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

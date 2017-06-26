@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/reporting.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/reporting.htm#AAP" />
+    <Link
+      Url="Content/reporting.htm#HOW" />
+    <Link
+      Url="Content/reporting.htm#AVAILABL" />
+    <Link
+      Url="Content/reporting.htm#Comparis" />
+    <Link
+      Url="Content/reporting.htm#Distribu" />
+    <Link
+      Url="Content/reporting.htm#Open-End" />
+    <Link
+      Url="Content/reporting.htm#Summary" />
+    <Link
+      Url="Content/reporting.htm#Extract" />
+    <Link
+      Url="Content/reporting.htm#GENERAL" />
+    <Link
+      Url="Content/reporting.htm#REPORTIN" />
+    <Link
+      Url="Content/reporting.htm#EXECUTIV" />
+    <Link
+      Url="Content/reporting.htm#REPORTIN2" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="AAP" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="AVAILABL" />
+    <Anchor
+      Name="Comparis" />
+    <Anchor
+      Name="Distribu" />
+    <Anchor
+      Name="Open-End" />
+    <Anchor
+      Name="Summary" />
+    <Anchor
+      Name="Extract" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="REPORTIN" />
+    <Anchor
+      Name="EXECUTIV" />
+    <Anchor
+      Name="REPORTIN2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

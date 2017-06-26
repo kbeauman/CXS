@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="2182" MadCap:lastWidth="800" class="Topic">
+    <head><title>IVR/IVA</title>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>IVR/IVA</h1>
+        <p>An IVR/IVA survey is a pre-recorded automated survey in which the customer responds to questions either by voice (IVA) or by typing numerical responses using the telephone keypad (IVR).</p>
+        <ul>
+            <li>IVR = Interactive Voice Response</li>
+            <li>IVA = Intelligent Voice Automation</li>
+        </ul>
+        <h3>The Two Sides Of IVR/IVA</h3>
+        <ul>
+            <li>Deployment<ul><li>How we deploy IVR/IVA to the customer and how they are able to hear it:<ul><li>IVR - Human recorded speech.</li><li>IVA - Computer recorded speech.</li></ul></li></ul></li>
+            <li>Capture<ul><li>How the respondent is able to respond:<ul><li>IVR - Keypad capture.</li><li>IVA - Voice recognition capture.</li></ul></li></ul></li>
+        </ul>
+        <h2><a name="WHICH"></a>Which Touchpoints Use It?</h2>
+        <ul>
+            <li>Contact Center<ul><li>Contact Centers use IVR to deploy surveys after the customer has finished interacting with the customer service representative.</li></ul></li>
+            <li>In-Location Experiences - Store<ul><li>Stores use IVR to deploy surveys from POS receipts.</li></ul></li>
+        </ul>
+        <h2><a name="TYPES"></a>Types Of IVR/IVA Deployments</h2>
+        <ul>
+            <li><b>Inbound</b> - Customer calls to take the survey from a store receipt.</li>
+            <li><b>Call Transfer</b> - Customers are invited to take the survey at the start of a support call and transferred to the prerecorded survey.</li>
+            <li><b>Dial-Back IVR</b> - A list of customer phone numbers who have contacted the call center are automatically dialed and when the call is accepted the IVR survey begins. </li>
+        </ul>
+        <h2><a name="SURVEY"></a>Survey Minutes</h2>
+        <p><b>Survey Minutes</b> are considered to be the total time that any respondent is in the voice portion of the capture, including open-end comments. <span class="wintitle">Survey Minute</span> costs are contractually estimated and managed based on the number of respondents and the time it takes to complete the survey.</p>
+        <h2><a name="QUESTION"></a>Question Changes</h2>
+        <p><b>Question Changes</b> - Alteration and implementation of additional questions or wording changes as required:</p>
+        <ul>
+            <li>Customer/Foresee to provide question script.</li>
+            <li>Utilize existing voice talent options.</li>
+            <li>Modifications to the survey after script approval is given and voice recording is completed requires a per question change fee.</li>
+        </ul>
+        <h2><a name="TRANSCRI"></a>Transcriptions</h2>
+        <p><b>Transcriptions</b> - Transcription of open-ended comments into text and loading into Foresee portal:</p>
+        <ul>
+            <li>Includes hosting of WAV file for indefinite amount of time.</li>
+            <li>Transcription of open end comments is available roughly two days after survey completion.</li>
+        </ul>
+        <h2><a name="IVR2"></a>IVR Alerting</h2>
+        <p>A standard IVR alert configuration includes up to three alert criteria and a single distribution list for each alert criteria. If multiple parties are to receive alerts, we prefer the client provides a single <span class="wintitle">Group Distribution List</span> for each alert trigger and the client modify inclusion/exclusion within that group on the client side.</p>
+        <div class="note">If the client has a PSTN telephony system, then the only variable that can be passed in the alert is the Caller ANI (caller's phone number). All other information which the client wants regarding the specific caller/respondent must be matched up on their end using the Caller ANI.</div>
+        <h2><a name="GENERAL"></a>General Information</h2>
+        <ul>
+            <li>Preferred maximum survey length be 12 questions.</li>
+            <li>We now have the capability to include more than one open-end response into a single IVR survey.</li>
+            <li>IVR has only one model question per element and responses are only on a 1-9 scale, 0 as Don’t Know for element questions only.</li>
+        </ul>
+        <h2><a name="CONTACT"></a>Contact Center Specific Information</h2>
+        <ul>
+            <li>Use of this option assumes the client will manage the call prompting/invitation process within their IVR system - typically through a vector prompt or telephony switch.</li>
+            <li>Requires that agent be able to hang up or transfer call manually. </li>
+            <li>Customer must be able to support VDN scripting or vector routing to direct call to IVR survey application.</li>
+            <li>Must be able to pass us agent ID through one of the following options:<ul><li>PSTN = We can capture caller ID (or client can replace that field with Agent ID) only. If Caller ID, client must be able to match on that ID and append Agent ID as part of EXDL Integration process.</li><li>SIP = We can capture much more data with call transfer. This requires unique implementation and additional costs per client.</li><li>MPLS = We can capture much more data with call transfer. Requires unique implementation and additional costs per client.  Much more expensive to implement and is not recommended.</li></ul></li>
+        </ul>
+        <h2><a name="STORE"></a>In-Location - Store Specific Information</h2>
+        <ul>
+            <li>Client prints both the URL and TFN on the receipt.</li>
+            <li>Adjustments may be needed to control sample sizes/costs once live (i.e., reduction in the number of receipts including IVR options).</li>
+        </ul>
+        <h2><a name="DEPLOYME"></a>DEPLOYMENT STATISTICS</h2>
+        <ul>
+            <li><b>IVR Acceptance rates</b> - 20-60% (Vary significantly based on audience being targeted and length/type of call).</li>
+            <li><b>IVR Completion rates</b> - 85-95%</li>
+        </ul>
+    </body>
+</html>

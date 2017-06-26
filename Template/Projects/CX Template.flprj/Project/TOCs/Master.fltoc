@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Home"
+    Link="/Content/Template/home.htm" />
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/Template/gettingStarted.htm" />
+  <TocEntry
+    Title="What's New"
+    Link="/Content/Template/whatsNew.htm">
+    <TocEntry
+      Title="Release Notes"
+      Link="/Content/Template/releaseNotes.htm" />
+    <TocEntry
+      Title="System &amp; Release Maintenance"
+      Link="/Content/Template/ReleaseCalendar.htm" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Sentiment Analytics Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Sentiment Analytics IUM Deck.pptx" />
+    <Link
+      Url="https://docs.google.com/presentation/d/1InjxxL8fB4OlqvCsCpBGagJdxWxD5hqpvtR6S9T79V4/edit" />
+    <Link
+      Url="https://docs.google.com/presentation/d/1_MFVRoiwqsrrL0eIDYuM8MSaMQltRX5QoF413ZahNsw/edit" />
+    <Link
+      Url="https://drive.google.com/a/answers.com/file/d/0Bzh28toV4M94dEZ3a1JGd3J6WmM/view" />
+    <Link
+      Url="http://www.medallia.com/text-analytics/" />
+    <Link
+      Url="http://www.inmoment.com/news/inmoment-introduces-global-text-analytics-and-cx-analyst-tool/" />
+    <Link
+      Url="https://www.smg.com/technologies/text-analytics" />
+    <Link
+      Url="http://go.clarabridge.com/Google-Guide-Truth-about-Text-Analytics.html" />
+    <Link
+      Url="http://www.alchemyapi.com/api/sentiment-analysis" />
+    <Link
+      Url="http://www.lexalytics.com/technical-info/sentiment-analysis" />
+    <Link
+      Url="http://www.sas.com/en_us/offers/sem/text-analytics-2277253/overview.html" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm#COMPETIT2" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Sentiment Analytics Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Sentiment Analytics IUM Deck.pptx" />
+    <Link
+      Url="https://docs.google.com/presentation/d/1InjxxL8fB4OlqvCsCpBGagJdxWxD5hqpvtR6S9T79V4/edit" />
+    <Link
+      Url="https://docs.google.com/presentation/d/1_MFVRoiwqsrrL0eIDYuM8MSaMQltRX5QoF413ZahNsw/edit" />
+    <Link
+      Url="https://drive.google.com/a/answers.com/file/d/0Bzh28toV4M94dEZ3a1JGd3J6WmM/view" />
+    <Link
+      Url="http://www.medallia.com/text-analytics/" />
+    <Link
+      Url="http://www.inmoment.com/news/inmoment-introduces-global-text-analytics-and-cx-analyst-tool/" />
+    <Link
+      Url="https://www.smg.com/technologies/text-analytics" />
+    <Link
+      Url="http://go.clarabridge.com/Google-Guide-Truth-about-Text-Analytics.html?utm_source=AdWords&amp;utm_medium=cpc&amp;utm_campaign=US-Search-Text-Analytics&amp;utm_term=text%20analytics&amp;gclid=CPbzxJrJ-cgCFZOBaQodqeMJsw" />
+    <Link
+      Url="http://www.alchemyapi.com/api/sentiment-analysis" />
+    <Link
+      Url="http://www.lexalytics.com/technical-info/sentiment-analysis" />
+    <Link
+      Url="http://www.sas.com/en_us/offers/sem/text-analytics-2277253/overview.html?gclid=CIjEi6HJ-cgCFQGnaQodbNcIOQ&amp;keyword=text%20analytics&amp;matchtype=p" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="cxMeasure for Email"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Blind3.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="http://www.medallia.com/" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="http://www.qualtrics.com/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/marketing-surveys/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Email Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/EmailSuccessStories.aspx" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Blind3.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#ACTIONAB" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#COMMON" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#COMMON2" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#MODEL" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#TYPES" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#SURVEY" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#COMPETIT" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm#IMPORTAN" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="http://www.medallia.com/" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="http://www.qualtrics.com/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/marketing-surveys/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Email Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/EmailSuccessStories.aspx" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="COMMON" />
+    <Anchor
+      Name="COMMON2" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="TYPES" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="COMPETIT" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Blind3.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

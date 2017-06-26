@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="CX Suite Help &amp; Training Guide"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  OutputFolder="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\Print\Output\Glossary"
+  EmbedImages="true"
+  MasterPage="/Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp"
+  DefaultUrl="/Content/Help_Home.htm"
+  Skin="/Project/Skins/Webcollage.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/CX_Styles_Print.css"
+  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  ChunkSearchDatabase="false"
+  ChunkIndex="false"
+  UseLocalBuildSettings="true"
+  IgnoredCompilerWarnings="20037,20036"
+  MasterPageLayout="/Content/Resources/PageLayouts/Content.flpgl"
+  OutputFile="cxSuiteHelpGlossary"
+  PatchHeadingLevels="false"
+  MasterToc="/Project/TOCs/Glossary.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <Destinations></Destinations>
+  <DocumentProperties
+    Title="Content Publisher Help" />
+</CatapultTarget>

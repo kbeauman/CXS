@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/cxSuite/cover.htm" />
+    <Link
+      Url="Content/cxSuite/printTOC.htm" />
+    <Link
+      Url="Content/cxSuite/home.htm" />
+    <Link
+      Url="Content/cxSuite/whatsNew.htm" />
+    <Link
+      Url="Content/cxSuite/releaseNotes.htm" />
+    <Link
+      Url="Content/cxSuite/ReleaseCalendar.htm" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/cxSuite/using.htm" />
+    <Link
+      Url="Content/cxSuite/collectingVOCdata.htm" />
+    <Link
+      Url="Content/cxSuite/cx360.htm" />
+    <Link
+      Url="Content/cxSuite/surveyTOC.htm" />
+    <Link
+      Url="Content/cxSuite/aboutSurveys.htm" />
+    <Link
+      Url="Content/cxSuite/cxSurveyTOC.htm" />
+    <Link
+      Url="Content/cxSuite/MeasuresDashboard.htm" />
+    <Link
+      Url="Content/cxMeasurement/deploymentOptions.htm" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/cxMeasurement/ivr.htm" />
+    <Link
+      Url="Content/cxMeasurement/panel.htm" />
+    <Link
+      Url="Content/cxMeasurement/pos.htm" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm" />
+    <Link
+      Url="Content/cxMeasurement/triggerCode.htm" />
+    <Link
+      Url="Content/cxSuite/touchpointsTOC.htm" />
+    <Link
+      Url="Content/cxMeasurement/MasterList.htm" />
+    <Link
+      Url="Content/cxMeasurement/cartCheckoutAbandon.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/cxMeasurement/competitor.htm" />
+    <Link
+      Url="Content/cxMeasurement/emailMeasure.htm" />
+    <Link
+      Url="Content/cxMeasurement/purchase.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/cxMeasurement/feedback.htm" />
+    <Link
+      Url="Content/cxMeasurement/functional.htm" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/cxMeasurement/digitalContribution.htm" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="Content/cxSuite/FeedbackTOC.htm" />
+    <Link
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/skipLogic.htm" />
+    <Link
+      Url="Content/Feedback/topics.htm" />
+    <Link
+      Url="Content/cxSuite/deployFeedbackTOC.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/manualLaunch.htm" />
+    <Link
+      Url="Content/Feedback/surveyOff.htm" />
+    <Link
+      Url="Content/Feedback/feedbackDashboard.htm" />
+    <Link
+      Url="Content/Feedback/viewingData.htm" />
+    <Link
+      Url="Content/Feedback/inPg.htm" />
+    <Link
+      Url="Content/Feedback/Alerts.htm" />
+    <Link
+      Url="Content/cxSuite/respondentDetails.htm" />
+    <Link
+      Url="Content/cxSuite/MobileApp.htm" />
+    <Link
+      Url="Content/cxSuite/CaseMgmtTOC.htm" />
+    <Link
+      Url="Content/CaseMgmt/about.htm" />
+    <Link
+      Url="Content/CaseMgmt/gettingStarted.htm" />
+    <Link
+      Url="Content/CaseMgmt/createAuto.htm" />
+    <Link
+      Url="Content/CaseMgmt/createManual.htm" />
+    <Link
+      Url="Content/CaseMgmt/ManageSection.htm" />
+    <Link
+      Url="Content/CaseMgmt/monitorCase.htm" />
+    <Link
+      Url="Content/CaseMgmt/datePicker.htm" />
+    <Link
+      Url="Content/CaseMgmt/hierarchyFilter.htm" />
+    <Link
+      Url="Content/CaseMgmt/workCase.htm" />
+    <Link
+      Url="Content/cxSuite/TextAnalyticsTOC.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
+      Url="Content/cxSuite/integrationTOC.htm" />
+    <Link
+      Url="Content/cxMeasurement/integrationAPI.htm" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm" />
+    <Link
+      Url="Content/cxMeasurement/AboutRespondentLevelIntegration.htm" />
+    <Link
+      Url="Content/cxMeasurement/passingData.htm" />
+    <Link
+      Url="Content/cxMeasurement/googleUniversalAnalyticsIntegration.htm" />
+    <Link
+      Url="Content/cxMeasurement/adobeMarketingCloudIntegration.htm" />
+    <Link
+      Url="Content/cxMeasurement/cppEpp.htm" />
+    <Link
+      Url="Content/cxSuite/globalSettings.htm" />
+    <Link
+      Url="Content/cxSuite/aboutGlobalSettings.htm" />
+    <Link
+      Url="Content/cxSuite/appsTOC.htm" />
+    <Link
+      Url="Content/cxSuite/ReplayTOC.htm" />
+    <Link
+      Url="Content/Replay/cxReplay.htm" />
+    <Link
+      Url="Content/Replay/settings.htm" />
+    <Link
+      Url="Content/Replay/player.htm" />
+    <Link
+      Url="Content/Replay/heatMaps.htm" />
+    <Link
+      Url="Content/Replay/cxReplaySecurity.htm" />
+    <Link
+      Url="Content/cxSuite/integrateTOC.htm" />
+    <Link
+      Url="Content/cxSuite/hostedcode.htm" />
+    <Link
+      Url="Content/cxSuite/glossary.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+    <Condition
+      Tag="Default.ScreenOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

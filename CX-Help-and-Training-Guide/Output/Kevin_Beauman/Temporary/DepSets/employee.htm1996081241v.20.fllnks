@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Employee Experience Measurement"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/EmployeeExperienceMeasureModel.png" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Employee Satisfaction Model List.xlsx" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/EmployeeExperience.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Employee Experience - Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Sur la Table - Case Study.pdf" />
+    <Link
+      Url="http://www.foresee.com/category/employee-satisfaction/" />
+    <Link
+      Url="http://www.innovativeretailtechnologies.com/doc/the-answers-american-employee-study-what-does-it-mean-for-retail-0001" />
+    <Link
+      Url="http://www.innovativeretailtechnologies.com/doc/from-nrf-the-convergence-of-customer-experience-employee-engagement-0001" />
+    <Link
+      Url="https://www.confirmit.com/what-we-do/solutions/voice-of-the-employee.aspx" />
+    <Link
+      Url="https://www.towerswatson.com/en/Services/our-solutions/employee-surveys" />
+    <Link
+      Url="http://www.gallup.com/services/169328/q12-employee-engagement.aspx" />
+    <Link
+      Url="http://www.qualtrics.com/employee-engagement/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/employee-engagement-survey/" />
+    <Link
+      Url="http://cfigroup.com/services/employee-engagement" />
+    <Link
+      Url="http://www.maritzmotivation.com/Employee-Engagement" />
+    <Link
+      Url="http://employeeresearch.burke.com/index.cfm" />
+    <Link
+      Url="http://www.tnsemployeeinsights.com/" />
+    <Link
+      Url="https://www.surveygizmo.com/survey-examples/employee-satisfaction-survey/" />
+    <Link
+      Url="http://www.questionpro.com/employee-survey.html" />
+    <Link
+      Url="http://www.zoomerang.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#COMMON" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#COMMON2" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#MODEL" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#SURVEY" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#SEGMENTS" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#ANONYMIT" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#SMALL" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm#COMPETIT" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/EmployeeExperienceMeasureModel.png" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Research Library/Model Templates/Employee Satisfaction Model List.xlsx" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/cxMeasurement/store.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/EmployeeExperience.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Employee Experience - Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Sur la Table - Case Study.pdf" />
+    <Link
+      Url="http://www.foresee.com/category/employee-satisfaction/" />
+    <Link
+      Url="http://www.innovativeretailtechnologies.com/doc/the-answers-american-employee-study-what-does-it-mean-for-retail-0001" />
+    <Link
+      Url="http://www.innovativeretailtechnologies.com/doc/from-nrf-the-convergence-of-customer-experience-employee-engagement-0001" />
+    <Link
+      Url="https://www.confirmit.com/what-we-do/solutions/voice-of-the-employee.aspx" />
+    <Link
+      Url="https://www.towerswatson.com/en/Services/our-solutions/employee-surveys" />
+    <Link
+      Url="http://www.gallup.com/services/169328/q12-employee-engagement.aspx" />
+    <Link
+      Url="http://www.qualtrics.com/employee-engagement/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/employee-engagement-survey/" />
+    <Link
+      Url="http://cfigroup.com/services/employee-engagement" />
+    <Link
+      Url="http://www.maritzmotivation.com/Employee-Engagement" />
+    <Link
+      Url="http://employeeresearch.burke.com/index.cfm?id=230&amp;spgid=82" />
+    <Link
+      Url="http://www.tnsemployeeinsights.com/" />
+    <Link
+      Url="https://www.surveygizmo.com/survey-examples/employee-satisfaction-survey/" />
+    <Link
+      Url="http://www.questionpro.com/employee-survey.html" />
+    <Link
+      Url="http://www.zoomerang.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="COMMON" />
+    <Anchor
+      Name="COMMON2" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="SEGMENTS" />
+    <Anchor
+      Name="ANONYMIT" />
+    <Anchor
+      Name="SMALL" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

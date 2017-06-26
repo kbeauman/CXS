@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="System &amp; Release Maintenance"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/ReleaseCalendar.htm" />
+    <Link
+      Url="https://docs.google.com/document/d/1OfZxMQlsfIusFRznXeXqf_q9TkVTDAhwp-XWmQ-AbPM/edit" />
+    <Link
+      Url="https://docs.google.com/document/d/1EP4uC5k3vl9V3f5asmxqvCuYiLRwKB_dS-covtbBLvE/edit" />
+    <Link
+      Url="https://docs.google.com/document/d/1acaD43uYiSi3mFC4L0qSskFmVHcg16lZEeup3iwUpdw/edit" />
+    <Link
+      Url="Project/VariableSets/Variables.flvar" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/ReleaseCalendar.htm#Release" />
+    <Link
+      Url="Content/ReleaseCalendar.htm#Emergenc" />
+    <Link
+      Url="https://docs.google.com/document/d/1OfZxMQlsfIusFRznXeXqf_q9TkVTDAhwp-XWmQ-AbPM/edit" />
+    <Link
+      Url="https://docs.google.com/document/d/1EP4uC5k3vl9V3f5asmxqvCuYiLRwKB_dS-covtbBLvE/edit" />
+    <Link
+      Url="https://docs.google.com/document/d/1acaD43uYiSi3mFC4L0qSskFmVHcg16lZEeup3iwUpdw/edit?ts=5762d86f" />
+    <Link
+      Url="Project/VariableSets/Variables.flvar" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Emergenc" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Variables.Tooltip Doc" />
+    <Variable
+      Name="Variables.Tooltip Section" />
+    <Variable
+      Name="Tooltips.Tooltip Section" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

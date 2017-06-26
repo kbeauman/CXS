@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>The Loyalty Factor increments for both active and inactive tabs. For example, if a visitor has two tabs open for the same website in the same browser window, the tabs aggregate the number of page views to reach the LF. If the visitor has viewed two pages on the first tab and three pages on the second tab, they have a current pages viewed of five.</body>
+</html>

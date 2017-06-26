@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="7112" MadCap:lastWidth="774" class="Topic">
+    <head>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Trigger Code - 18x</h1>
+        <table class="BlindTOC" style="margin-left: 0; margin-right: auto;">
+            <col style="width: 50%;" />
+            <col style="width: 50%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li><a href="#WHAT" title="Click to view this section." alt="Click to view this section.">What Is It?</a>
+                            </li>
+                            <li><a href="#HOW" title="Click to view this section." alt="Click to view this section.">How Does It Work?</a>
+                            </li>
+                            <li><a href="#WHAT2" title="Click to view this section." alt="Click to view this section.">What Products/Measures Use It?</a>
+                            </li>
+                            <li>Client Hosted Code (Legacy)<ul><li><a href="#GENERAL" title="Click to view this section." alt="Click to view this section.">General Information</a></li><li><a href="#EXCLUSIO" title="Click to view this section." alt="Click to view this section.">Exclusions</a></li><li><a href="#COOKIES" title="Click to view this section." alt="Click to view this section.">Cookies</a></li><li><a href="#PINNING" title="Click to view this section." alt="Click to view this section.">Pinning &amp; Locking</a></li><li><a href="#EVENT" title="Click to view this section." alt="Click to view this section.">Event Triggers</a></li><li><a href="#SAMPLING" title="Click to view this section." alt="Click to view this section.">Sampling Parameters</a></li><li><a href="#POOLING" title="Click to view this section." alt="Click to view this section.">Pooling</a></li><li><a href="#REPEAT" title="Click to view this section." alt="Click to view this section.">Repeat Days Parameters</a></li><li><a href="#SUPPORTE" title="Click to view this section." alt="Click to view this section.">Supported Browers/OS</a></li><li><a href="#IMPORTAN" title="Click to view this section." alt="Click to view this section.">Important Links</a></li></ul></li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>ForeSee Hosted Code (Version 18x)<ul><li><a href="#TRIGGER" title="Click to view this section." alt="Click to view this section.">Trigger Code Hosting Options</a></li><li><a href="#FORESEE" title="Click to view this section." alt="Click to view this section.">ForeSee Hosted Code: Why Use It?</a></li><li><a href="#PINNING2" title="Click to view this section." alt="Click to view this section.">Pinning &amp; Locking</a></li><li><a href="#EVENT2" title="Click to view this section." alt="Click to view this section.">Event Triggers</a></li><li><a href="#EXCLUSIO2" title="Click to view this section." alt="Click to view this section.">Exclusions</a></li><li><a href="#COOKIES2" title="Click to view this section." alt="Click to view this section.">Cookies</a></li><li><a href="#SAMPLING2" title="Click to view this section." alt="Click to view this section.">Sampling Parameters</a></li><li><a href="#POOLING2" title="Click to view this section." alt="Click to view this section.">Pooling</a></li><li><a href="#REPEAT2" title="Click to view this section." alt="Click to view this section.">Repeat Days Parameters</a></li><li><a href="#SUPPORTE2" title="Click to view this section." alt="Click to view this section.">Supported Browsers</a></li></ul></li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2><a name="WHAT"></a>What Is It?</h2>
+        <p>Trigger code is a JavaScript library that contains some JavaScript, HTML, CSS, images, and one .swf file.  The purpose of this JavaScript library is to present a survey invitation to website visitors.  The library also contains logic to collect CPPs.</p>
+        <h3>Trigger code is applicable to:</h3>
+        <ul>
+            <li>Desktop website measurements</li>
+            <li>Mobile website measurements</li>
+            <li>cxReplay</li>
+        </ul>
+        <h2><a name="HOW"></a>How Does It Work?</h2>
+        <ul>
+            <li><b>ForeSee Hosted Code</b> - To implement ForeSee’s web-based measurement products, customers need only make a small change to their website template.  Customers receive a small JavaScript snippet that they need to add to their global website templates so that it appears on every page of their website. The purpose of this is to manage the asynchronous loading of any ACS products that you may be using, including ForeSee. The snippet causes a small JavaScript file to be downloaded from the cloud. This file manages the injection of the ForeSee script, which is used to track usage of the site and present survey invitations as needed.</li>
+            <li><b>ForeSee Legacy Client Hosted Code</b> - Clients are provided a JavaScript library to be hosted on their web or content server. This library contains JavaScript, HTML, CSS, images, and one .swf file. The purpose of this JavaScript library is to present a survey invitation to site users based on the configured requirements. Once a site user has become eligible, based on those requirements, the code then presents the survey invitation and subsequent survey questionnaire (hosted by ForeSee) to the site user.  This library may also contain logic to collect additional client specific data points that are available on the site to be passed along with the survey results through the use of Customer Passed Parameters (CPPs).</li>
+        </ul>
+        <h2><a name="WHAT2"></a>What Products/Measures Use It?</h2>
+        <p>Products for which it is a Standard/Best Practice deployment option:</p>
+        <ul>
+            <li>Web Measure (any)</li>
+            <li>Mobile Site Measure (any)</li>
+        </ul>
+        <p>Products for which it is an Alternative Deployment Options (requires Sales Engineering approval):</p>
+        <ul>
+            <li>Customer Relationship Measurement</li>
+        </ul>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Client Hosted Code (Legacy)</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <h2><a name="GENERAL"></a>General Information</h2>
+                <ul>
+                    <li>The client does not need a new trigger code package if they change models.</li>
+                    <li>Client can exclude pages or directories they do not want the invitation to occur on.</li>
+                    <li>IS has the ability to test the code on the client production web site using a proxy technique to address any issues and potentially reduce the amount of implementation time and effort by the client.</li>
+                    <li>For clients who do not wish to save files in the /foresee/ folder structure and prefer their own directory structure, files must be saved to a directory that is accessible to all web pages where satisfaction is measured.  For more information regarding alternate directory structures, please click <a href="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/alternate-directory-structures/" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a>.</li>
+                    <li>If the client is implementing ForeSee via a tag manager, in some occasions the tag manager may be hosting the ForeSee files off domain. In this case the HTML files must remain on the domain being measured.  For more information on using tag managers please click <a href="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/using-tag-managers/" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a>.</li>
+                    <li>If the client’s site is using Flash, the DHTML invitation may display underneath the flash movie.  For more information on this scenario please click <a href="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/web-trigger-cxreplay/code-file-library/flash-and-dhtml/" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a>.</li>
+                </ul>
+                <h3>What Does The Trigger Code Control?</h3>
+                <ul>
+                    <li>Sampling Parameters (pooling rate, loyalty factors, sampling rate)</li>
+                    <li>Survey Definitions</li>
+                    <li>Survey Invitations</li>
+                    <li>Client Logo</li>
+                    <li>ForeSee Logo</li>
+                    <li>Admin Page</li>
+                    <li>Survey Tracker (child window)</li>
+                    <li>Qualifier Page</li>
+                    <li>Opt Out Page</li>
+                </ul>
+                <h2><a name="EXCLUSIO"></a>Exclusions</h2>
+                <ul>
+                    <li>The ForeSee code should be placed globally across all pages. However, it may be desired for an invitation to not display based on certain criteria. To suppress the invitation, page exclusions can be utilized. Page exclusions are formatted in a comma separated list based on specific URLs, referring domains, user agents, browsers, cookies, and/or JS variables.</li>
+                    <li>Global Excludes are used in situations when the ForeSee code should not execute on the site. These are often utilized when clients are trying to exclude internal IP addresses or have a special user agent assigned to an internal bot checking the site. The Global Excludes can be based on URLs, variables, cookies, or user agents.</li>
+                    <li>Excluded pages still count towards the Loyalty Factor requirement (minimum page views).</li>
+                    <li>Code should not be intentionally left off a page in an attempt to exclude it. Leaving code off a page may result in an early exit condition causing the survey questionnaire to present for users who had already accepted an invitation.</li>
+                    <li>Regular expressions can be used to exclude both URLs and IPs instead of excluding them individually.</li>
+                    <li>We do not collect or capture IP address, so if the client wants to exclude by IP address they need to set up a JS variable so they can pass the IP address.</li>
+                </ul>
+                <h2><a name="COOKIES"></a>Cookies</h2>
+                <ul>
+                    <li>ForeSee utilizes three cookies. Two session cookies which store information relating to the survey control and operation, as well as some basic information such as the number of pages a user has viewed, and the URLs the user was on when they entered and left the site.  ForeSee also has a persistent cookie which contains information indicating when a user has received a survey invitation in order to prevent the same user from being presented with another invitation for a specified period of time.</li>
+                    <li>The ForeSee cookie can contain Customer Passed Parameters (CPPs). This data can range from values stored within a variable, cookie, or URL parameter. To pass CPPs, special coding needs to be programmed into the survey configuration file in order to pass any additional data. This code is client controlled so they know what data is being passed when the code is implemented.</li>
+                    <li>ForeSee is able to utilize secure cookies ONLY if the entire site being measured is secure (all https).  If this setting is enabled when non-https pages are available, the code is unable to work on these pages. Please contact the Implementation Team for more details.</li>
+                    <li>Due to cookie limitation, we cannot track visitors across domains.</li>
+                    <li>For information surrounding what each cookie can tell us, please click <a href="https://fsrwiki.foreseeresults.com/display/IS/cookie-information" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a>.</li>
+                </ul>
+                <h2><a name="PINNING"></a>Pinning &amp; Locking</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock3.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock4.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="EVENT"></a>Event Triggers</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigEventTrigs1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigEventTrigs2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigEventTrigs3.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TrigEventTrigs4.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="SAMPLING"></a>Sampling Parameters</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TrigSampParam3.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam4.flsnp" />&#160;</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam5.flsnp" />&#160;</li>
+                    <li>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TrigSampParam6.flsnp" />
+                    </li>
+                    <li>Since the client hosts the code, changes to the sampling parameters can be done in two ways:<ul><li>We can provide guidance on where they can find the section of the code that controls the sampling parameters and they can make the changes themselves.</li><li>We can send them a new set of code with the new sampling parameters and they must replace the snippet of code in their global header.</li></ul></li>
+                </ul>
+                <h2><a name="POOLING"></a>Pooling</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPooling1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPooling2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPooling3.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="REPEAT"></a>Repeat Days Parameters</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigRepeatDays1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigRepeatDays2.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="SUPPORTE"></a>Supported Browsers and Operating Systems</h2>
+                <h3>Browser Support:</h3>
+                <ul>
+                    <li>Internet Explorer 8+</li>
+                    <li>Firefox 1.5+</li>
+                    <li>Safari 3+</li>
+                    <li>Chrome 4+</li>
+                </ul>
+                <h3>Operating System Support:</h3>
+                <ul>
+                    <li>Microsoft Windows</li>
+                    <li>Mac</li>
+                    <li>Linux</li>
+                    <li>iOS (mobile)</li>
+                    <li>Android (mobile)</li>
+                </ul>
+                <h2><a name="IMPORTAN"></a>Important Links</h2>
+                <p><a href="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/" target="_blank" title="Click to view this web site." alt="Click to view this web site.">Legacy Code Developer Portal</a>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>ForeSee Hosted Code (Version 18x)</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <h2><a name="TRIGGER"></a>Trigger Code Hosting Options</h2>
+                <p>To support the diversity of workflows and policies that customers may have for their website, ForeSee provides the following options for getting code implemented:</p>
+                <ul>
+                    <li><b>ForeSee Hosted Code (preferred)</b> - This is the default option and offers the most hands-off experience for the client. In this case, the client makes a small addition to their global website template to link to the hosted JavaScript file.  This method allows all code modifications to be made by ForeSee, without any further changes to the client’s website.  Once the client has added the code snippet to their template, they do not need to revise the template again to receive code updates from us. This is because the embed snippet references the client’s permanent home in the ForeSee cloud.</li>
+                    <li><b>ForeSee Hosted Code with Versioning</b> - This is similar to the first option, but with each update to the code being given its own unique URL. This gives the client the security of knowing that changes to code hosted in the cloud cannot occur without them explicitly changing their website template. It also means that they must change their template for even the most minor update to triggering behavior. In terms of overall flexibility, this option is less optimal than the first, but still gives them some of the convenience of cloud hosting.</li>
+                </ul>
+                <h2><a name="FORESEE"></a>ForeSee Hosted Code: Why Use It?</h2>
+                <p>The default option for deploying ForeSee web products to the client’s website is to use our hosted JavaScript. We host the assets for getting ForeSee products onto the client's website and they make a one-time change to their website template. The benefits of this approach include:</p>
+                <ul>
+                    <li><b>One-time code change</b> - This greatly simplifies the process of implementing our code package on the client’s site. Once a client has our embed-snippet in the HTML template, they do not need to make further changes when they want to tweak the way products trigger or behave on their site. We can provide that service for them.</li>
+                    <li><b>No need to host ForeSee files</b> - With this system, clients no longer need to host any ForeSee scripts, stylesheets, or images, making the process of implementing our code simpler.</li>
+                    <li><b>A reliable, enterprise-grade Content Delivery Network (CDN)</b> - We partner with an industry-leading CDN that provides low-latency, high-reliability, geographically distributed edge servers to ensure content is delivered to the website visitors quickly.</li>
+                    <li><b>Asynchronous loading</b> - Content is loaded onto the client’s site in parallel with the rest of their content, meaning that ForeSee scripts have negligible impact on page-load times in the unlikely event the content server is slow or unreachable.</li>
+                </ul>
+                <h2><a name="PINNING2"></a>Pinning &amp; Locking</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock3.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPinLock4.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="EVENT2"></a>Event Triggers</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigEventTrigs1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigEventTrigs2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigEventTrigs3.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TrigEventTrigs4.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="EXCLUSIO2"></a>Exclusions</h2>
+                <ul>
+                    <li>The ForeSee code should be placed globally across all pages. However, it be desired for an invitation to not display based on certain criteria. To suppress the invitation, page exclusions can be utilized. Page exclusions are formatted in a comma separated list based on specific URLs, referring domains, user agents, browsers, cookies, and/or JS variables.</li>
+                    <li>Global Excludes are used in situations when the ForeSee code should not execute on the site. These are often utilized when clients are trying to exclude internal IP addresses or have a special user agent assigned to an internal bot checking the site. The Global Excludes can be based on URLs, variables, cookies, or user agents.</li>
+                    <li>Excluded pages still count towards the Loyalty Factor requirement (minimum page views).</li>
+                    <li>Code should not be intentionally left off a page in an attempt to exclude it. Leaving code off a page may result in an early exit condition causing the survey questionnaire to present for users who had already accepted an invitation.</li>
+                    <li>Regular expressions can be used to exclude both URLs and IPs instead of excluding them individually.</li>
+                    <li>We do not collect or capture IP address, so if the client wants to exclude by IP address, they need to set up a JS variable so they can pass the IP address.</li>
+                </ul>
+                <h2><a name="COOKIES2"></a>Cookies</h2>
+                <ul>
+                    <li>The biggest difference between the way cookies work for Legacy and Hosted Code is that the session cookie for Hosted Code is both a first party and third party cookie (see <a href="https://www.quora.com/What-is-the-difference-between-first-and-third-party-cookies" target="_blank" title="Click to view this web site." alt="Click to view this web site.">What is the difference between first and third-party cookies?</a> for more information).  This gives the client the ability to track visitors across domains that they own without initiating an exit condition and having a survey display when they leave the first domain.<ul><li>We would use the cross-domain feature when the site includes two separate domains, but it's part of the same experience we're trying to measure.</li></ul></li>
+                    <li>Other than the information above, cookies have the same behavior and same type of data stored (CPPs) for both <a href="#COOKIES" title="Click to view this section." alt="Click to view this section.">Legacy</a> and Hosted Code.</li>
+                </ul>
+                <h2><a name="SAMPLING2"></a>Sampling Parameters</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TrigSampParam3.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam4.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../Resources/Snippets/TrigSampParam6.flsnp" />
+                    </li>
+                    <li>Since we host the code, we make the changes to the sampling parameters based on the clients requirements.</li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigSampParam5.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="POOLING2"></a>Pooling</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPooling1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPooling2.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigPooling3.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="REPEAT2"></a>Repeat Days Parameters</h2>
+                <ul>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigRepeatDays1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Resources/Snippets/TrigRepeatDays2.flsnp" />
+                    </li>
+                </ul>
+                <h2><a name="SUPPORTE2"></a>Supported Brousers</h2>
+                <h3>Browser Support:</h3>
+                <ul>
+                    <li>iOS 6+ Mobile Safari</li>
+                    <li>Android 2.3+ Browser</li>
+                    <li>Firefox 3+</li>
+                    <li>Chrome 14+</li>
+                    <li>IE 6+ (including IE10 Metro Mode)</li>
+                    <li>Opera 10.6+</li>
+                    <li>Safari 4+</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="http://www.foresee.com/about-us/privacy-policy/" />
+    <Link
+      Url="http://www.foresee.com/about-us/contact-us/" />
+    <Link
+      Url="http://www.foresee.com/about-us/site-map/" />
+    <Link
+      Url="http://portal2.foreseeresults.com/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="http://www.foresee.com/about-us/privacy-policy/" />
+    <Link
+      Url="http://www.foresee.com/about-us/contact-us/" />
+    <Link
+      Url="http://www.foresee.com/about-us/site-map/" />
+    <Link
+      Url="http://portal2.foreseeresults.com/" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

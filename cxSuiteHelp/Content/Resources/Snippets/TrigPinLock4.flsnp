@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>Using the "lock" parameter in a survey definition allows the code to make sure the definition used to present your survey is the definition that invited you. If the definition that triggers your invitation is using the "lock" parameter set to "1", you will not be able to move up or down into another definition. The definition that triggered the invitation will remain until you trigger an exit condition.</body>
+</html>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="735" MadCap:lastWidth="852" class="Topic">
+    <head>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="home">
+            <h1>
+                <MadCap:keyword term="Publishing" />Publishing a Survey</h1>
+        </div>
+        <p class="steps"><a href="../cxSuite/createProject.htm" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">Create A Project</a> &gt; <a href="newSurvey.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Creating a Feedback Survey</a> &gt; <a href="configureSurvey.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Configure a Survey</a> &gt; <span class="MCBreadcrumbsDivider">Publish a Survey</span></p>
+        <p>Going live with a survey is a two-step process where you first migrate the survey to a sub-environment, such as <span class="wintitle">Staging</span> or <span class="wintitle">QA</span>. This allows you the opportunity to review and test the survey before going live. Even if you do not have such an environment, you must perform this initial step. Then publish to <span class="wintitle">Production</span> to display the <span class="wintitle">Feedback Badge</span> on your web site. You may also set up <a href="Alerts.htm" title="Click to view this Help topic." alt="Click to view this Help topic.">Alerts</a> from this page, which is optional. </p>
+        <MadCap:snippetBlock src="../Resources/Snippets/CodeSnippetNote.flsnp" />
+        <p>The <span class="wintitle">Publish</span> tab offers an optional code snippet for each environment which must be embedded into each of your website templates after you publish. There is also a JavaScript Call Function in the <span class="wintitle">Launch This Survey</span> section to launch the survey from a menu, button, or other user interface element other than the <span class="wintitle">Feedback Badge</span>.</p>
+        <p>The <span class="wintitle">Publish</span> page can be accessed from the <span class="wintitle">Projects</span> page. Click the <span class="uicontrol">Edit</span> icon (<img src="../Resources/Images/Pencil.png" title="Edit icon" alt="edit icon" />) of the desired project and then click <span class="uicontrol">Publish</span>.
+            <div class="note">When a project has revisions which have not been published, the <span class="uicontrol">Edit</span> icon is replaced with an alert icon (<img src="../Resources/Images/unPubIcon.png" title="Unpublished Edits Icon" alt="unpublished edits icon" />), which functions the same way.</div></p>
+        <p>The <span class="wintitle">Publish</span> page is organized into two sections:</p>
+        <ul>
+            <li><span class="wintitle">Publish Your Project</span> - Contains <span class="wintitle">This project is</span>, which turns the <span class="wintitle">Feedback Badge</span> <span class="option">Off</span> or <span class="option">On</span>, the publishing buttons, and a link to the <span class="wintitle">Alerts</span> page. You must complete the publishing process before this setting takes effect.</li>
+            <li><span class="wintitle">Embed the code</span> - This syntax must be added to every live site page where the survey is to be accessible from.</li>
+        </ul>
+        <p>To publish a survey:</p>
+        <ol>
+            <li>Click the <span class="wintitle">This project is</span> toggle to <span class="option">On</span>.</li>
+            <li>Click the <span class="uicontrol">Publish</span> button in <span class="wintitle">Step 1</span>. Even if there is no staging environment (server), this is a necessary first step. When the process completes, the <span class="uicontrol">Publish</span> button in <span class="wintitle">Step 2</span> is enabled. </li>
+            <li>Select all syntax in the <span class="wintitle">Staging Embed Snippet</span> pane and paste the syntax into the <code>&lt;header&gt;</code> section of each web page in <span class="wintitle">Staging</span> to test the survey settings.</li>
+            <li>Once testing is complete, click <span class="uicontrol">Publish to Production</span>. When the process completes, a time stamp displays and <span class="uicontrol">Publish to Production</span> becomes disabled.</li>
+            <li>Select all syntax in the <span class="wintitle">Production Embed Snippet</span> pane and paste the syntax into the <code>&lt;header&gt;</code> section of each live web page.</li>
+            <li>Go to the targeted web page(s) and verify the badge displays according to your settings. If the page was open before you published, you may need to refresh the page.</li>
+        </ol>
+    </body>
+</html>

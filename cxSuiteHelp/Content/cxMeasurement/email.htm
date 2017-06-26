@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="3227" MadCap:lastWidth="1439" class="Topic">
+    <head><title>Email Deployment</title>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Email Deployment</h1>
+        <p>This is a method of survey deployment that allows an invitation to be emailed to a target audience with a link to ForeSee hosted, web-based survey.</p>
+        <h2><a name="HOW"></a>How Does It Work?</h2>
+        <ul>
+            <li>Email invitation is sent to target audience.</li>
+            <li>Either ForeSee or a Client can send the email invitation.</li>
+            <li>Client will identify eligible email addresses - ForeSee does <b>NOT</b> offer list management or sample management services.</li>
+        </ul>
+        <h2><a name="WHAT2"></a>What Touchpoint Measures Use It?</h2>
+        <p>Here are a few touchpoints where this deployment may be common:</p>
+        <ul>
+            <li>Contact Center</li>
+            <li>Fulfillment</li>
+            <li>Loyalty Program</li>
+            <li>Employee Satisfaction</li>
+            <li>Customer Relationship Measure</li>
+            <li>Digital Contribution</li>
+            <li>Mobile OnExit (e.g., acct management, self service, etc.)</li>
+        </ul>
+        <h2><a name="FORESEE2"></a>ForeSee Sends Email Invite: Email Customization</h2>
+        <p>The following items within the email invitation can be configured for a specific client:</p>
+        <ul>
+            <li>Logo</li>
+            <li>From Line – there are three options:<ul><li>Default – (display) ForeSee Results Email Notifier (address) [<u>mailto: email_notifier@foreseeresults.com</u>]</li><li>Alias – (display) Customer can define. For example ABC Company Customer Service (address) [<u>mailto: email_notifier@foreseeresults.com</u>]</li><li>Their own - (display) Customer can define.  For example ABC Company Customer Service (address) [<u>mailto: marriott@marriott.com</u>]</li></ul></li>
+            <li>To – this will go to the email addresses provided</li>
+            <li>Subject Line</li>
+            <li>Greeting – there are two options:<ul><li>Generic – for example ‘Dear valued customer’</li><li>Personalized – Dear Mary Smith. Note: the name would need to be provided in the email file. If a name is not available for every record, then a generic greeting would also be needed.</li></ul></li>
+            <li>Email Content</li>
+            <li>Signature Line</li>
+        </ul>
+        <p>The following items within the reminder emails are also configurable:</p>
+        <ul>
+            <li>Subject Line</li>
+            <li>Email Content</li>
+        </ul>
+        <h2><a name="FORESEE3"></a>ForeSee Sent Email Example</h2>
+        <p>
+            <img src="../Resources/Images/EmailExample.png" title="ForeSee Sent Email Example" alt="ForeSee Sent Email Example" />
+        </p>
+        <h2><a name="FORESEE"></a>ForeSee Sends Email Invite: Fielding Guidelines</h2>
+        <ul>
+            <li>Time between email collection and invitation delivery is configurable:<ul><li>Purchase - Typically, email invitation goes out immediately.</li><li>Digital Contribution - Typically, email invitation goes out seven days after the visit (depends on the length of the shopping funnel - i.e., we want to allow the respondent enough time to conduct follow-up activities. Car Shopping = longer funnel, Electronics = shorter funnel).</li><li>All Other Measures = Timeline to be discussed during implementation. Dependent on who is sending and how frequently client can accommodate. Ideally, we would send the invitation as close to the interaction being evaluated as possible.</li></ul></li>
+            <li>Number of reminder emails<ul><li>Number of reminders is typically two, sent at three and seven days after the original invitation.</li></ul></li>
+            <li>The standard survey expiration time frame is seven days after the final reminder is sent out.</li>
+        </ul>
+        <h2><a name="FORESEE6"></a>ForeSee Sends Email Invite: ForeSee Capabilities</h2>
+        <ul>
+            <li><b>Deduping:</b> ForeSee can accommodate deduplicating the email list against other email lists that the client has sent previously and merging lists to a single email list. Also to manage repeat days process (e.g., don’t invite within X number of days).</li>
+            <li><b>Do Not Contact:</b> ForeSee maintains a client-specific list of email recipients that have requested not to be contacted by ForeSee again for this client’s surveys.</li>
+            <li><b>Opt-Out Process:</b> ForeSee is not able to manage an opt-out process for the client or within the client’s CRM system. An opt-out link is typically included at the bottom of the ForeSee sponsored email invitation.</li>
+            <li><b>Survey Link Expiration:</b> See <a href="#FORESEE" title="Click to view this section." alt="Click to view this section.">Fielding Guidelines</a> section.</li>
+            <li><b>Response Activity Tracking:</b> ForeSee captures the following parameters and can create a waterfall report on them if requested.  The report can be set up to run at a frequency of the client’s choice, though weekly is default.
+                <ul><li>Number of rows in the email address file</li><li>Number of emails successfully sent out</li><li>Number of emails failed to send</li><li>Number of email invitations opened</li><li>Number of surveys displayed (e.g., the URL within the email was clicked on)</li><li>Number of surveys submitted</li></ul></li>
+            <li><b>Random Selection Within a Single List:</b> We can programmatically select every Nth row in a file to allow for random sampling across that file. We would provide guidance on what the "Nth" should be based on the volume of available emails within a file and the desired N Count.</li>
+        </ul>
+        <h2><a name="FORESEE5"></a>ForeSee Sends Email Invite: Requirements For Passing Data To ForeSee</h2>
+        <ul>
+            <li>The file must have column headers and cannot contain spaces.<ul><li>Order_ID instead of Order ID</li></ul></li>
+            <li>Delimited files (CSV, TSV, Pipe, or any other delimited format) with associated header record.</li>
+            <li>Any dates supplied in MM/DD/YYY or M/D/YYY H:MM format.</li>
+            <li>One row per respondent.</li>
+            <li>ForeSee respondent ID required as a data point in each row.</li>
+            <li>ForeSee will establish an ID, Password, and directories to the SFTP host. A client-supplied SFTP can be used as well.</li>
+            <li>ForeSee also has the capability to provide Public Key Authentication.</li>
+            <li>Encryption with Open PGP and GnuPG (GPG) is supported provided the ForeSee encryption key is used.</li>
+            <li>Column order must not change.</li>
+            <li>Additional columns added after implementation may be appended as the last column.</li>
+        </ul>
+        <h2><a name="FORESEE4"></a>ForeSee Sends Email Invite: General Information</h2>
+        <ul>
+            <li>Client will need to send a sample file of email addresses (sample below).<ul><li>They can send the file as either Comma Separated Values (CSV) or Tab Delimited (.txt).</li><li>The sample file and future files must be sent to a ForeSee SFTP (Secure File Transfer Protocol).  ForeSee will set up a SFTP site specific to the client.</li><li>The file can include additional variables that can be appended to the survey URL to pass as CPPs.</li></ul></li>
+        </ul>
+        <p>
+            <img src="../Resources/Images/EmailInviteTable.png" title="Sample of email address file." alt="Sample of email address file." />
+        </p>
+        <ul>
+            <li>ForeSee emails have the capability to accommodate dynamic text.<ul><li>Please be sure to highlight the areas in the email text that are dynamically populated.</li><li>Each item that presents itself dynamically must be in a separate column in the email file that is sent to ForeSee.</li><li>The client must communicate which columns in the file fill in the various areas of the email text.</li><li>If the survey is translated into another language, then the dynamic text needs to be translated (if applicable) before sending the email file to ForeSee.</li></ul></li>
+        </ul>
+        <h2><a name="CLIENT"></a>Client Sends Email Invite: General Information</h2>
+        <ul>
+            <li>If you answer <span class="option">yes</span> to any of the following questions, <span class="wintitle">ForeSee</span> must load the email file prior to the client sending the email:<ul><li>Do you want the link to expire?</li><li>Do you care if the link can be submitted multiple times?</li><li>Do you have a lot of parameters (EPPs) you want to append?</li></ul></li>
+            <li>A sample file of email addresses and EPPs (sample below) which should be sent to <span class="wintitle">ForeSee</span>:<ul><li>The file can be saved as either <span class="wintitle">Comma Separated Values</span> (CSV) or <span class="wintitle">Tab Delimited</span> (.txt).</li><li>The sample file and future files must be sent to a ForeSee SFTP (Secure File Transfer Protocol).</li></ul></li>
+        </ul>
+        <p>
+            <img src="../Resources/Images/EmailEPPsample.png" title="Sample file of email addresses and EPPs." alt="Sample file of email addresses and EPPs." />
+        </p>
+        <ul>
+            <li>ForeSee will need to be provided with the name(s) and contact information of those who will be sending the emails on the client side, so a notification can be sent when the files are loaded and the emails are safe to send out.</li>
+            <li>The survey link will not expire if the client sends the email.</li>
+            <li>Survey submission is unlimited, we cannot stop a respondent from submitting multiple surveys from the same link.</li>
+            <li>Additional CPPs beyond the default captured CPPs are limited by the URL API length.</li>
+        </ul>
+        <h2><a name="DEPLOYME"></a>Deployment Statistics</h2>
+        <MadCap:snippetBlock src="../Resources/Snippets/SurveyStats.flsnp" />
+        <ul>
+            <li><b>Email Acceptance rates</b> - 5-15% (depends on the type of audience, quality of email address, and how soon email is sent after the interaction)</li>
+            <li><b>Email Completion Rates</b> - 75-95%</li>
+        </ul>
+    </body>
+</html>

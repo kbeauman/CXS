@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <span class="wintitle">Case Management</span> creates a case automatically when a rule is set in a hierarchy supported <span class="wintitle">ForeSee CX Measure</span> to identify a specific survey response, such as an overall <span class="wintitle">Satisfaction</span> score of less than five.</body>
+</html>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="IVR/IVA"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHICH" />
+    <Anchor
+      Name="TYPES" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="QUESTION" />
+    <Anchor
+      Name="TRANSCRI" />
+    <Anchor
+      Name="IVR2" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="CONTACT" />
+    <Anchor
+      Name="STORE" />
+    <Anchor
+      Name="DEPLOYME" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="home"
+  FileTitle="Feedback Help Home Page"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Images/FB_icon.png" />
+    <Link
+      Url="Content/Feedback/gettingStarted.htm" />
+    <Link
+      Url="Content/Feedback/reports.htm" />
+    <Link
+      Url="Content/Feedback/analytics.htm" />
+    <Link
+      Url="Content/Feedback/releaseNotes.htm" />
+    <Link
+      Url="Content/Feedback/vids.htm" />
+    <Link
+      Url="Content/Feedback/using.htm" />
+    <Link
+      Url="Content/Feedback/topics.htm" />
+    <Link
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Feedback/manualLaunch.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/inPg.htm" />
+    <Link
+      Url="Content/Feedback/Alerts.htm" />
+    <Link
+      Url="Content/Feedback/faq.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Images/FB_icon.png" />
+    <Link
+      Url="Content/Feedback/gettingStarted.htm" />
+    <Link
+      Url="Content/Feedback/reports.htm" />
+    <Link
+      Url="Content/Feedback/analytics.htm" />
+    <Link
+      Url="Content/Feedback/releaseNotes.htm" />
+    <Link
+      Url="Content/Feedback/vids.htm" />
+    <Link
+      Url="Content/Feedback/using.htm" />
+    <Link
+      Url="Content/Feedback/topics.htm" />
+    <Link
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Feedback/manualLaunch.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/inPg.htm" />
+    <Link
+      Url="Content/Feedback/Alerts.htm" />
+    <Link
+      Url="Content/Feedback/faq.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

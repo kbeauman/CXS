@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Site Feedback - Legacy"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction (Federal) - Product Solution.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/feedbackLegacy.htm#IMPORTAN" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Site Feedback Customer Satisfaction (Federal) - Product Solution.pdf" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

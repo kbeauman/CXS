@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0"
+  FileDescription="">
+  <Links>
+    <Link
+      Url="https://voc.foresee.com/assets/img/favicon.ico" />
+    <Link
+      Url="Content/Resources/foundation/css/foundation.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/TopicStyles.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Template/home.htm" />
+    <Link
+      Url="Content/Resources/Images/CX_HelpLogo.png" />
+    <Link
+      Url="Project/Skins/ToolbarSearch.flskn" />
+    <Link
+      Url="Project/Skins/Menu.flskn" />
+    <Link
+      Url="Content/Resources/Snippets/FooterContent.flsnp" />
+    <Link
+      Url="Content/Resources/foundation/js/vendor/what-input.js" />
+    <Link
+      Url="Content/Resources/foundation/js/vendor/foundation.js" />
+    <Link
+      Url="Content/Resources/Scripts/foundation-menu-off-canvas-initialisation.js" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://voc.foresee.com/assets/img/favicon.ico" />
+    <Link
+      Url="Content/Resources/foundation/css/foundation.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/TopicStyles.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Template/home.htm" />
+    <Link
+      Url="Content/Resources/Images/CX_HelpLogo.png" />
+    <Link
+      Url="Project/Skins/ToolbarSearch.flskn" />
+    <Link
+      Url="Project/Skins/Menu.flskn" />
+    <Link
+      Url="Content/Resources/Snippets/FooterContent.flsnp" />
+    <Link
+      Url="Content/Resources/foundation/js/vendor/what-input.js" />
+    <Link
+      Url="Content/Resources/foundation/js/vendor/foundation.js" />
+    <Link
+      Url="Content/Resources/Scripts/foundation-menu-off-canvas-initialisation.js" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/foundation/css/foundation.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/TopicStyles.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

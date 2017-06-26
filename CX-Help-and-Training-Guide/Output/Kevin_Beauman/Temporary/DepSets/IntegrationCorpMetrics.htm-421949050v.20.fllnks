@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Integration - Corporate Metrics"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/IntegrationCorpMetrics.htm" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics1.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics2.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics3.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics4.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics5.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics6.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/IntegrationCorpMetrics.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/IntegrationCorpMetrics.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/IntegrationCorpMetrics.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/IntegrationCorpMetrics.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#REQUIREM" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics1.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics2.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics3.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics4.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics5.jpg" />
+    <Link
+      Url="Content/Resources/Images/CorpMetrics6.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="GENERAL" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

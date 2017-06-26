@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="SDK Deployment"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/trigger/invite-modes/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/trigger/repeat-days/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/configuration/configuration/" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/Mobile+Application+FAQ" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/Mobile_Application_Survey" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/ios-sdk/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#WHAT2" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#iOS" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#ANDROID" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#ON-EXIT" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#SUPPORT" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#EXCLUSIO" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#COOKIES" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#SAMPLING" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#POOLING" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#EVENT" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#PINNING" />
+    <Link
+      Url="Content/cxMeasurement/sdk.htm#IMPORTAN" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/trigger/invite-modes/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/trigger/repeat-days/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/configuration/configuration/" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/Mobile+Application+FAQ" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/display/IS/Mobile_Application_Survey" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/ios-sdk/" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/android-sdk/" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="iOS" />
+    <Anchor
+      Name="ANDROID" />
+    <Anchor
+      Name="ON-EXIT" />
+    <Anchor
+      Name="SUPPORT" />
+    <Anchor
+      Name="EXCLUSIO" />
+    <Anchor
+      Name="COOKIES" />
+    <Anchor
+      Name="SAMPLING" />
+    <Anchor
+      Name="POOLING" />
+    <Anchor
+      Name="EVENT" />
+    <Anchor
+      Name="PINNING" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

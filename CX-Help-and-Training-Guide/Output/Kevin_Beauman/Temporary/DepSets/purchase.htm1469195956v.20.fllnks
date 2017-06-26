@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="cxMeasure Purchase"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/purchase.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PurchaseModel.png" />
+    <Link
+      Url="Content/triggerCode18x.htm" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PurchaseMeasurementFlow.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/purchase.htm#WHAT" />
+    <Link
+      Url="Content/purchase.htm#WHY" />
+    <Link
+      Url="Content/purchase.htm#TARGET" />
+    <Link
+      Url="Content/purchase.htm#CQs" />
+    <Link
+      Url="Content/purchase.htm#CPPs" />
+    <Link
+      Url="Content/purchase.htm#MODEL" />
+    <Link
+      Url="Content/purchase.htm#DEPLOYME" />
+    <Link
+      Url="Content/purchase.htm#LANGUAGE" />
+    <Link
+      Url="Content/purchase.htm#WHO" />
+    <Link
+      Url="Content/purchase.htm#INCLUDED" />
+    <Link
+      Url="Content/purchase.htm#GENERAL" />
+    <Link
+      Url="Content/purchase.htm#SURVEY" />
+    <Link
+      Url="Content/purchase.htm#COMPETIT2" />
+    <Link
+      Url="Content/purchase.htm#STANDARD" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PurchaseModel.png" />
+    <Link
+      Url="Content/triggerCode18x.htm" />
+    <Link
+      Url="Content/cxMeasurement/email.htm" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/Resources/Snippets/SurveyStats.flsnp" />
+    <Link
+      Url="http://www.opinionlab.com/" />
+    <Link
+      Url="https://www.iperceptions.com/" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.confirmit.com/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="Content/Resources/Images/PurchaseMeasurementFlow.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="CQs" />
+    <Anchor
+      Name="CPPs" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="COMPETIT2" />
+    <Anchor
+      Name="STANDARD" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

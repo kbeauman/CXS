@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Snippets/CopyReplayURL.flsnp" />
+    <Url Source="Resources/Snippets/CustomizeColumnsProcess.flsnp" />
+    <Url Source="Resources/Snippets/ReplayColumnDesc.flsnp" />
+    <Url Source="Resources/Snippets/DateColumnDesc.flsnp" />
+    <Url Source="Resources/Snippets/NumberColumnDesc.flsnp" />
+    <Url Source="Resources/Snippets/SeeRespondentsDefaultView.flsnp" />
+    <Url Source="Resources/Snippets/RespondentDetailsPgDesc.flsnp" />
+    <Url Source="Resources/Snippets/Topics2.flsnp" />
+    <Url Source="Resources/Snippets/Topics1.flsnp" />
+    <Url Source="Resources/Snippets/HierarchyFilter.flsnp" />
+    <Url Source="Resources/Snippets/SurveyFilter.flsnp" />
+    <Url Source="Resources/Snippets/DatePicker.flsnp" />
+</UrlList>

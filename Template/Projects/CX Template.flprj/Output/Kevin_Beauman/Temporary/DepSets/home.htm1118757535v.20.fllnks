@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Home"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/home.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Template/whatsNew.htm" />
+    <Link
+      Url="Content/Resources/Images/megaphone-icon.svg" />
+    <Link
+      Url="Content/Template/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/getting-started-icon.svg" />
+    <Link
+      Url="Content/Template/cx_measurement.htm" />
+    <Link
+      Url="Content/Resources/Images/cx-measurement-icon.svg" />
+    <Link
+      Url="Content/Template/text_analytics.htm" />
+    <Link
+      Url="Content/Resources/Images/text-analytics-icon.svg" />
+    <Link
+      Url="Content/Template/replay.htm" />
+    <Link
+      Url="Content/Resources/Images/replay-icon.svg" />
+    <Link
+      Url="Content/Template/case.htm" />
+    <Link
+      Url="Content/Resources/Images/case-icon.svg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/home.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Template/whatsNew.htm" />
+    <Link
+      Url="Content/Resources/Images/megaphone-icon.svg" />
+    <Link
+      Url="Content/Template/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/getting-started-icon.svg" />
+    <Link
+      Url="Content/Template/cx_measurement.htm" />
+    <Link
+      Url="Content/Resources/Images/cx-measurement-icon.svg" />
+    <Link
+      Url="Content/Template/text_analytics.htm" />
+    <Link
+      Url="Content/Resources/Images/text-analytics-icon.svg" />
+    <Link
+      Url="Content/Template/replay.htm" />
+    <Link
+      Url="Content/Resources/Images/replay-icon.svg" />
+    <Link
+      Url="Content/Template/case.htm" />
+    <Link
+      Url="Content/Resources/Images/case-icon.svg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/home.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

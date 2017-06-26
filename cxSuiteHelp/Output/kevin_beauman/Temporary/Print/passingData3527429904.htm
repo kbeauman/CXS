@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="951" MadCap:lastWidth="1185" class="Topic" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Integration|Integration - Respondent Level" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="MsWord">
+    <head><title>Passing Data</title>
+        <link href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Stylesheets/CX_Styles_Print.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Passing Data</h1>
+        <h2><a name="REQUIREM"></a>Requirements For Passing Data To ForeSee: Data File Requirements</h2>
+        <ul>
+            <li value="1">The file must have column headers.</li>
+            <li value="2">Delimited files (CSV, TSV, Pipe, or any other delimited format) with associated header record.</li>
+            <li value="3">Any dates supplied in MM/DD/YYYY or M/D/YYYY H:MM format.</li>
+            <li value="4">One row per respondent.</li>
+            <li value="5">ForeSee respondent ID required as a data point in each row.</li>
+            <li value="6">In most cases, Adobe (Omniture) or Google (UA) integrations are accommodated through an API those companies provide.  When using this API, data file transfers are not necessary to deliver our data to Adobe or Google.  However, if a client wants to pass Adobe or Google data back to us, a data file transfer is necessary.</li>
+        </ul>
+        <h2><a name="REQUIREM2"></a>Passing Data To ForeSee: SFTP Information</h2>
+        <ul>
+            <li value="1">ForeSee establishes an ID, Password, and directories to the SFTP host. A client-supplied SFTP can be used as well.</li>
+            <li value="2">ForeSee also has the capability to provide Public Key Authentication.</li>
+            <li value="3">Encryption with Open PGP and GnuPG (GPG) is supported provided the ForeSee encryption key is used.</li>
+        </ul>
+        <h2><a name="REQUIREM3"></a>Passing Data To ForeSee: EXDL Information</h2>
+        <p>External Data Load (EXDL) is a process used to load data into the ForeSee database:</p>
+        <ul>
+            <li value="1">A custom EXDL is generated for each data feed.</li>
+            <li value="2">The process monitors the SFTP folder and automatically imports new files.</li>
+            <li value="3">Imported data appears in the Portal the following day.</li>
+        </ul>
+        <h2><a name="REQUIREM4"></a>Passing Data To ForeSee: Hidden Custom Questions Information</h2>
+        <ul>
+            <li value="1">Hidden custom questions are simply the containers for the imported data.  Respondents do not see these questions on their surveys.</li>
+            <li value="2">Every incoming column of data is mapped to a corresponding hidden custom question.</li>
+        </ul>
+        <h2><a name="REQUIREM5"></a>Passing Data From ForeSee</h2>
+        <ul>
+            <li value="1">Data is in tab delimited files of Text (.txt), Comma Separated Values (.csv), or Excel (.xlsx) format.</li>
+            <li value="2">One zip file per measure.  The zip file contains three files:<ul><li value="1">Data file - Respondent data from the survey.</li><li value="2">Question Mapping File - Question details including mapping.</li><li value="3">Answer Mapping File - Answer details including mapping.</li></ul></li>
+            <li value="3">Delivery options include:<ul><li value="1">Email: Zip file attachment sent to email recipient.</li><li value="2">Posted for Pickup: Posted to ForeSee<sup>®</sup> Portal workspace area for client retrieval.</li><li value="3">FTP (ForeSee): File available for retrieval on ForeSee<sup>®</sup> SFTP site.</li><li value="4">FTP (Client): File sent to client SFTP site.</li></ul></li>
+        </ul>
+    </body>
+</html>

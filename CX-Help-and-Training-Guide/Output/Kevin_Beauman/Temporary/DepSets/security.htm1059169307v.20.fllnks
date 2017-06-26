@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/security.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/security.htm#DATA" />
+    <Link
+      Url="Content/security.htm#PASSWORD" />
+    <Link
+      Url="Content/security.htm#ACCOUNT" />
+    <Link
+      Url="Content/security.htm#CLIENT" />
+    <Link
+      Url="Content/security.htm#EMPLOYEE" />
+    <Link
+      Url="Content/security.htm#PERSONAL" />
+    <Link
+      Url="Content/security.htm#USER" />
+    <Link
+      Url="Content/security.htm#DATA2" />
+    <Link
+      Url="Content/security.htm#cxREPLAY" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="DATA" />
+    <Anchor
+      Name="PASSWORD" />
+    <Anchor
+      Name="ACCOUNT" />
+    <Anchor
+      Name="CLIENT" />
+    <Anchor
+      Name="EMPLOYEE" />
+    <Anchor
+      Name="PERSONAL" />
+    <Anchor
+      Name="USER" />
+    <Anchor
+      Name="DATA2" />
+    <Anchor
+      Name="cxREPLAY" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Tooltip Web Site"
+    Comment="For external links."
+    EvaluatedDefinition="Click to view this web site.">Click to view this web site.</Variable>
+  <Variable
+    Name="Tooltip Doc"
+    Comment="For bookmark links."
+    EvaluatedDefinition="Click to view this document.">Click to view this document.</Variable>
+  <Variable
+    Name="Tooltip Topic"
+    Comment="For links within the project."
+    EvaluatedDefinition="Click to view this Help &amp;amp; Training Guide topic.">Click to view this Help &amp;amp; Training Guide topic.</Variable>
+  <Variable
+    Name="Tooltip Section"
+    Comment="For heading links."
+    EvaluatedDefinition="Click to view this section.">Click to view this section.</Variable>
+  <Variable
+    Name="Tooltip Glossary"
+    Comment=""
+    EvaluatedDefinition="Click to view this Glossary term.">Click to view this Glossary term.</Variable>
+</CatapultVariableSet>

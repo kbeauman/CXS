@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="3794" MadCap:lastWidth="1443" class="Topic">
+    <head><title>SDK Deployment</title>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>SDK Deployment</h1>
+        <p>SDK stands for Software Development Kit, which is typically a set of software development tools that allows for the creation of applications. The Mobile SDK is primarily used to provide measurements within Mobile App Measures.</p>
+        <h2><a name="GENERAL"></a>General Information</h2>
+        <ul>
+            <li>The SDK code controls the following:<ul><li>Sampling Parameters</li><li>Survey Definitions</li><li>Survey Invitations</li><li>Client Logo on Invite</li><li>ForeSee Logo on Invite</li><li>CPPs</li><li>Languages</li></ul></li>
+            <li>Once the code has been downloaded, any changes are the responsibility of the client, apart from the sampling percentage, which is ours.</li>
+            <li>If a respondent receives an invite/survey and then an app update is pushed, this data is stored in the app storage so we will not invite again.</li>
+            <li>ForeSee cannot host SDK codes.  The only exception to this is  Hybrid apps, though it is rare so check with Mobile SME prior to presenting this as an option.</li>
+            <li>ForeSee<sup>®</sup> SDKs only support <a href="http://developer.foresee.com/docs-articles/supported-platforms/" target="_blank" title="[%=Tooltips.Tooltip Web Site%]" alt="[%=Tooltips.Tooltip Web Site%]">iOS and Android operating systems</a>. ForeSee does not support PhoneGap (Cordova) style applications.  Clients can instrument their PhoneGap application on the platforms we support using native SDK.</li>
+            <li>ForeSee does not offer custom configurations for our SDKs, though the client is free to do custom configurations on their end.<div class="example">An example of this would be configuring a time variable, such as somebody must be on the app for 30 seconds before receiving an invitation.</div></li>
+            <li>App Replay is delivered within an SDK instead of a code package.  It utilizes a series of screen captures (up to 80MB) to recreate the experience the user had on the app.</li>
+            <li>In the ON_EXIT invitation mode, the user is assumed to have completed the survey as soon as they accept the invitation since there is no way for the SDK to know if they follow the link they have been sent.</li>
+        </ul>
+        <h2><a name="iOS"></a>iOS Specific Information</h2>
+        <ul>
+            <li><a href="http://developer.foresee.com/docs-articles/supported-platforms/" title="[%=Tooltips.Tooltip Web Site%]" alt="[%=Tooltips.Tooltip Web Site%]" target="_blank">ForeSee currently supports iOS 7.0 and above</a>.</li>
+            <li>ForeSee has the ability to interact with a number of third-party analytics services to provide integrations and data sharing between those services and our SDK. The following services are currently supported:<ul><li>Adobe Marketing Cloud</li><li>Web Trends</li><li>Google Universal Analytics</li></ul></li>
+            <li>By default, the SDK automatically captures and sends the following device related CPPs with the survey:<ul><li>Model name (iPhone, iPad)</li><li>Brand name (Apple)</li><li>Browser (the version of Safari)</li><li>Operating System (iOS)</li><li>Operating System Version (7.1.2)</li><li>Is_tablet (true if the device is an iPad)</li><li>Resolution Width (screen width in pixels)</li><li>Resolution Height (screen height in pixels)</li><li>Screen Width (screen width in mm)</li><li>Screen Height (screen height in mm)</li><li>Locale (the device’s locale)</li></ul></li>
+            <li>SDK supports three invitation modes:<ul><li><b>Immediate</b> - This is the default invitation mode. The survey is displayed immediately when the user accepts the invitation. The survey is displayed in a UIWebView by a custom UIViewController. It is automatically dismissed when the survey is completed or the user abandons the survey by pressing the Close button.</li><li><b>On-Exit</b> - This invitation mode asks the user for an email address or a mobile number. After submitting the information to the ForeSee servers, the invitation is dismissed and the user is sent back into the app. No survey presents in this mode. Instead, after a period of time, the user is sent an email or an SMS text message with a link to the survey.<ul><li>Client surveys must be configured on the ForeSee servers for this option to work properly.  The client can enable it in their configuration file, but a survey link won’t be delivered unless properly configured remotely as well.</li></ul></li><li><b>Local</b> - In this mode, when the user accepts the survey invitation a local system notification is queued. Once the user exits the app, they see a local system notification informing them that they can take a survey.  For further technical requirements surrounding iOS local invites, please click <a href="http://developer.foresee.com/docs-articles/android-sdk/trigger/invite-modes/" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a>.</li></ul></li>
+        </ul>
+        <h2><a name="ANDROID"></a>Android Specific Information</h2>
+        <ul>
+            <li><a href="http://developer.foresee.com/docs-articles/supported-platforms/" target="_blank" title="[%=Tooltips.Tooltip Web Site%]" alt="[%=Tooltips.Tooltip Web Site%]">ForeSee currently supports Android 4.0 and above</a>.</li>
+            <li>SDK supports three invitation modes:<ul><li><b>Immediate</b> - This is the default invitation mode. When Trigger is configured for this mode, the survey is displayed at the point where the user accepts the invitation. The survey is displayed in a WebView. It is automatically dismissed when the survey is completed or the user abandons the survey by pressing the Back button.</li><li><b>On-Exit</b> - This invitation mode asks the user for an email address or a mobile number. After submitting the information to the ForeSee servers, the invitation is dismissed and the user is sent back into the app. No survey presents in this mode. Instead, after a period of time, the user is sent an email or an SMS text message with a link to the survey.<ul><li>The client’s surveys must be configured on the ForeSee servers for this option to work properly.  On-Exit may be enabled in the configuration file, but a survey link won’t be delivered unless properly configured remotely as well.</li></ul></li><li><b>Local</b> - In this mode, when the user accepts the survey invitation a local system notification is queued. Once the user exits the app, they see a local system notification informing them that they can take a survey.  For local notifications, in addition to setting the mode in the configuration file, a layout for the notification, as well as an icon to be displayed in the notification bar, are recommended.</li></ul></li>
+            <li>ForeSee has the ability to interact with a number of third-party analytics services to provide integrations and data sharing between those services and our SDK. The following services are currently supported:<ul><li>Adobe Marketing Cloud</li><li>Web Trends</li><li>Google Universal Analytics</li></ul></li>
+            <div class="note">It may also be possible to add other integrations if the required data is available from within your app code.</div>
+            <li>By Default, the SDK automatically captures and sends the following device related CPPs with the survey:<ul><li>Model name (e.g., GT-S7560M)</li><li>Brand name (e.g., Samsung)</li><li>Browser (e.g., Android WebKit)</li><li>Operating System (e.g., Android)</li><li>Operating System Version (Android 4.4)</li><li>Is_tablet (true if the device is a tablet)</li><li>Resolution Width (screen width in pixels)</li><li>Resolution Height (screen height in pixels)</li><li>Screen Width (screen width in mm)</li><li>Screen Height (screen height in mm)</li></ul></li>
+        </ul>
+        <h2><a name="ON-EXIT"></a>On-Exit Contact Information Handling</h2>
+        <p><b>How long do we store email and mobile phone numbers captured through the Mobile On-Exit invite process?</b> - There is a daily job that runs everyday to remove all contact information (email or phone number) every 24 hours. If a client has a reminder policy set up, then the contact information is saved in our system until the reminder date is met and then removed within 24 hours.</p>
+        <h2><a name="SUPPORT"></a>Support Guidelines</h2>
+        <p>When an issue has arisen with a client's in-app implementation, the best first step is to gather information about what happened. Some good initial questions to ask are:</p>
+        <h3>When did the issue start? Was there some change you made in your app code?</h3>
+        <p>This will allow you to determine if the issue arose because of something the client has done, or some external issue.</p>
+        <h3>Does the issue persist if you uninstall and reinstall the app?</h3>
+        <p>Clients often forget that the SDK has a state. Uninstalling and reinstalling the app is a quick and easy way to see if the state is causing the confusion. If the problem is solved after this resetting of state, you should mention to the client that once one invite is shown, the repeatDays threshold must be met before a new invite is shown.</p>
+        <h3>What version of our SDK are you using?</h3>
+        <p>This allows us to be able to mirror the client's setup by stepping back to the version they are using.</p>
+        <h3>Is there a problem with the configuration?</h3>
+        <p>Ask the client to send you their configuration JSON. From this you can often tell where things might be going wrong.</p>
+        <h3>What platform is this happening on? iOS, Android, or both?</h3>
+        <p>This is useful for the same reason as understanding the version, but if the issue is happening on both, it's more likely to be something external to both the client's code and our SDK code since it's unlikely the same issue would crop up in two different implementations. Of course, that's not a guarantee, as we've seen with previous clients.</p>
+        <h3>What notification type are you using?</h3>
+        <p>On iOS, local notifications can cause confusion because the user may have previously declined local notifications and therefore the invitation does not show. Because this setting is hard to reset, this confusion can extend even after the app is uninstalled.</p>
+        <h3>Are you using a cross-platform development language?</h3>
+        <p>Cross platform frameworks such as Xamarin, Cordova (PhoneGap), Appcelerator, etc. can all cause problems with our SDK. Although we do not officially support these platforms, there are possible ways to implement with them and some support can be given.</p>
+        <h2><a name="EXCLUSIO"></a>Exclusions</h2>
+        <p>For web based SDK, page exclusions can be based on things such as specific URLs, referring domains, browsers, cookies, etc.  These are not applicable to in-app SDK.  In-app SDK depends on a command to show the invitation.  This command must be placed in any place the invitation is required to show.</p>
+        <p>Because of this, it is also impossible to execute global exclusions based on IP address (this is usually done when trying to exclude internal IP addresses).</p>
+        <h2><a name="COOKIES"></a>Cookies</h2>
+        <p>Cookies do not really exist as such in apps. Although ForeSee does store a state and keep a count of the measurement criteria, it's done with persistent storage rather than cookies.</p>
+        <h2><a name="SAMPLING"></a>Sampling Parameters</h2>
+        <ul>
+            <li>Sampling percentage works in a similar way to web measures: Once the eligibility criteria has been met (launch count, significant events, etc), the user is sampled according to a percentage set on our servers. If they pass, they are shown an invitation. If they fail, they are resampled next time they open the app.<div class="note">IS sets sampling percentages for in-app measures.</div></li>
+            <li>The concept of loyalty factor as it applies to web-based trigger code (number of pages into a session) is not applicable to in-app SDK.  Since a loyalty factor does not exist, there is no place in the code to set it.</li>
+            <li>Unlike web-based trigger code, where setting sampling parameters to 0 effectively “turns off” the code, setting any criteria to 0 within the in-app SDK means that the invitation launches immediately (after 0 launches, for example). If the client wants to ignore a criteria, that line should be removed from the configuration.</li>
+        </ul>
+        <h2><a name="EVENT"></a>Event Triggers</h2>
+        <p>Our SDKs have the following built in events for triggering survey invitations:</p>
+        <ul>
+            <li>Number of times the app has been launched:<ul><li>The client can select this value themselves via the configuration file included within the SDK.</li></ul></li>
+            <li>Number of days since the app was launched and installed:<ul><li>The client can select this value themselves via the configuration file included within the SDK.</li></ul></li>
+            <li>Significant client owned events:<ul><li>e.g., click a specific button, reach a specific page on the app, complete a purchase.</li><li>These events can be anything the client decides.  They are incremented using a command called on the SDK.</li></ul></li>
+            <li>Lifetime Page views:<ul><li>The number of Activity resumes (Android) or ViewController appearances (iOS) in the app.</li><li>After triggering this event based on the count determined by the client, the survey won’t show for another 90 days.  The next time the visitor opens up the app after the 90 days are up, the counter resets.</li></ul></li>
+        </ul>
+    </body>
+</html>

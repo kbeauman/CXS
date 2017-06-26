@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="3213" MadCap:lastWidth="800" class="Topic">
+    <head>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Security</h1>
+        <table class="BlindTOC" style="margin-left: 0; margin-right: auto;">
+            <col style="width: 50%;" />
+            <col style="width: 50%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li><a href="#DATA" title="Click to view this section." alt="Click to view this section.">Data Masking</a>
+                            </li>
+                            <li><a href="#PASSWORD" title="Click to view this section." alt="Click to view this section.">Password Security</a>
+                            </li>
+                            <li><a href="#ACCOUNT" title="Click to view this section." alt="Click to view this section.">Account Disabling</a>
+                            </li>
+                            <li><a href="#CLIENT" title="Click to view this section." alt="Click to view this section.">Client Data Security</a>
+                            </li>
+                            <li><a href="#EMPLOYEE" title="Click to view this section." alt="Click to view this section.">Employee Computer Use</a>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li><a href="#PERSONAL" title="Click to view this section." alt="Click to view this section.">Personal Mobile Devices</a>
+                            </li>
+                            <li><a href="#USER" title="Click to view this section." alt="Click to view this section.">User Security Groups</a>
+                            </li>
+                            <li><a href="#DATA2" title="Click to view this section." alt="Click to view this section.">Data Classification Levels</a>
+                            </li>
+                            <li><a href="#cxREPLAY" title="Click to view this section." alt="Click to view this section.">Replay Security</a>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2><a name="DATA"></a>Data Masking</h2>
+        <ul>
+            <li>Once data is masked it cannot be unmasked.</li>
+            <li>The following sensitive data is masked:<ul><li>Social security number (SSN), Tax ID - 9 Digit number.</li><li>Credit/debit card account number - 15 or 16 digit number.</li></ul></li>
+            <li>Open-end data masking applies to the following applications:<ul><li>Survey (including mobile)</li><li>Store study surveys</li><li>Survey support links</li><li>Feedback</li><li>EXDL</li><li>IVR transcription of open ends (we get this data through FTP from our partners)</li></ul></li>
+            <li>Masking does not apply to data collected via the following:<ul><li>Sweepstakes through store landing pages (e.g., for drug stores )</li><li>Smart Thank You Pages</li><li>Mobile OnExit</li></ul></li>
+            <li>Replay clients MUST fill out a Secure Entry Form  (SIF) to determine which information is to be masked and which to be unmasked.  By default, if a client doesn’t specify masked or unmasked for a specific information, ForeSee masks that information.  Contact legal for the SIF.</li>
+            <li>Clients do not need to fill out a SIF for surveys to mask sensitive information in open-end responses.  The system looks for patterns, such as 15 or 16 digit number strings, and automatically assume it is a credit card number and mask it, or a nine digit number string, and automatically assume it is a SS number and mask it.<ul><li>All situations that the system believes matches the pattern are masked, whether it was sensitive information or not.<div class="example">A nine digit number string that is not actually a Social Security number is masked anyway under the assumption that it is.</div></li></ul></li>
+        </ul>
+        <h2><a name="PASSWORD"></a>Password Security</h2>
+        <h3>Portal Password</h3>
+        <ul>
+            <li>The following password criteria is applicable now for AAP, EP, and  VOC.<ul><li>Password must contain eight characters.</li><li>Password must contain at least one upper and one lower case alpha character.</li><li>Password must contain at least one number and special character.</li><li>Password must not contain more than two repeating characters.<div class="example">Passsword123!</div></li><li>Password must not match your username.</li><li>Password cannot be one of your previous six passwords.</li><li>Certain common phrases are not allowed.</li></ul></li>
+            <li>Profile passwords expire every 90 days. Users receive a notification email 15 days before the password is set expire.</li>
+            <li>Analysts and users from FedRAMP clients must use two factor authentication (2FA), rather than relying on a password alone.</li>
+            <li>With regards to portal, users are provided with a single-use link as well as a single-use token for initial account setup. Upon using these one-time items, they are prompted to create a unique, private password.<ul><li>This is applicable for both internal and external Portal users.</li></ul></li>
+        </ul>
+        <h2><a name="ACCOUNT"></a>Account Disabling</h2>
+        <ul>
+            <li>User accounts are disabled for users who do not log into the portal for 90 days or more.<ul><li>This is applicable to both internal and external portal users.</li></ul></li>
+            <li>External users must contact ForeSee to enable their portal profile again.<ul><li>Internal users who have their accounts disabled due to inactivity must contact DOT to re-enable their access.</li></ul></li>
+            <li>Satisfying the 90 day requirement works by logging into either portal. So if a user logs into the EP then the 90 day count resets for AAP also, and vice versa.</li>
+        </ul>
+        <h2><a name="CLIENT"></a>Client Data Security</h2>
+        <ul>
+            <li>We have an Acceptable Use Policy as well as Paper and Electronic Media Policies. It prohibits users from misusing client data.</li>
+            <li>Employees go through annual training and must sign confidentiality agreements.</li>
+            <li>Printed reports containing restricted data are to be physically retained, stored, or archived only within secure Foresee office environments, and only for the minimum time deemed necessary for their use. Printers do maintain logs of who printed data.</li>
+            <li>We typically disable the use of USB and CD drives, but use cryptzone to ensure data is encrypted for privileged users who are allowed access.</li>
+            <li>ForeSee is working to implement a formal DLP solution in the future as part of the FedRamp compliance efforts.</li>
+        </ul>
+        <h2><a name="EMPLOYEE"></a>Employee Computer Use</h2>
+        <ul>
+            <li>Using VPN to remotely access the company network should only be done from a company device.  Home computers can be used if connecting through “View” (VMWare).<ul><li>Employees must submit a ticket for initial access to the VPN, and provide the following information:<ul><li>Personal cell number</li><li>Carrier</li><li>Personal email address</li></ul></li><li>Once you have been given access to the VPN, Tech Ops can help you through the initial setup process.</li><li>To access the VPN, you must sign in through the browser (IE) at sslvpn.foreseeresults.com.  You will be send a text message with a six digit string that must be input into the web page that displays after you login.</li></ul></li>
+            <li>All PCs, laptops, and workstations should be secured with a password-protected screensaver with the automatic activation feature set at 15 minutes or less.</li>
+            <li>Employees should secure their workstations by logging off or locking when the workstation is attended.<ul><li>Windows users can press Ctrl+Alt+Delete keys simultaneous and select Lock this computer, or press the Windows key together with L.</li></ul></li>
+            <li>Employees must use extreme caution when opening email attachments received from unknown senders, which may contain viruses, email bombs, or trojans.</li>
+            <li>Access to the company’s email through a smartphone, using its native email client, is only allowed on a company issues phone.  Users without a company issues phone may use their personal phone’s web browser to access company email if supported.</li>
+            <li>The employee must not install third-party file sharing tools, such as Dropbox, on a company device, without the consent of the Security Team.  If permission is granted, the file share can only be used for non-proprietary data. No client data should be shared.<ul><li>Contact the Security team for more information on the formal exception process.</li></ul></li>
+            <li>Use encryption of information in compliance with Security Team standards:<ul><li>Data classified as “public” does not need to be encrypted.</li><li>Data classified as “confidential” passed internally to an authorized user needs no encryption.</li><li>Data classified as “internal” does not need to be encrypted since they can only be sent internally.</li><li>Any other classification must have encryption.</li><li>WinZip is the standard internal encryption tool.</li></ul></li>
+        </ul>
+        <h2><a name="PERSONAL"></a>Personal Mobile Devices</h2>
+        <p>Mobile devices may be used on the company public network only and should be done for valid business reasons only.  The company supports Apple iOS and Android devices.  An employee having a personal mobile Android or Apple device may connect to the company private network under the following conditions:</p>
+        <ul>
+            <li>The device must be registered and staged by the IT staff.</li>
+            <li>The employee must consent to the device being cleaned and restored to the original factory settings upon the employee’s departure from the company and in the event the device is lost or stolen.<ul><li>The employee must notify the company immediately if the device is lost or stolen.</li></ul></li>
+            <li>The employee must consent to company-imposed password protection for the device, and the password must be kept confidential.</li>
+            <li>The company does not support any other type of mobile device, including but not limited to, the Windows or Blackberry operating systems.</li>
+        </ul>
+        <h2><a name="USER"></a>User Security Groups</h2>
+        <ul>
+            <li>We will be categorizing clients as either HIPAA, FedRAMP, or neither.  If you are an analyst supporting a client who is categorized as HIPAA, you must be in the HIPAA security group to be able to access that client’s data.<ul><li>A user can have both HIPAA and FedRAMP clearance.</li><li>Users who have a specific designation are able to view data from all clients with that particular designation, not just data from your client(s) with that designation.</li></ul></li>
+            <li>By default, ForeSee employees will be added to the ‘default’ security group, with no access to HIPAA or FedRAMP client data.<ul><li>For employees of clients, there is no change to the Portal access process, since the client is designated at the company level as FedRAMP/HIPAA.</li></ul></li>
+            <li>DOT is in charge of placing ForeSee employees within the correct security group.</li>
+            <li>Report subscriptions within the AAP will be affected by the addition of security groups.<ul><li>If a subscription report is set up with an ‘owner’ that is not in the applicable security group the subscription will not process.</li></ul></li>
+        </ul>
+        <h2><a name="DATA2"></a>Data Classification Levels</h2>
+        <p>ForeSee classifies data in five primary categories (Sensitive, Confidential, Restricted, Internal, and Public).</p>
+        <ul>
+            <li><b>Sensitive Data:</b> Any restricted data that is covered by law/regulation. The Company is required to self-report to the government and/or provide notice to the individual if information is inappropriately accessed.  Regulations include data collected under FedRAMP, HIPAA, HITECH, FERPA, PCI and similar state and  federal laws.</li>
+            <li><b>Restricted Data:</b> Any user information which unauthorized disclosure could seriously and adversely impact the team member, company, business partners, and/or its customers. This is typically data not shared, such as passwords and encryption keys.</li>
+            <li><b>Confidential Data:</b> any data that is contractually protected as confidential by law or by contract and any other information that is considered by the Company appropriate for confidential treatment. (Client-owned data, HR information, non-public personal and financial data).</li>
+            <li><b>Internal Data:</b> Any information that is proprietary or business information which is intended strictly for use within the Company. (Internal policy, operating procedures, operational manuals, technical and security documents).</li>
+            <li><b>Public Data:</b> Any information that may or must be made available to the general public, with no legal restrictions on its access or use. Corporate Communications approves any such designation.</li>
+        </ul>
+        <p>The system/data owner, or stakeholder, is typically responsible for classifying the data.  If you have any question surrounding which classification your data should be, contact the Security Team at security-team@answers.com.</p>
+        <h2><a name="cxREPLAY"></a>Replay Security</h2>
+        <ul>
+            <li>AWS security - Coming Soon!</li>
+            <li>Login is the same as the portal since to view replays you need to be in the portal.<ul><li>The only exception to the above statement is when a Replay link is created to email out.</li></ul></li>
+            <li>Replay offers the functionality to create a link that can be sent out to users who do not have access to the portal, both internal and external.<ul><li>The links automatically expire at 11:59 PM on the second day after they are sent.</li><li>The person who sent the link has the ability to deactivate the link at any time before the expiration period, even after the link has been viewed.</li><li>Viewing the link does not require a portal login.</li><li>The person the link was sent to can view the linked content as many times as they want before the link expires or is deactivated.</li></ul></li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="H &amp; T Guide"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/home.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/whatsNew.htm" />
+    <Link
+      Url="Content/Resources/Images/What'sNewTile.png" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/GettingStartedTile.png" />
+    <Link
+      Url="Content/cxMeasurement/home.htm" />
+    <Link
+      Url="Content/Resources/Images/cxMeasureTile.png" />
+    <Link
+      Url="Content/HT/CaseMgmtTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/CaseMgmtTile.png" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/home.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/whatsNew.htm" />
+    <Link
+      Url="Content/Resources/Images/What'sNewTile.png" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/GettingStartedTile.png" />
+    <Link
+      Url="Content/cxMeasurement/home.htm" />
+    <Link
+      Url="Content/Resources/Images/cxMeasureTile.png" />
+    <Link
+      Url="Content/HT/CaseMgmtTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/CaseMgmtTile.png" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/home.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="2105" MadCap:lastWidth="800" class="Topic">
+    <head>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>CPPs/EPPs</h1>
+        <table class="BlindTOC" style="margin-left: 0; margin-right: auto;">
+            <col style="width: 50%;" />
+            <col style="width: 50%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li><a href="#WHAT" title="Click to view this section." alt="Click to view this section.">What Is It?</a>
+                            </li>
+                            <li><a href="#WHY" title="Click to view this section." alt="Click to view this section.">Why Use Them?</a>
+                            </li>
+                            <li><a href="#DEPLOYME" title="Click to view this section." alt="Click to view this section.">Deployment Types Where We Can Capture CPPs</a>
+                            </li>
+                            <li><a href="#PASSING" title="Click to view this section." alt="Click to view this section.">Passing CPPs Through an Intercept Survey</a>
+                            </li>
+                            <li><a href="#PASSING2" title="Click to view this section." alt="Click to view this section.">Passing CPPs With The URL API</a>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li><a href="#TRIGGERI" title="Click to view this section." alt="Click to view this section.">Triggering CQs Based On CPP Values</a>
+                            </li>
+                            <li><a href="#HOW" title="Click to view this section." alt="Click to view this section.">How To Pass EPPs</a>
+                            </li>
+                            <li><a href="#GENERAL" title="Click to view this section." alt="Click to view this section.">General Information</a>
+                            </li>
+                            <li><a href="#IMPORTAN" title="Click to view this section." alt="Click to view this section.">Important Links</a>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2><a name="WHAT"></a>What Is It?</h2>
+        <p><b>CPP (Customer Passed Parameter)</b> - A Customer Passed Parameter is a data point created by, or currently available from, the client that is captured at the time of survey submission. CPPs can typically be captured with either a variable, cookie, or a URL string that is accessible while the ForeSee code is running.</p>
+        <p><b>EPP (External Passed Parameter)</b> - An External Passed Parameter is a data point provided by an external file. Data fields are sent in a separate data file, are matched up by the client and then loaded to the portal or appended by IS.</p>
+        <h2><a name="WHY"></a>Why Use Them?</h2>
+        <p>CPPs and EPPs are primarily used by clients to segment data within the Portal for an increased level of granularity. Analysts can also use them to increase the relevance of their SIRs.</p>
+        <h2><a name="DEPLOYME"></a>Deployment Types Where We Can Capture CPPs</h2>
+        <ul>
+            <li><a href="../triggerCode18x.htm" title="Click to view this Product Guide topic." alt="Click to view this Product Guide topic.">Trigger Code</a>
+                <ul>
+                    <li>Hosted Code</li>
+                    <li>Legacy Code</li>
+                </ul>
+            </li>
+            <li><a href="../sdk.htm" title="Click to view this Product Guide topic." alt="Click to view this Product Guide topic.">SDK</a>
+            </li>
+            <li>Static Link<ul><li>Email link</li><li>Site Feedback link (either with or without code on the site)</li><li>Social Media Link</li><li>Physical link (vanity URL) on store signage/receipt</li></ul></li>
+            <li>IVR/IVA (for both Store and Contact Center measures)</li>
+            <li>Panel Studies</li>
+        </ul>
+        <h2><a name="PASSING"></a>Passing CPPs Through An Intercept Survey</h2>
+        <p>CPPs can be sent with the survey. This passing happens at the time of survey submission.</p>
+        <p>We have the ability within our code to set any CPP with a default value. This allows us to set the default value for a given event on the site you wish to measure, until it is changed to another value which indicates an action has been taken.</p>
+        <div class="example">
+            <ul>
+                <li>Logged in verses not logged in (default)</li>
+                <li>Added to cart verses nothing added to cart (default)</li>
+            </ul>
+        </div>
+        <p>The client can send as many CPPs as they would like to us, though the more CPPs they pass, the larger the session level cookie is, as this data is stored in the cookie until the survey is presented.</p>
+        <h2><a name="PASSING2"></a>Passing CPPs With The URL API</h2>
+        <p>The term "URL API" can be thought of as being synonymous with the term "Survey Link", or the link used in emails and Site Feedback.</p>
+        <p>If the URL survey link is being used for email or where NO code is running on the site, then only the following default CPPs can be collected at the time of survey submission.</p>
+        <ul>
+            <li>sid</li>
+            <li>survey_time</li>
+            <li>survey_submits</li>
+        </ul>
+        <p>If the URL survey link is being used for Site Feedback where code is running on the site, then we can capture a larger list of CPPs than the three mentioned above. You can find this list of CPPs <a href="https://fsrwiki.foreseeresults.com/display/IS/Survey-Link-SiteFeedback" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a>.</p>
+        <p>Clients can pass additional CPPs beyond the default mentioned above when using the URL API by adding them to the URL string.</p>
+        <ul>
+            <li>There is a limit of 2056 characters for the total URL string.</li>
+            <li>Multiple CPPs within the URL string must be delimited by an ampersand (&amp;):<div class="example">http://survey.foreseeresults.com/survey/display?cid=8NNxB5BIVJdMBEBUBJ1Fpg==<span style="color: #ff0000; font-weight: bold;">&amp;</span>sid=link<b style="color: #ff0000;">&amp;</b>cpp[custid]=1234</div></li>
+            <li>The API syntax follows a name/value assignment formula, which can be seen in the above URL string also<div class="example">&amp;cpp[name]=value)</div></li>
+        </ul>
+        <h2><a name="TRIGGERI"></a>Triggering CQs Based On CPP Values</h2>
+        <p>We can set it up so that certain CQs only show to the respondent if that respondent also exhibits a certain CPP value.</p>
+        <p>There is a one to one relationship between CQs and CPP values. This means that each CQ can only be linked to one CPP and not multiple CPPs.</p>
+        <p>There is no limit to the number of custom questions in a survey that can be linked to CPP values.</p>
+        <h2><a name="HOW"></a>How To Pass EPPs</h2>
+        <p>The client must send us a file with the Foresee <span style="color: #ff0000;">respondent id or email id</span>. This can be done in the following ways:</p>
+        <ul>
+            <li>In the case of integration, the client has this information from the thank you page "handshake".</li>
+            <li>In other cases, the client may get a custom extract from the analyst, append the data needed in additional columns then send it back to us via the SFTP site.</li>
+            <li>Another way to append data is to use a unique identifier that the client is capturing as a CPP to match the data to a respondent.</li>
+        </ul>
+        <p>The client data is delivered to ForeSee through the use of SFTP.</p>
+        <p>The data file that is sent to ForeSee can be the following formats:</p>
+        <ul>
+            <li>.csv</li>
+            <li>.tsv</li>
+            <li>Delimited .txt</li>
+            <li>.sql</li>
+        </ul>
+        <p>The file that is sent to us must have column headers, the column order must not change, any additional columns added after the first load must be added as the last column, and we can only have one file per measurement.</p>
+        <p>Data that is sent to us appears in the Portal the following day.</p>
+        <p>How does the data/variables they are sending us get matched up to the correct respondent in the portal?  Is this done through a specific variable?</p>
+        <h2><a name="GENERAL"></a>General Information</h2>
+        <p>Once a survey is presented the CPPs no longer update. So, if a user receives a survey in session or prematurely during onExit we do not collect CPPs after they have left.</p>
+        <h2><a name="IMPORTAN"></a>Important Links</h2>
+        <p><a href="https://myfsr.foreseeresults.com/clients/Client Services Process1/ForeSee_CPP_Information.pdf" target="_blank" title="Click to view this document." alt="Click to view this document.">CPP Information Guide</a>
+        </p>
+    </body>
+</html>

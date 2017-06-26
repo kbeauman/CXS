@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Integration - Respondent Level"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/4cBasicLeft.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm" />
+    <Link
+      Url="http://microsite.omniture.com/gs/assets/wizard/foresee/index.html" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/pages/viewpage.action" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/CS Integration/HighLevelOverview_Corporate Metrics.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/CS Integration/Adobe Omniture Integration - Overview.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/CS Integration/HighLevelOverview_Standard Integration.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/4cBasicLeft.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#REQUIREM" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#REQUIREM2" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#REQUIREM3" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#REQUIREM4" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#REQUIREM5" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#GOOGLE" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#OMNITURE" />
+    <Link
+      Url="Content/cxMeasurement/integration.htm#IMPORTAN" />
+    <Link
+      Url="http://microsite.omniture.com/gs/assets/wizard/foresee/index.html" />
+    <Link
+      Url="https://fsrwiki.foreseeresults.com/pages/viewpage.action?title=Data_Integration_FAQ&amp;spaceKey=IS" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/CS Integration/HighLevelOverview_Corporate Metrics.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/CS Integration/Adobe Omniture Integration - Overview.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/CS Integration/HighLevelOverview_Standard Integration.pdf" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="REQUIREM" />
+    <Anchor
+      Name="REQUIREM2" />
+    <Anchor
+      Name="REQUIREM3" />
+    <Anchor
+      Name="REQUIREM4" />
+    <Anchor
+      Name="REQUIREM5" />
+    <Anchor
+      Name="GOOGLE" />
+    <Anchor
+      Name="OMNITURE" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/4cBasicLeft.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

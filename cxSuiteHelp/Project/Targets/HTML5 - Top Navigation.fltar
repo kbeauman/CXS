@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="CX Suite"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  ResultsPerPage="10"
+  Skin="(none)"
+  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
+  MenuSkin="/Project/Skins/Menu.flskn"
+  MasterPage="/Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp"
+  SearchBarSkin="/Project/Skins/ToolbarSearch.flskn"
+  DefaultUrl="/Content/cxSuite/home.htm"
+  MasterToc="/Project/TOCs/HT.fltoc"
+  OutputFolder="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/GitHubLocal.fldes" />
+  </Destinations>
+</CatapultTarget>

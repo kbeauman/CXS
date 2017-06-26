@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/benchmarks.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Templates/Forms/AllItems.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Benchmarks.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/SlidesMacros.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/SIR Documents/Forms/AllItems.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/MultiChannelBenchmarks.aspx" />
+    <Link
+      Url="Content/Resources/Images/multiChannelSatOver20.png" />
+    <Link
+      Url="Content/Resources/Images/multiChannelSat5to20.png" />
+    <Link
+      Url="Content/Resources/Images/TrueConversionPrimaryPurpose.jpg" />
+    <Link
+      Url="Content/Resources/Images/SocialValueCQ.png" />
+    <Link
+      Url="Content/Resources/Images/TornadoChart.jpg" />
+    <Link
+      Url="Content/Resources/Images/BulletChart.jpg" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Product Overview.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report SAMPLE - Multi-Channel Benchmark.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report SAMPLE - Social Media Value.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report SAMPLE - Word of Mouth Index(WoMI).xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report - Prospect Facing - DO NOT EMAIL OUT.xlsx" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/benchmarks.htm#WHAT" />
+    <Link
+      Url="Content/benchmarks.htm#AVAILABL" />
+    <Link
+      Url="Content/benchmarks.htm#SEASONAL" />
+    <Link
+      Url="Content/benchmarks.htm#STORE" />
+    <Link
+      Url="Content/benchmarks.htm#MULTI-CH" />
+    <Link
+      Url="Content/benchmarks.htm#INTERNAT" />
+    <Link
+      Url="Content/benchmarks.htm#WOMI" />
+    <Link
+      Url="Content/benchmarks.htm#NPS" />
+    <Link
+      Url="Content/benchmarks.htm#TRUE" />
+    <Link
+      Url="Content/benchmarks.htm#SOCIAL" />
+    <Link
+      Url="Content/benchmarks.htm#PUBLIC" />
+    <Link
+      Url="Content/benchmarks.htm#CRM" />
+    <Link
+      Url="Content/benchmarks.htm#BENCHMAR" />
+    <Link
+      Url="Content/benchmarks.htm#BENCHMAR2" />
+    <Link
+      Url="Content/benchmarks.htm#OTHER" />
+    <Link
+      Url="Content/benchmarks.htm#HOW" />
+    <Link
+      Url="Content/benchmarks.htm#IMPORTAN" />
+    <Link
+      Url="Content/benchmarks.htm#BENCHMAR3" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Templates/Forms/AllItems.aspx?RootFolder=/clients/Templates/Company%20Wide%20Benchmarks/Company%20Wide&amp;FolderCTID=0x01200027CF96A8D0C2334B915D4448945198B7&amp;View=%7b6B5E764C-0949-494C-A957-4B7C577633D2%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Templates/Forms/AllItems.aspx?RootFolder=/clients/Templates/Benchmarks%20by%20Industry/Public%20Sector%20Benchmarks&amp;FolderCTID=0x01200027CF96A8D0C2334B915D4448945198B7&amp;View=%7b6B5E764C-0949-494C-A957-4B7C577633D2%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Benchmarks.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/SlidesMacros.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/SIR Documents/Forms/AllItems.aspx?RootFolder=/clients/SIR%20Documents/SIR%20Templates%20(Internal%20Use%20Only)/WoMI%20Materials/WoMI%20Benchmarks/2015&amp;FolderCTID=0x012000425085FCC2353649B51723DAD30E7C79&amp;View=%7b66595DA5-447E-4887-A036-B917D7B0DA16%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/SIR Documents/Forms/AllItems.aspx?RootFolder=/clients/SIR%20Documents/SIR%20Templates%20(Internal%20Use%20Only)/Social%20Value%20Materials&amp;FolderCTID=0x012000425085FCC2353649B51723DAD30E7C79&amp;View=%7b66595DA5-447E-4887-A036-B917D7B0DA16%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/SIR Documents/Forms/AllItems.aspx?RootFolder=/clients/SIR%20Documents/SIR%20Templates%20(Internal%20Use%20Only)/International%20Benchmarks/Ending%20in%202015&amp;FolderCTID=0x012000425085FCC2353649B51723DAD30E7C79&amp;View=%7b66595DA5-447E-4887-A036-B917D7B0DA16%7d&amp;InitialTabId=Ribbon.Document&amp;VisibilityContext=WSSTabPersistence" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx?RootFolder=/clients/HolidaySeasonal%20Benchmark%20Insights/Back%20To%20School&amp;FolderCTID=0x0120004F800418EEA5F641A07E39461F98F9D0&amp;View=%7b30522B9A-C71F-46FE-89F9-CF95FC1A5101%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx?RootFolder=/clients/HolidaySeasonal%20Benchmark%20Insights/Father's%20Day%20Insights&amp;FolderCTID=0x0120004F800418EEA5F641A07E39461F98F9D0&amp;View=%7b30522B9A-C71F-46FE-89F9-CF95FC1A5101%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx?RootFolder=/clients/HolidaySeasonal%20Benchmark%20Insights/Halloween%20Insights&amp;FolderCTID=0x0120004F800418EEA5F641A07E39461F98F9D0&amp;View=%7b30522B9A-C71F-46FE-89F9-CF95FC1A5101%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx?RootFolder=/clients/HolidaySeasonal%20Benchmark%20Insights/Mother's%20Day%20Insights&amp;FolderCTID=0x0120004F800418EEA5F641A07E39461F98F9D0&amp;View=%7b30522B9A-C71F-46FE-89F9-CF95FC1A5101%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx?RootFolder=/clients/HolidaySeasonal%20Benchmark%20Insights/Summer%20Travel&amp;FolderCTID=0x0120004F800418EEA5F641A07E39461F98F9D0&amp;View=%7b30522B9A-C71F-46FE-89F9-CF95FC1A5101%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/HolidaySeasonal Benchmark Insights/Forms/AllItems.aspx?RootFolder=/clients/HolidaySeasonal%20Benchmark%20Insights/Winter%20Holidays&amp;FolderCTID=0x0120004F800418EEA5F641A07E39461F98F9D0&amp;View=%7b30522B9A-C71F-46FE-89F9-CF95FC1A5101%7d" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/MultiChannelBenchmarks.aspx?View=%7bf3a70370-7e01-4887-8551-3335ca8d7d12%7d&amp;SortField=LinkFilename&amp;SortDir=Desc" />
+    <Link
+      Url="Content/Resources/Images/multiChannelSatOver20.png" />
+    <Link
+      Url="Content/Resources/Images/multiChannelSat5to20.png" />
+    <Link
+      Url="Content/Resources/Images/TrueConversionPrimaryPurpose.jpg" />
+    <Link
+      Url="Content/Resources/Images/SocialValueCQ.png" />
+    <Link
+      Url="Content/Resources/Images/TornadoChart.jpg" />
+    <Link
+      Url="Content/Resources/Images/BulletChart.jpg" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Product Overview.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report SAMPLE - Multi-Channel Benchmark.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report SAMPLE - Social Media Value.xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report SAMPLE - Word of Mouth Index(WoMI).xlsx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Benchmark Report - Prospect Facing - DO NOT EMAIL OUT.xlsx" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="AVAILABL" />
+    <Anchor
+      Name="SEASONAL" />
+    <Anchor
+      Name="STORE" />
+    <Anchor
+      Name="MULTI-CH" />
+    <Anchor
+      Name="INTERNAT" />
+    <Anchor
+      Name="WOMI" />
+    <Anchor
+      Name="NPS" />
+    <Anchor
+      Name="TRUE" />
+    <Anchor
+      Name="SOCIAL" />
+    <Anchor
+      Name="PUBLIC" />
+    <Anchor
+      Name="CRM" />
+    <Anchor
+      Name="BENCHMAR" />
+    <Anchor
+      Name="BENCHMAR2" />
+    <Anchor
+      Name="OTHER" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="BENCHMAR3" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\CX-Help-and-Training-Guide\Content\CaseMgmt\datePicker.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\CX-Help-and-Training-Guide\Content\Resources\Images\SettingsIcon.png" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\CX-Help-and-Training-Guide\Content\Resources\Snippets\Topic content.flsnp" />
+    </Dialog>
+</RecentLinks>

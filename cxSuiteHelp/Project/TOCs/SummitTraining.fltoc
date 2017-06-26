@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="CX Suite Help &amp; Training Guide"
+    Link="/Content/cxSuite/cover.htm"
+    conditions="Default.PrintOnly"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Content.flpgl" />
+  <TocEntry
+    Title="TOC - Print"
+    Link="/Content/cxSuite/printTOC.htm"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="Using CX Suite"
+    Link="/Content/cxSuite/using.htm" />
+  <TocEntry
+    Title="CX 360 Dashboard"
+    Link="/Content/cxSuite/cx360.htm" />
+  <TocEntry
+    Title="Case Management"
+    Link="/Content/cxSuite/CaseMgmtTOC.htm">
+    <TocEntry
+      Title="About Case Management"
+      Link="/Content/CaseMgmt/about.htm" />
+    <TocEntry
+      Title="Create an Automated Case"
+      Link="/Content/CaseMgmt/createAuto.htm" />
+    <TocEntry
+      Title="Create a Manual Case"
+      Link="/Content/CaseMgmt/createManual.htm" />
+    <TocEntry
+      Title="Work on a Case"
+      Link="/Content/CaseMgmt/workCase.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Measures Dashboard"
+    Link="/Content/cxSuite/MeasuresDashboard.htm" />
+  <TocEntry
+    Title="Respondent Details"
+    Link="/Content/cxSuite/respondentDetails.htm" />
+  <TocEntry
+    Title="Text Analytics"
+    Link="/Content/cxSuite/TextAnalyticsTOC.htm">
+    <TocEntry
+      Title="About Text Analytics"
+      Link="/Content/TextAnalytics/about.htm" />
+    <TocEntry
+      Title="Analyzing Data"
+      Link="/Content/TextAnalytics/analyzing.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Mobile App"
+    Link="/Content/cxSuite/MobileApp.htm">
+    <TocEntry
+      Title="1602 Implementation Guide"
+      Link="/Content/Resources/PDFs/1602_Implementation_Guide-Survey_Invite_v1MR.pdf" />
+  </TocEntry>
+  <TocEntry
+    Title="Feedback"
+    Link="/Content/cxSuite/FeedbackTOC.htm">
+    <TocEntry
+      Title="About Feedback Surveys"
+      Link="/Content/Feedback/aboutSurveys.htm" />
+    <TocEntry
+      Title="More on Feedback"
+      Link="/Content/cxMeasurement/feedback.htm"></TocEntry>
+    <TocEntry
+      Title="Create or Edit a Survey"
+      Link="/Content/Feedback/newSurvey.htm"></TocEntry>
+    <TocEntry
+      Title="Topics"
+      Link="/Content/Feedback/topics.htm" />
+    <TocEntry
+      Title="Configuring a Survey"
+      Link="/Content/Feedback/configureSurvey.htm" />
+    <TocEntry
+      Title="Publishing a Survey"
+      Link="/Content/Feedback/publishing.htm"></TocEntry>
+    <TocEntry
+      Title="Notifications"
+      Link="/Content/Feedback/Alerts.htm" />
+    <TocEntry
+      Title="Turn A Survey Off"
+      Link="/Content/Feedback/surveyOff.htm" />
+    <TocEntry
+      Title="Viewing Feedback Data"
+      Link="/Content/Feedback/viewingData.htm" />
+    <TocEntry
+      Title="In-Page Reporting"
+      Link="/Content/Feedback/inPg.htm" />
+  </TocEntry>
+</CatapultToc>

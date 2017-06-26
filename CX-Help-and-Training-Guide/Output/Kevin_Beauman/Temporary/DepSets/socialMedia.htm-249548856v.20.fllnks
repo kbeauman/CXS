@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Social Media"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Social Media Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Social Persona Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Michigan Economic Development Corporation.pdf" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/salesforce-integration" />
+    <Link
+      Url="https://hootsuite.com/" />
+    <Link
+      Url="https://www.brandwatch.com/" />
+    <Link
+      Url="https://klout.com/home" />
+    <Link
+      Url="http://www.exacttarget.com/products/social-media-marketing/radian6" />
+    <Link
+      Url="http://www.crimsonhexagon.com/" />
+    <Link
+      Url="http://simplify360.com/" />
+    <Link
+      Url="http://www.nielsen.com/us/en.html" />
+    <Link
+      Url="https://www.socialappshq.com/" />
+    <Link
+      Url="http://www.clarabridge.com/text-analytics/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#CQs" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#CPPs" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#MODEL" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#SURVEY" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#INCLUDED" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/socialMedia.htm#COMPETIT2" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/cxMeasurement/loyalty.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Social Media Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Social Persona Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Michigan Economic Development Corporation.pdf" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/salesforce-integration?ut_source=header" />
+    <Link
+      Url="https://hootsuite.com/" />
+    <Link
+      Url="https://www.brandwatch.com/?utm_expid=26799417-6.thqslHc1RYOiDy-Bwbt5gw.0&amp;utm_referrer=https://www.google.com/" />
+    <Link
+      Url="https://klout.com/home" />
+    <Link
+      Url="http://www.exacttarget.com/products/social-media-marketing/radian6" />
+    <Link
+      Url="http://www.crimsonhexagon.com/" />
+    <Link
+      Url="http://simplify360.com/" />
+    <Link
+      Url="http://www.nielsen.com/us/en.html" />
+    <Link
+      Url="https://www.socialappshq.com/" />
+    <Link
+      Url="http://www.clarabridge.com/text-analytics/" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="CQs" />
+    <Anchor
+      Name="CPPs" />
+    <Anchor
+      Name="MODEL" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

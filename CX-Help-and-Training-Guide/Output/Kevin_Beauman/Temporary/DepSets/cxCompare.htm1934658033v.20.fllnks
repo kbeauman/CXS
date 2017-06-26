@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/cxCompare.htm" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/store.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/cxCompareModel.png" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/CompetitiveStudy.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Competitor Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Competitive Study.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/CompetitiveStudySuccessStories.aspx" />
+    <Link
+      Url="Content/panel.htm" />
+    <Link
+      Url="http://www.jdpower.com/content/jd-power-voice-of-experience-vox" />
+    <Link
+      Url="http://www.marketstrategies.com/en/services/customer-experience-research.aspx" />
+    <Link
+      Url="http://www.maritz.com/customer-experience-technology-solutions" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/salesforce-integration" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/cxCompare.htm#WHAT" />
+    <Link
+      Url="Content/cxCompare.htm#WHY" />
+    <Link
+      Url="Content/cxCompare.htm#TARGET" />
+    <Link
+      Url="Content/cxCompare.htm#ACTIONAB" />
+    <Link
+      Url="Content/cxCompare.htm#COMMON" />
+    <Link
+      Url="Content/cxCompare.htm#COMPETIT" />
+    <Link
+      Url="Content/cxCompare.htm#MODEL:" />
+    <Link
+      Url="Content/cxCompare.htm#DEPLOYME" />
+    <Link
+      Url="Content/cxCompare.htm#LANGUAGE" />
+    <Link
+      Url="Content/cxCompare.htm#WHO" />
+    <Link
+      Url="Content/cxCompare.htm#INCLUDED" />
+    <Link
+      Url="Content/cxCompare.htm#GENERAL" />
+    <Link
+      Url="Content/cxCompare.htm#SCOPING" />
+    <Link
+      Url="Content/cxCompare.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxCompare.htm#COMPETIT2" />
+    <Link
+      Url="Content/cxMeasurement/contactCenter.htm" />
+    <Link
+      Url="Content/store.htm" />
+    <Link
+      Url="Content/cxMeasurement/crm.htm" />
+    <Link
+      Url="Content/Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Link
+      Url="Content/Resources/Images/cxCompareModel.png" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/sentimentAnalytics.htm" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/CompetitiveStudy.aspx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Competitor Customer Satisfaction - Product Solution.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Competitive Study.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/CompetitiveStudySuccessStories.aspx" />
+    <Link
+      Url="Content/panel.htm" />
+    <Link
+      Url="http://www.jdpower.com/content/jd-power-voice-of-experience-vox" />
+    <Link
+      Url="http://www.marketstrategies.com/en/services/customer-experience-research.aspx" />
+    <Link
+      Url="http://www.maritz.com/customer-experience-technology-solutions" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="https://www.surveymonkey.com/mp/salesforce-integration?ut_source=header" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="COMMON" />
+    <Anchor
+      Name="COMPETIT" />
+    <Anchor
+      Name="MODEL:" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="SCOPING" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>Because pooling immediately excludes some of the visitors from taking a survey no matter the length of their session, we must adjust the sampling percentage up for the survey to account for the fact that fewer people are eligible to take the survey. We start by adjusting the SP in unison with the pooling number. So if the pooling SP is 20% (1/5), we multiply the current sampling rate by five. Then we adjust the SP up for the average number of pages viewed, being larger than one, to account for the increased probability users who are now not in the pool had of getting invited previously.</body>
+</html>

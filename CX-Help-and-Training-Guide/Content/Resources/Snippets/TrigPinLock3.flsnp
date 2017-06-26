@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>You could still move into a higher priority definition. The code reads the definition from the top down. The higher up a definition is in order, the more priority it has. Once you are pinned to a definition, you can move up to a higher priority definition, but you can't move down.</body>
+</html>

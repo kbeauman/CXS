@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#AAP" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#HOW" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#AVAILABL" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#Comparis" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#Distribu" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#Open-End" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#Summary" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#Extract" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#REPORTIN" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#EXECUTIV" />
+    <Link
+      Url="Content/cxMeasurement/reporting.htm#REPORTIN2" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="AAP" />
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="AVAILABL" />
+    <Anchor
+      Name="Comparis" />
+    <Anchor
+      Name="Distribu" />
+    <Anchor
+      Name="Open-End" />
+    <Anchor
+      Name="Summary" />
+    <Anchor
+      Name="Extract" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="REPORTIN" />
+    <Anchor
+      Name="EXECUTIV" />
+    <Anchor
+      Name="REPORTIN2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

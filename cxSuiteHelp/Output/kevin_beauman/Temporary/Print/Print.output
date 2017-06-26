@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/../Print/Output/Print/cxSuiteHelp.doc"
+  BuildVersion="12.0.5991.25330">
+  <Files>
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/corner.jpg" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/PDFs/Winter17ClientFacing.pdf" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/PDFs/Fall16ClientFacing.pdf" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/PDFs/Fall16MinorClientFacing.pdf" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/PDFs/Spring16ClientFacing.pdf" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/PDFs/Winter16ClientFacing.pdf" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/returnButton.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/SettingsIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/analyzeSurveyIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/viewSurveyIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/seeRespondentsIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/movieIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/menuIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/EmailExample.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/EmailInviteTable.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/EmailEPPsample.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/POSreceipt1.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/POSreceipt2.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/ContactCenterServiceModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/ContactCenterSalesModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/ContactCenterHybridModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/ContactCenterEmailDiagram.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/ContactCenterIVRDiagram.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/InternalContectCenterMeasureWorkFlow750.jpg" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/CRM_model.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/cxCompareModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/PurchaseModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/EmployeeExperienceMeasureModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/LoyaltyProgramModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/PostVisitModel.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/fbBadgeExample.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/pcIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/tabletIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/mobileIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/ExpandIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/requiredIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/logicIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/Pencil.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/fbBadge.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/unPubIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/dupSurvey.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/trash.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/nCountIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/aveStarRating.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/downloadIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/validIcon.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/MobileIcon2016.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/player1.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/player2.png" />
+    <Url
+      Source="Output/kevin_beauman/Temporary/Print/Resources/Images/URLbreakdown.png" />
+    <Url
+      Source="../Print/Output/Print/cxSuiteHelp.doc" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

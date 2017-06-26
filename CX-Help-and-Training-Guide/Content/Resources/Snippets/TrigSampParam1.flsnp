@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>The behavior of the survey is controlled by the foresee-surveydef.js file located in the ZIP file. The two most common parameters that may need adjusting are the Loyalty Factor (LF) and the Sampling Percentage (SP). The Loyalty Factor indicates the minimum number of pages a user must visit to receive an invitation. The Sampling Percentage indicates the percentage (random chance) of users who are invited.</body>
+</html>

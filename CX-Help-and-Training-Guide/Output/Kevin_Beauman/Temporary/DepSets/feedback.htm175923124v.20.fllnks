@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="ForeSee Feedback - New"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/4cBasic.css" />
+    <Link
+      Url="Content/feedback.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/replay.htm" />
+    <Link
+      Url="http://www.opinionlab.com/solutions/website-feedback/" />
+    <Link
+      Url="https://www.americanexpress.com/" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="http://www.realtor.com/" />
+    <Link
+      Url="http://www.medallia.com/software/" />
+    <Link
+      Url="http://survey.medallia.com/" />
+    <Link
+      Url="https://www.iperceptions.com/en/active-research/frameworks/comment-cards" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Feedback Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Feedback.aspx" />
+    <Link
+      Url="https://answerscorp.webex.com/answerscorp/ldr.php" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/4cBasic.css" />
+    <Link
+      Url="Content/feedback.htm#WHAT" />
+    <Link
+      Url="Content/feedback.htm#WHY" />
+    <Link
+      Url="Content/feedback.htm#TARGET" />
+    <Link
+      Url="Content/feedback.htm#ACTIONAB" />
+    <Link
+      Url="Content/feedback.htm#WHO" />
+    <Link
+      Url="Content/feedback.htm#SURVEY" />
+    <Link
+      Url="Content/feedback.htm#DEPLOYME" />
+    <Link
+      Url="Content/feedback.htm#LANGUAGE" />
+    <Link
+      Url="Content/feedback.htm#INCLUDED" />
+    <Link
+      Url="Content/feedback.htm#SURVEY2" />
+    <Link
+      Url="Content/feedback.htm#USER" />
+    <Link
+      Url="Content/feedback.htm#CONFIGUR" />
+    <Link
+      Url="Content/feedback.htm#DEPLOYME2" />
+    <Link
+      Url="Content/feedback.htm#REPORTIN" />
+    <Link
+      Url="Content/feedback.htm#ALERTING" />
+    <Link
+      Url="Content/feedback.htm#METADATA" />
+    <Link
+      Url="Content/feedback.htm#METADATA2" />
+    <Link
+      Url="Content/feedback.htm#COMPETIT2" />
+    <Link
+      Url="Content/feedback.htm#IMPORTAN" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/LanguageOptions.flsnp" />
+    <Link
+      Url="Content/replay.htm#cxREPLAY" />
+    <Link
+      Url="http://www.opinionlab.com/solutions/website-feedback/" />
+    <Link
+      Url="https://www.americanexpress.com/" />
+    <Link
+      Url="http://www.qualtrics.com/research-suite/customer-satisfaction-surveys/" />
+    <Link
+      Url="http://www.realtor.com/" />
+    <Link
+      Url="http://www.medallia.com/software/" />
+    <Link
+      Url="http://survey.medallia.com/?mcy-tuwyt-com" />
+    <Link
+      Url="https://www.iperceptions.com/en/active-research/frameworks/comment-cards" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/Feedback Product Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Feedback.aspx" />
+    <Link
+      Url="https://answerscorp.webex.com/answerscorp/ldr.php?RCID=2f72d14faefa023eee6d65d3df954a8b" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="ACTIONAB" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="DEPLOYME" />
+    <Anchor
+      Name="LANGUAGE" />
+    <Anchor
+      Name="INCLUDED" />
+    <Anchor
+      Name="SURVEY2" />
+    <Anchor
+      Name="USER" />
+    <Anchor
+      Name="CONFIGUR" />
+    <Anchor
+      Name="DEPLOYME2" />
+    <Anchor
+      Name="REPORTIN" />
+    <Anchor
+      Name="ALERTING" />
+    <Anchor
+      Name="METADATA" />
+    <Anchor
+      Name="METADATA2" />
+    <Anchor
+      Name="COMPETIT2" />
+    <Anchor
+      Name="IMPORTAN" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/4cBasic.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

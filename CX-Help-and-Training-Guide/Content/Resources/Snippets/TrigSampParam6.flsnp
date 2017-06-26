@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="124" MadCap:lastWidth="917">
+    <body>We have the ability to “oversample” specific pages on a domain. For example, a client may want to have everybody who reaches a certain page of the site to receive an invitation (assuming they have met the
+            <ul><li>For each oversampling situation, a separate Loyalty Factor must be set up.Since the client hosts the code, changes to the sampling parameters can be done in two ways:We can provide guidance on where they can find the section of the code that controls the sampling parameters and they can make the changes themselves.We can send them a new set of code with the new sampling parameters and they must replace the snippet of code in their global header.</li></ul></body>
+</html>

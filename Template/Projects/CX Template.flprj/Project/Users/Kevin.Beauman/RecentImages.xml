@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/megaphone-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/megaphone-icon.svg" />
+    <Url Source="Resources/Images/cx-measurement-icon.svg" />
+    <Url Source="Resources/Images/case-icon.svg" />
+    <Url Source="Resources/Images/text-analytics-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/text-analytics-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/replay-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/cx-measurement-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/case-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/getting-started-icon.svg" />
+    <Url Source="../../../../Graphics/help-icons-new/whats-new-icon.svg" />
+    <Url Source="../../../../Graphics/CX_HelpLogo.png" />
+    <Url Source="Resources/Images/GettingStartedTile.png" />
+    <Url Source="Resources/Images/WhatsNewTile.png" />
+    <Url Source="../../../../Graphics/GettingStartedTile.png" />
+</UrlList>

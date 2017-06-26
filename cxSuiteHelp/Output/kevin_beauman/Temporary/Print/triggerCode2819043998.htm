@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="3378.5" MadCap:lastWidth="1159" class="Topic" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Surveys|CX Measurement|Deployment Options" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="MsWord">
+    <head><title>Trigger Code Package - Use For Random Intercept Sampling</title>
+        <link href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Stylesheets/CX_Styles_Print.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Trigger Code Package - Use For Random Intercept Sampling</h1>
+        <p>The ForeSee<sup>®</sup> Trigger Code Package is a JavaScript library that contains some JavaScript, HTML, CSS, images, and one .swf file.  The purpose of this JavaScript library is to present a survey invitation to website visitors.  The library also contains logic to collect CPPs.</p>
+        <h3>Trigger code is applicable to:</h3>
+        <ul>
+            <li value="1">Desktop website measurements</li>
+            <li value="2">Mobile website measurements</li>
+            <li value="3">Tablet website measurements</li>
+            <li value="4">Replay</li>
+        </ul>
+        <h2><a name="HOW"></a>How Does It Work?</h2>
+        <ul>
+            <li value="1"><b>ForeSee<sup>®</sup> Hosted Code</b> - To implement ForeSee’s web-based measurement products, customers need only make a small change to their website template.  Customers receive a small JavaScript snippet that they need to add to their global website templates so that it appears on every page of their website. The snippet causes a small JavaScript file to be downloaded from the cloud. This file manages the injection of the ForeSee script, which is used to track usage of the site and present survey invitations as needed.</li>
+            <li value="2"><b>ForeSee<sup>®</sup> Client Hosted Code</b> - Clients are provided a JavaScript library to be hosted on their web or content server. This library contains JavaScript, HTML, CSS, images, and one .swf file. The purpose of this JavaScript library is to present a survey invitation to site users based on the configured requirements. Once a site user has become eligible, based on those requirements, the code then presents the survey invitation and subsequent survey questionnaire (hosted by ForeSee) to the site user.  This library may also contain logic to collect additional client specific data points that are available on the site to be passed along with the survey results through the use of Customer Passed Parameters (CPPs).</li>
+        </ul>
+        <h2><a name="WHAT2"></a>What Touchpoint Measures Use It?</h2>
+        <p>Here are a few touchpoints where this deployment may be common:</p>
+        <ul>
+            <li value="1">Website/Desktop Measure (any)</li>
+            <li value="2">Mobile Site Measure (any)</li>
+        </ul>
+        <h2>What Does The Trigger Code Control?</h2>
+        <ul>
+            <li value="1">Sampling Parameters (pooling rate, loyalty factors, sampling rate)</li>
+            <li value="2">Survey Definitions</li>
+            <li value="3">Survey Invitations</li>
+            <li value="4">Client Logo</li>
+            <li value="5">ForeSee Logo</li>
+            <li value="6">Admin Page</li>
+            <li value="7">Survey Tracker (child window)</li>
+            <li value="8">Qualifier Page</li>
+            <li value="9">Opt Out Page</li>
+        </ul>
+        <h2><a name="TRIGGER"></a>Trigger Code Hosting Options</h2>
+        <p>To support the diversity of workflows and policies that ForeSee clients may have for their website, ForeSee provides the following options for getting code implemented:</p>
+        <ul>
+            <li value="1"><b>ForeSee Hosted Code (preferred)</b> - This is the default option and offers the most hands-off experience for the client. In this case, the client makes a small addition to their global website template to link to the hosted JavaScript file.  This method allows all code modifications to be made by ForeSee, without any further changes to the client’s website.  Once the client has added the code snippet to their template, they do not need to revise the template again to receive code updates from us. This is because the embed snippet references the client’s permanent home in the ForeSee cloud.</li>
+            <li value="2"><b>ForeSee Hosted Code with Versioning</b> - This is similar to the first option, but with each update to the code being given its own unique URL. This gives the client the security of knowing that changes to code hosted in the cloud cannot occur without them explicitly changing their website template. It also means that they must change their template for even the most minor update to triggering behavior. In terms of overall flexibility, this option is less optimal than the first, but still gives them some of the convenience of cloud hosting.</li>
+        </ul>
+        <h2><a name="FORESEE"></a>ForeSee<sup>®</sup> Hosted Code: Why Use It?</h2>
+        <p>The default option for deploying ForeSee web products to the client’s website is to use our hosted JavaScript. We host the assets for getting ForeSee products onto the client's website and they make a one-time change to their website template. The benefits of this approach include:</p>
+        <ul>
+            <li value="1"><b>One-time code change</b> - This greatly simplifies the process of implementing our code package on the client’s site. Once a client has our embed-snippet in the HTML template, they do not need to make further changes when they want to tweak the way products trigger or behave on their site. We can provide that service for them.</li>
+            <li value="2"><b>No need to host ForeSee files</b> - With this system, clients no longer need to host any ForeSee scripts, stylesheets, or images, making the process of implementing our code simpler.</li>
+            <li value="3"><b>A reliable, enterprise-grade Content Delivery Network (CDN)</b> - We partner with an industry-leading CDN that provides low-latency, high-reliability, geographically distributed edge servers to ensure content is delivered to the website visitors quickly.</li>
+            <li value="4"><b>Asynchronous loading</b> - Content is loaded onto the client’s site in parallel with the rest of their content, meaning that ForeSee scripts have negligible impact on page-load times in the unlikely event the content server is slow or unreachable.</li>
+        </ul>
+        <h2><a name="PINNING2"></a>Pinning &amp; Locking</h2>
+        <ul>
+            <li value="1">By default, our code evaluates your current definition on each page you visit after accepting the invitation. Once you meet the loyalty factor for a definition, you would then qualify for that specific definition after accepting the invite. The last definition you qualify for before your exit condition will be the rule that's used/survey that's presented.</li>
+            <li value="2">A client may want us to pin a checkout and/or purchase definition over a more general browse definition. Checkout and purchase receive less traffic than the overall site, so we want to make sure that anyone who accepted the invitation via the browser definition would receive the checkout or purchase survey if they enter the checkout flow or complete a purchase. The "pin" parameter can accomplish this.</li>
+            <li value="3">You could still move into a higher priority definition. The code reads the definition from the top down. The higher up a definition is in order, the more priority it has. Once you are pinned to a definition, you can move up to a higher priority definition, but you can't move down.</li>
+            <li value="4">Using the "lock" parameter in a survey definition allows the code to make sure the definition used to present your survey is the definition that invited you. If the definition that triggers your invitation is using the "lock" parameter set to "1", you will not be able to move up or down into another definition. The definition that triggered the invitation will remain until you trigger an exit condition.</li>
+        </ul>
+        <h2><a name="EVENT2"></a>Event Triggers</h2>
+        <ul>
+            <li value="1">Clients can set specific invitation triggers within their trigger code.  An event trigger means setting the survey invite parameters to something other than the loyalty and sampling parameters.  For example, a client could want an invitation to show whenever a visitor clicks on a certain button.</li>
+            <li value="2">Each clickable event can have a unique sampling percentage attached to it.</li>
+            <li value="3">There is no loyalty factor associated with clickable events.  Visitors either meet the sampling parameters and receive an invitation or engage in the clickable event, whichever comes first.</li>
+            <li value="4">Clickable events automatically open tracker windows, not a survey invitation.<div class="note">It should be noted that depending on which browser the visitor is using, the tracker window may show up in front of the browser window.</div></li>
+        </ul>
+        <h2><a name="EXCLUSIO2"></a>Exclusions</h2>
+        <ul>
+            <li value="1">The ForeSee code should be placed globally across all pages. However, it be desired for an invitation to not display based on certain criteria. To suppress the invitation, page exclusions can be utilized. Page exclusions are formatted in a comma separated list based on specific URLs, referring domains, user agents, browsers, cookies, and/or JS variables.</li>
+            <li value="2">Global Excludes are used in situations when the ForeSee code should not execute on the site. These are often utilized when clients are trying to exclude internal IP addresses or have a special user agent assigned to an internal bot checking the site. The Global Excludes can be based on URLs, variables, cookies, or user agents.</li>
+            <li value="3">Excluded pages still count towards the Loyalty Factor requirement (minimum page views).</li>
+            <li value="4">Code should not be intentionally left off a page in an attempt to exclude it. Leaving code off a page may result in an early exit condition causing the survey questionnaire to present for users who had already accepted an invitation.</li>
+            <li value="5">Regular expressions can be used to exclude both URLs and IPs instead of excluding them individually.</li>
+            <li value="6">We do not collect or capture IP address, so if the client wants to exclude by IP address, they need to set up a JS variable so they can pass the IP address.</li>
+        </ul>
+        <h2><a name="COOKIES2"></a>Cookies</h2>
+        <ul>
+            <li value="1">The biggest difference between the way cookies work for Legacy and Hosted Code is that the session cookie for Hosted Code is both a first party and third party cookie (see <a href="https://www.quora.com/What-is-the-difference-between-first-and-third-party-cookies" target="_blank" title="Click to view this web site." alt="Click to view this web site.">What is the difference between first and third-party cookies?</a> for more information).  This gives the client the ability to track visitors across domains that they own without initiating an exit condition and having a survey display when they leave the first domain.<ul><li value="1">We would use the cross-domain feature when the site includes two separate domains, but it's part of the same experience we're trying to measure.</li></ul></li>
+            <li value="2">Other than the information above, cookies have the same behavior and same type of data stored (CPPs) for both <a href="#COOKIES" title="Click to view this section." alt="Click to view this section.">Legacy</a> and Hosted Code.</li>
+        </ul>
+        <h2><a name="SAMPLING2"></a>Sampling Parameters</h2>
+        <ul>
+            <li value="1">The behavior of the survey is controlled by the foresee-surveydef.js file located in the ZIP file. The two most common parameters that may need adjusting are the Loyalty Factor (LF) and the Sampling Percentage (SP). The Loyalty Factor indicates the minimum number of pages a user must visit to receive an invitation. The Sampling Percentage indicates the percentage (random chance) of users who are invited.</li>
+            <li value="2">The Loyalty Factor must be met for the definition first then the Sampling Percentage in order to receive an invitation.</li>
+            <li value="3">The operators for Loyalty Factor can include:<ul><li value="1">= An invitation displays only when the Loyalty Factor is exactly this number of page views.</li><li value="2">&gt;= An invitation displays when the Loyalty Factor is this many page views or greater.</li><li value="3">&gt; An invitation displays when the Loyalty Factor is greater than this many page views.</li></ul></li>
+            <li value="4">The Loyalty Factor increments for both active and inactive tabs. For example, if a visitor has two tabs open for the same website in the same browser window, the tabs aggregate the number of page views to reach the LF. If the visitor has viewed two pages on the first tab and three pages on the second tab, they have a current pages viewed of five.</li>
+            <li value="5">We have the ability to “oversample” specific pages on a domain. For example, a client may want to have everybody who reaches a certain page of the site to receive an invitation (assuming they have met the
+            <ul><li value="1">For each oversampling situation, a separate Loyalty Factor must be set up.Since the client hosts the code, changes to the sampling parameters can be done in two ways:We can provide guidance on where they can find the section of the code that controls the sampling parameters and they can make the changes themselves.We can send them a new set of code with the new sampling parameters and they must replace the snippet of code in their global header.</li></ul></li>
+            <li value="6">Since we host the code, we make the changes to the sampling parameters based on the clients requirements.</li>
+            <li value="7">By setting the sampling percentage to zero (0), you effectively “turn off the code”. Survey invitations will not present on any page in this situation.</li>
+        </ul>
+        <h2><a name="POOLING2"></a>Pooling</h2>
+        <ul>
+            <li value="1">Pooling is a concept introduced with <a href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxMeasurement/replay.htm" title="Click to view this ITB topic." alt="Click to view this ITB topic.">cxReplay</a>. This concept is similar to the Sampling Percentage where a random number is generated to determine who should receive an invitation. However, with pooling replay eligibility is determined on the first page. If a user is not selected on the first page they do not receive an invitation. If they are selected on the first page they are then eligible to receive the invitation if they fall within the loyalty and sampling parameters.</li>
+            <li value="2">Because pooling immediately excludes some of the visitors from taking a survey no matter the length of their session, we must adjust the sampling percentage up for the survey to account for the fact that fewer people are eligible to take the survey. We start by adjusting the SP in unison with the pooling number. So if the pooling SP is 20% (1/5), we multiply the current sampling rate by five. Then we adjust the SP up for the average number of pages viewed, being larger than one, to account for the increased probability users who are now not in the pool had of getting invited previously.</li>
+            <li value="3">The trigger code still has an option for pooling even if the client does not have cxReplay.  In this situation the default pooling value is set at 100.</li>
+        </ul>
+        <h2><a name="REPEAT2"></a>Repeat Days Parameters</h2>
+        <ul>
+            <li value="1">The repeat days parameter controls the number of days in between a visitor completing a survey, accepting an invitation, or declining an invitation and when they are eligible to be shown another invitation.</li>
+            <li value="2">Each of these parameters can be configured to the clients specifications, though we consider best practice to be 90 days. We suggest 120 or 60 if the client wants the number of days in between to be either larger or smaller.</li>
+        </ul>
+        <p><a href="http://developer.foresee.com/docs-articles/supported-platforms/" target="_blank" title="[%=Tooltips.Tooltip Web Site%]" alt="[%=Tooltips.Tooltip Web Site%]">Supported Browsers</a>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="97" MadCap:lastWidth="948">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>Click the <span class="wintitle">Date</span> menu to display a date picker dialog.</li>
+            <li>Click either the first or last date of the desired range. Use the directional arrows (<b>&lt; &gt;</b>) to scroll to a desired month.</li>
+            <li>Click the other date of the range. The entire range is highlighted with the first and last dates displayed above the date picker.</li>
+            <li>Click <span class="uicontrol">Apply</span>. The dialog closes to show the new date range on the menu.</li>
+        </ol>
+    </body>
+</html>

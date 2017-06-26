@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm" />
+    <Link
+      Url="http://www.junctioninternational.com/languages.html" />
+    <Link
+      Url="http://www.walshmedia.com/green_room/" />
+    <Link
+      Url="Content/cxMeasurement/feedback.htm" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#Web-base" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#EMAIL" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#IVR/IVA" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#SMS/TEXT" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#SWEEPSTA" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#FORESEE" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#PORTAL" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#COMMENT" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#SENTIMEN" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#AUTOMATE" />
+    <Link
+      Url="Content/cxMeasurement/languageOptions.htm#SIR" />
+    <Link
+      Url="http://www.junctioninternational.com/languages.html" />
+    <Link
+      Url="http://www.walshmedia.com/green_room/" />
+    <Link
+      Url="Content/cxMeasurement/feedback.htm" />
+    <Link
+      Url="Content/cxMeasurement/sentimentAnalytics.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Web-base" />
+    <Anchor
+      Name="EMAIL" />
+    <Anchor
+      Name="IVR/IVA" />
+    <Anchor
+      Name="SMS/TEXT" />
+    <Anchor
+      Name="SWEEPSTA" />
+    <Anchor
+      Name="FORESEE" />
+    <Anchor
+      Name="PORTAL" />
+    <Anchor
+      Name="COMMENT" />
+    <Anchor
+      Name="SENTIMEN" />
+    <Anchor
+      Name="AUTOMATE" />
+    <Anchor
+      Name="SIR" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

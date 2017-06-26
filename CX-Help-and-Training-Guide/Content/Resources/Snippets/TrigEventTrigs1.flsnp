@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>Clients can set specific invitation triggers within their trigger code.  An event trigger means setting the survey invite parameters to something other than the loyalty and sampling parameters.  For example, a client could want an invitation to show whenever a visitor clicks on a certain button.</body>
+</html>

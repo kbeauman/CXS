@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/Resources/foundation-icons/preview.html'],s:['1'],p:[['1',5],['in',3]]});

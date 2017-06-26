@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="448" MadCap:lastWidth="922">
+    <body>The operators for Loyalty Factor can include:<ul><li>= An invitation displays only when the Loyalty Factor is exactly this number of page views.</li><li>&gt;= An invitation displays when the Loyalty Factor is this many page views or greater.</li><li>&gt; An invitation displays when the Loyalty Factor is greater than this many page views.</li></ul>
+    </body>
+</html>

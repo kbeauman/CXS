@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>Using CPPs or EPPs is dependent on the type of deployment and how the client's system can efficiently pass the data to ForeSee. See <a href="../../cxMeasurement/store.htm#COMMON" title="Click to view this Product Guide topic." alt="Click to view this Product Guide topic.">Store Measure</a> for examples of both CPPs and EPPs.</body>
+    <head>
+        <link href="../Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+</html>

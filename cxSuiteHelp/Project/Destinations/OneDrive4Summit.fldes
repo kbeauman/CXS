@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="OneDrive for sharing with Summit Trainers."
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\kevin.beauman\OneDrive - ForeSee\CX Suite\Training"
+  Port=""
+  ViewUrl=""
+  Type="file"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Ratings and Reviews"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/ForeSee Ratings Plus Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/ForeSee Ratings Plus Presentation.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/ForeSee Ratings Plus Process.docx" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#WHAT" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#WHY" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#TARGET" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#GENERAL" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#WHO" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#SURVEY" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#IMPORTAN" />
+    <Link
+      Url="Content/cxMeasurement/ratingsAndReviews.htm#COMPETIT2" />
+    <Link
+      Url="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/ForeSee Ratings Plus Solution Sheet.pdf" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/sales/Sales/ForeSee Ratings Plus Presentation.pptx" />
+    <Link
+      Url="https://myfsr.foreseeresults.com/clients/Client Services Process1/ForeSee Ratings Plus Process.docx" />
+    <Link
+      Url="Content/Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="WHAT" />
+    <Anchor
+      Name="WHY" />
+    <Anchor
+      Name="TARGET" />
+    <Anchor
+      Name="GENERAL" />
+    <Anchor
+      Name="WHO" />
+    <Anchor
+      Name="SURVEY" />
+    <Anchor
+      Name="IMPORTAN" />
+    <Anchor
+      Name="COMPETIT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

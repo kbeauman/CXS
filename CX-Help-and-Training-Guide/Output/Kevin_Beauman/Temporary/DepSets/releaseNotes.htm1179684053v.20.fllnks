@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileTitle="Release Notes"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Images/Insights2Analytics.png" />
+    <Link
+      Url="Content/Resources/Images/ChooseSurveyTypeTab.png" />
+    <Link
+      Url="Content/Resources/Images/BadgeColorSwatch.png" />
+    <Link
+      Url="Content/Resources/Images/PrivacyPolicyUpdates.png" />
+    <Link
+      Url="Content/Resources/Images/ReleaseNotesJan16.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Images/Insights2Analytics.png" />
+    <Link
+      Url="Content/Resources/Images/ChooseSurveyTypeTab.png" />
+    <Link
+      Url="Content/Resources/Images/BadgeColorSwatch.png" />
+    <Link
+      Url="Content/Resources/Images/PrivacyPolicyUpdates.png" />
+    <Link
+      Url="Content/Resources/Images/ReleaseNotesJan16.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

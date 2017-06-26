@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="3680" MadCap:lastWidth="800" class="Topic">
+    <head>
+        <link href="../Resources/TableStyles/4cBasicLeft.css" rel="stylesheet" MadCap:stylesheetType="table" /><title>Integration - Respondent Level</title>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Integration - Respondent Level</h1>
+        <table class="BlindTOC" style="margin-left: 0; margin-right: auto;">
+            <col style="width: 50%;" />
+            <col style="width: 50%;" />
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li><a href="#WHAT" title="Click to view this section." alt="Click to view this section.">What Is It?</a>
+                            </li>
+                            <li><a href="#WHY" title="Click to view this section." alt="Click to view this section.">Why Use It?</a>
+                            </li>
+                            <li><a href="#GENERAL" title="Click to view this section." alt="Click to view this section.">General Information</a>
+                            </li>
+                            <li><a href="#REQUIREM" title="Click to view this section." alt="Click to view this section.">Requirements For Passing Data To ForeSee: Data File Requirements</a>
+                            </li>
+                            <li><a href="#REQUIREM2" title="Click to view this section." alt="Click to view this section.">Requirements For Passing Data To ForeSee: SFTP Infomation</a>
+                            </li>
+                            <li><a href="#REQUIREM3" title="Click to view this section." alt="Click to view this section.">Requirements For Passing Data To ForeSee: EXDL Infomation</a>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li><a href="#REQUIREM4" title="Click to view this section." alt="Click to view this section.">Requirements For Passing Data To ForeSee: Hidden Custom Questions Infomation</a>
+                            </li>
+                            <li><a href="#REQUIREM5" title="Click to view this section." alt="Click to view this section.">Requirements for Passing Data From ForeSee</a>
+                            </li>
+                            <li><a href="#GOOGLE" title="Click to view this section." alt="Click to view this section.">Google Analytics Integration Information</a>
+                            </li>
+                            <li><a href="#OMNITURE" title="Click to view this section." alt="Click to view this section.">Omniture/Adobe Integration Information</a>
+                            </li>
+                            <li><a href="#IMPORTAN" title="Click to view this section." alt="Click to view this section.">Important Links</a>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h2><a name="WHAT"></a>What Is It?</h2>
+        <p>Respndent Level Integrate provides clients with the ability to either import and connect their own data with the ForeSee portal, or export and connect certain data from the ForeSee portal into their own reporting suite.</p>
+        <h2><a name="WHY"></a>Why Use It?</h2>
+        <p>Forward thinking organizations need to see how their customers’ experiences are impacting sales and ultimately shaping their business. ForeSee Integration - Respondent-Level can load information from various business systems into ForeSee adding context for decision making and providing a comparative format for detailed analysis. Deep, segmentation-level analysis can be performed to help guide strategies within specific customer segments, audience profiles, etc.</p>
+        <h2><a name="GENERAL"></a>General Information</h2>
+        <ul>
+            <li>Typically, additional measures tied to the same integration type are free. Two or more separate data sources require multiple integrations, but ultimately the contract should always be checked to see how it was sold. In some cases, e.g., Adobe Omniture, we may have opted to charge per report suite.</li>
+            <li>Depending on the integration type, we can accommodate bi-directional passing of post-processed data. Please see the matrix under <a href="#IMPORTAN" title="Click to view this section." alt="Click to view this section.">Important Links</a> for product specific direction.</li>
+            <li>A custom API (provided by the clickstream provider) is only used in instances of Omniture or Google Analytics integration. For all other integrations, we must use a raw data file transfer via SFTP and EXDL process (the only exception is our unidirectional API option).</li>
+            <li>Cannot do clickstream integration on measurements focused on a non-Digital experience.</li>
+            <li>Mobile clickstream integration (i.e., Mobile Site and Mobile App and for Tablet and Smartphone) - We typically can not use the custom API solution for integrating. Instead, the client must be able to pass us the GA or Omniture ID as a CPP and we accommodate integration through an SFTP/EXDL process. CPPs are difficult to capture with an On-Exit Mobile survey solution. Consultation with IS is recommended for these scenarios.</li>
+            <li>QuestionID, answerID, and respondentID are all alphanumeric. This may cause some issues during the data transmission and append process for clients whose internal database is set up for numeric IDs only.</li>
+        </ul>
+        <h2><a name="REQUIREM"></a>Requirements For Passing Data To ForeSee: Data File Requirements</h2>
+        <ul>
+            <li>The file must have column headers.</li>
+            <li>Delimited files (CSV, TSV, Pipe, or any other delimited format) with associated header record.</li>
+            <li>Any dates supplied in MM/DD/YYYY or M/D/YYYY H:MM format.</li>
+            <li>One row per respondent.</li>
+            <li>ForeSee respondent ID required as a data point in each row.</li>
+            <li>In most cases, Adobe (Omniture) or Google (UA) integrations are accommodated through an API those companies provide. When using this API, data file transfers are not necessary to deliver our data to Adobe or Google. However, if a client wants to pass Adobe or Google data back to us, a data file transfer is necessary.</li>
+        </ul>
+        <h2><a name="REQUIREM2"></a>Requirements For Passing Data To ForeSee: SFTP Information</h2>
+        <ul>
+            <li>ForeSee establishes an ID, Password, and directories to the SFTP host. A client-supplied SFTP can be used as well.</li>
+            <li>ForeSee also has the capability to provide Public Key Authentication.</li>
+            <li>Encryption with Open PGP and GnuPG (GPG) is supported provided the ForeSee encryption key is used.</li>
+        </ul>
+        <h2><a name="REQUIREM3"></a>Requirements For Passing Data To ForeSee: EXDL Information</h2>
+        <p>External Data Load (EXDL) is a process used to load data into the ForeSee database:</p>
+        <ul>
+            <li>A custom EXDL is generated for each data feed.</li>
+            <li>The process monitors the SFTP folder and automatically imports new files.</li>
+            <li>Imported data appears in the Portal the following day.</li>
+        </ul>
+        <h2><a name="REQUIREM4"></a>Requirements For Passing Data To ForeSee: Hidden Custom Questions Information</h2>
+        <ul>
+            <li>Hidden custom questions are simply the containers for the imported data. Respondents do not see these questions on their surveys.</li>
+            <li>Every incoming column of data is mapped to a corresponding hidden custom question.</li>
+        </ul>
+        <h2><a name="REQUIREM5"></a>Requirements For Passing Data From ForeSee</h2>
+        <ul>
+            <li>Data is in tab delimited files of Text (.txt), Comma Separated Values (.csv), or Excel (.xlsx) format.</li>
+            <li>One zip file per measure. The zip file contains three files:<ul><li>Data file - Respondent data from the survey.</li><li>Question Mapping File - Question details including mapping.</li><li>Answer Mapping File - Answer details including mapping.</li></ul></li>
+            <li>Delivery options include:<ul><li>Email: Zip file attachment sent to email recipient.</li><li>Posted for Pickup: Posted to ForeSee Portal workspace area for client retrieval.</li><li>FTP (ForeSee): File available for retrieval on ForeSee SFTP site.</li><li>FTP (Client): File sent to client SFTP site.</li></ul></li>
+        </ul>
+        <h2><a name="GOOGLE"></a>Google Analytics Integration Information</h2>
+        <h3>No Cost Integration Option</h3>
+        <p>In survey code versions prior to 18X (hosted code) we have the ability within our survey code to capture the Google Analytics cookies, parse the values and pass them along as CPPs. The captured values are:</p>
+        <ul>
+            <li>source</li>
+            <li>campaign</li>
+            <li>medium</li>
+            <li>keyword</li>
+        </ul>
+        <p>However, these cookies and values are ONLY available in the Google Analytics version PRIOR to Google Universal to which most of our clients have moved. If the client still has the Google Analytics version and our code version that accommodate this, we will not charge to collect these parameters. However, we should no longer “market” a free version.</p>
+        <h3>Paid Integration Option</h3>
+        <p>Google Analytics integration allows ForeSee to use an Application Programming Interface (API) to retrieve Google Analytics (GA) "dimension" information from our clients' GA accounts and append it to their existing respondents.</p>
+        <ul>
+            <li>Data points needed to complete a successful integration:<ul><li>Username</li><li>Password</li><li>ProfileID (UA number)</li></ul></li>
+            <li>There is no limit to the type of dimensions that can be sent back to ForeSee, though Google’s API limits the number of dimensions sent over to seven.</li>
+            <li>Data transfer is uni-directional into ForeSee only.</li>
+            <li>Universal Analytics is API only. All legacy Google Analytics accounts will be auto migrated at some point to Universal Analytics.</li>
+        </ul>
+        <h2><a name="OMNITURE"></a>Omniture/Adobe Integration Information</h2>
+        <ul>
+            <li>Minimum of 300 responses to show Sat scores in the portal. This applies to the clickstream program as well.</li>
+            <li>Omniture guarantees an 80% match of integration data.</li>
+            <li>Respondent ID n count may not match the Portal n count. This is because the respondent ID appears in Omniture before the survey has been processed on the ForeSee side.</li>
+            <li>The $10K charge applies to both the API and extract methods.</li>
+            <li>Prior to the start of ForeSee integration, a review of the Adobe Genesis ForeSee content must be performed in the Adobe Digital Marketing Suite:<ul><li>Implementation guide</li><li>Videos</li><li>Wizard</li><li>ForeSee selections confirmation worksheet<p>Click <a href="http://microsite.omniture.com/gs/assets/wizard/foresee/index.html" target="_blank" title="Click to view this web site." alt="Click to view this web site.">here</a> for a video tutorial for Omniture Wizard setup.</p></li></ul></li>
+        </ul>
+        <ul>
+            <li>Client needs to have the correct Adobe service level to accommodate integrations.</li>
+            <li>Omniture API for Enterprise Measures requires the same reporting suite endpoint.</li>
+            <li>When a client is hosting via Ensighten or DTM, they must whitelist our domain in order for the calls to go through without being blocked. They must also provide us with the code to call their Ensighten or DTM setup.</li>
+            <li>While it is technically possible to integrate on one eVar (respondentID), it is highly discouraged. Do not bring the matter up to a client unless they ask the question first.</li>
+            <li>Data transfer for Omniture API is bi-directional, Omniture non-API is uni-directional into Omniture only.</li>
+            <li>The following types of data may be passed to ForeSee:<ul><li>Latent level Element scores and Satisfaction scores</li><li>CQ responses</li><li>CPPs</li><li>Up to 15 ForeSee values passed into SiteCatalyst</li></ul></li>
+            <li>The following data may be passed to ForeSee (maximum values are per category):<ul><li>Up to ~30 standard Adobe Omniture variables</li><li>Up to five traffic variables (sProps)</li><li>Up to five conversion events (eVars)</li></ul></li>
+            <li>One ForeSee measure integrates into one SiteCatalyst report suite. A single ForeSee measure cannot integrate into multiple SiteCatalyst report suites.</li>
+        </ul>
+        <p>During the integration process, the following activities must be completed:</p>
+        <ul>
+            <li>By Client:<ul><li>S-Code - Sent to ForeSee.</li><li>Report Suite - Sent to ForeSee.</li><li>Respondent ID/eVar - eVar must be created in SiteCatalyst and communicated to ForeSee.</li><li>Wizard completion - MID is required to start and complete the wizard.</li></ul></li>
+            <li>By ForeSee:<ul><li>MID - ForeSee must provide the client with the MID for the wizard setup.</li></ul></li>
+            <li>By both the client and ForeSee:<ul><li>Survey review - A review of your existing survey during which you identify which ForeSee variables are to be passed to Omniture.</li><li>Omniture Variables Review - The review of 30 standard variables, up to  five sProps and five eVars.</li></ul></li>
+        </ul>
+        <h2><a name="IMPORTAN"></a>Important Links</h2>
+        <ul>
+            <li><a href="https://fsrwiki.foreseeresults.com/pages/viewpage.action?title=Data_Integration_FAQ&amp;spaceKey=IS" target="_blank" title="Click to view this web site." alt="Click to view this web site.">IS FAQ / IS Wiki on Data Integration</a>
+            </li>
+            <li><a href="https://myfsr.foreseeresults.com/clients/CS Integration/HighLevelOverview_Corporate Metrics.pdf" target="_blank" title="Click to view this document." alt="Click to view this document.">Corporate Metrics Prospecting Tool</a>
+            </li>
+            <li><a href="https://myfsr.foreseeresults.com/clients/CS Integration/Adobe Omniture Integration - Overview.pdf" target="_blank" title="Click to view this document." alt="Click to view this document.">Adobe Omniture Integration (API Method) Guide</a>
+            </li>
+            <li><a href="https://myfsr.foreseeresults.com/clients/CS Integration/HighLevelOverview_Standard Integration.pdf" target="_blank" title="Click to view this document." alt="Click to view this document.">Respondent Level Integration Guide</a>
+            </li>
+        </ul>
+        <table class="TableStyle-4cBasicLeft" style="margin-left: 0;margin-right: auto;mc-table-style: url('../Resources/TableStyles/4cBasicLeft.css');" cellspacing="0">
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column1" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <col style="width: 10%;" class="TableStyle-4cBasicLeft-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-4cBasicLeft-Head-Header1">
+                    <th class="TableStyle-4cBasicLeft-HeadE-Column1-Header1">&#160;</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Adobe Omniture SiteCatalyst (API)
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Adobe Omniture SiteCatalyst (Non API)
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Core Metrics
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">WebTrends
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Google Analytics (Paid)
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Google Analytics (Free)
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Tealeaf
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadF-Column2-Header1">Corporate Metrics
+</th>
+                    <th class="TableStyle-4cBasicLeft-HeadD-Column2-Header1">External Passed Parameters</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-4cBasicLeft-Body-Body1">
+                    <td class="TableStyle-4cBasicLeft-BodyE-Column1-Body1">Type
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Clickstream</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Clickstream</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Clickstream</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Clickstream</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Clickstream</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Clickstream</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Behavioral Replay</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">External Aggregated Data</td>
+                    <td class="TableStyle-4cBasicLeft-BodyD-Column2-Body1">External Respondent Data</td>
+                </tr>
+                <tr class="TableStyle-4cBasicLeft-Body-Body2">
+                    <td class="TableStyle-4cBasicLeft-BodyE-Column1-Body2">Data Transfer</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Bi-Directional</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Uni-Directional (Into Omniture)
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Bi-Directional</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Uni-Directional (Into Omniture)
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Uni-Directional (Into Omniture)
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Uni-Directional (Into Omniture)
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Uni-Directional (Into Omniture)
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Uni-Directional (Into Omniture)
+</td>
+                    <td class="TableStyle-4cBasicLeft-BodyD-Column2-Body2">Bi-Directional</td>
+                </tr>
+                <tr class="TableStyle-4cBasicLeft-Body-Body1">
+                    <td class="TableStyle-4cBasicLeft-BodyE-Column1-Body1">Transfer Method</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Adobe
+API</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Saint File Transfer</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">CSV File Transfer</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">CSV File Transfer</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Google
+API</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">CPP’s Collected at Survey Submission</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">CPP Passed at Survey Submission</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">CSV File Transfer</td>
+                    <td class="TableStyle-4cBasicLeft-BodyD-Column2-Body1">CSV File Transfer</td>
+                </tr>
+                <tr class="TableStyle-4cBasicLeft-Body-Body2">
+                    <td class="TableStyle-4cBasicLeft-BodyE-Column1-Body2">Supported Channels</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">Web, Mobile Site In-Session</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body2">All</td>
+                    <td class="TableStyle-4cBasicLeft-BodyD-Column2-Body2">All</td>
+                </tr>
+                <tr class="TableStyle-4cBasicLeft-Body-Body1">
+                    <td class="TableStyle-4cBasicLeft-BodyE-Column1-Body1">Cost
+(per year)</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000
+per Omniture Report Suite</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">Free</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000</td>
+                    <td class="TableStyle-4cBasicLeft-BodyF-Column2-Body1">$10,000</td>
+                    <td class="TableStyle-4cBasicLeft-BodyD-Column2-Body1">$10,000</td>
+                </tr>
+                <tr class="TableStyle-4cBasicLeft-Body-Body2">
+                    <td class="TableStyle-4cBasicLeft-BodyB-Column1-Body2">Data Limitation</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">To Omniture: 15
+To ForeSee:
+30 standard, 5 eVars, 5 sProps</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">No Limit</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">No Limit</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">No Limit</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">No Limit</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">4 Standard Google Cookie Variables</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">No Limit</td>
+                    <td class="TableStyle-4cBasicLeft-BodyC-Column2-Body2">No Limit</td>
+                    <td class="TableStyle-4cBasicLeft-BodyA-Column2-Body2">No Limit</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

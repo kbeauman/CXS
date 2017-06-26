@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Home"
+    Link="/Content/TextAnalytics/home.htm" />
+  <TocEntry
+    Title="About Text Analytics"
+    Link="/Content/TextAnalytics/about.htm" />
+  <TocEntry
+    Title="Analyzing Data"
+    Link="/Content/TextAnalytics/analyzing.htm" />
+  <TocEntry
+    Title="Release Notes"
+    Link="/Content/TextAnalytics/releaseNotes.htm" />
+</CatapultToc>

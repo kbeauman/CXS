@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="CX Suite Help &amp; Training Guide pages for Summit 2017 workshop."
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  OutputFolder="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\Print"
+  EmbedImages="true"
+  MasterPage="/Content/Resources/MasterPages/PrintLandscape.flmsp"
+  DefaultUrl="/Content/Help_Home.htm"
+  Skin="/Project/Skins/Webcollage.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/CX_Styles_Print.css"
+  ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
+  ChunkSearchDatabase="false"
+  ChunkIndex="false"
+  UseLocalBuildSettings="true"
+  IgnoredCompilerWarnings="20037,20036"
+  MasterPageLayout="/Content/Resources/PageLayouts/PrintPgLandscape.flpgl"
+  OutputFile="SummitTrainingGuide"
+  PatchHeadingLevels="true"
+  MasterToc="/Project/TOCs/SummitTraining.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    DisableMasterPageUsage="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/OneDrive4Summit.fldes" />
+  </Destinations>
+  <DocumentProperties
+    Title="Content Publisher Help" />
+</CatapultTarget>

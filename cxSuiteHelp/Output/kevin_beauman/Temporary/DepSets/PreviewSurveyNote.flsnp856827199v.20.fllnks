@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/pcIcon.png" />
+    <Link
+      Url="Content/Resources/Images/tabletIcon.png" />
+    <Link
+      Url="Content/Resources/Images/mobileIcon.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/pcIcon.png" />
+    <Link
+      Url="Content/Resources/Images/tabletIcon.png" />
+    <Link
+      Url="Content/Resources/Images/mobileIcon.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

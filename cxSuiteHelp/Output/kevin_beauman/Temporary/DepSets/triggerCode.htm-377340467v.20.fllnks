@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileClass="Topic"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs4.flsnp" />
+    <Link
+      Url="https://www.quora.com/What-is-the-difference-between-first-and-third-party-cookies" />
+    <Link
+      Url="Content/cxMeasurement/triggerCode.htm" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam6.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam5.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays2.flsnp" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/supported-platforms/" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPinLock4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigEventTrigs4.flsnp" />
+    <Link
+      Url="https://www.quora.com/What-is-the-difference-between-first-and-third-party-cookies" />
+    <Link
+      Url="Content/cxMeasurement/triggerCode.htm#COOKIES" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam4.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam6.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigSampParam5.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling2.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigPooling3.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays1.flsnp" />
+    <Link
+      Url="Content/Resources/Snippets/TrigRepeatDays2.flsnp" />
+    <Link
+      Url="http://developer.foresee.com/docs-articles/supported-platforms/" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="HOW" />
+    <Anchor
+      Name="WHAT2" />
+    <Anchor
+      Name="TRIGGER" />
+    <Anchor
+      Name="FORESEE" />
+    <Anchor
+      Name="PINNING2" />
+    <Anchor
+      Name="EVENT2" />
+    <Anchor
+      Name="EXCLUSIO2" />
+    <Anchor
+      Name="COOKIES2" />
+    <Anchor
+      Name="SAMPLING2" />
+    <Anchor
+      Name="POOLING2" />
+    <Anchor
+      Name="REPEAT2" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Web Site" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

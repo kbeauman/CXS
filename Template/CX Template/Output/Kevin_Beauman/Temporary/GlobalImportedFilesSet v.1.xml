@@ -1,0 +1,1477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalImportedFilesCache
+  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/Template/CX Template/Output/Kevin_Beauman/Temporary/GlobalImportedFilesSet v.1.xml">
+  <ImportedMap>
+    <Map
+      Local="Content/cxSuite/Alerts.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/Alerts.htm" />
+    <Map
+      Local="Content/cxSuite/cover.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/cover.htm" />
+    <Map
+      Local="Content/cxSuite/filters.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/filters.htm" />
+    <Map
+      Local="Content/cxSuite/gettingStarted.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/gettingStarted.htm" />
+    <Map
+      Local="Content/cxSuite/home.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/home.htm" />
+    <Map
+      Local="Content/cxSuite/releaseNotes.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/releaseNotes.htm" />
+    <Map
+      Local="Content/cxSuite/reports.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/reports.htm" />
+    <Map
+      Local="Content/cxSuite/searchResults.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/searchResults.htm" />
+    <Map
+      Local="Content/cxSuite/TOC_Print.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/TOC_Print.htm" />
+    <Map
+      Local="Content/cxSuite/using.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/using.htm" />
+    <Map
+      Local="Content/cxSuite/vids.htm"
+      Remote="../../../CX Suite/CX-Suite-master/Content/cxSuite/vids.htm" />
+    <Map
+      Local="Content/Resources/Images/4C_logo_white40pxhigh.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/4C_logo_white40pxhigh.png" />
+    <Map
+      Local="Content/Resources/Images/4C_logo_white50.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/4C_logo_white50.png" />
+    <Map
+      Local="Content/Resources/Images/alertsThumbnail.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/alertsThumbnail.png" />
+    <Map
+      Local="Content/Resources/Images/BadgeColorSwatch.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/BadgeColorSwatch.png" />
+    <Map
+      Local="Content/Resources/Images/ChooseSurveyTypeTab.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/ChooseSurveyTypeTab.png" />
+    <Map
+      Local="Content/Resources/Images/configThumbnail.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/configThumbnail.png" />
+    <Map
+      Local="Content/Resources/Images/CoverBgPrint.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/CoverBgPrint.png" />
+    <Map
+      Local="Content/Resources/Images/createThumbnail.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/createThumbnail.png" />
+    <Map
+      Local="Content/Resources/Images/cxReplay4Feedback.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/cxReplay4Feedback.png" />
+    <Map
+      Local="Content/Resources/Images/cxSuiteThumbnail.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/cxSuiteThumbnail.png" />
+    <Map
+      Local="Content/Resources/Images/downloadIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/downloadIcon.png" />
+    <Map
+      Local="Content/Resources/Images/facebookIcon40px.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/facebookIcon40px.png" />
+    <Map
+      Local="Content/Resources/Images/fbBadgeExample.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/fbBadgeExample.png" />
+    <Map
+      Local="Content/Resources/Images/FB_icon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/FB_icon.png" />
+    <Map
+      Local="Content/Resources/Images/filterIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/filterIcon.png" />
+    <Map
+      Local="Content/Resources/Images/googlePlusIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/googlePlusIcon.png" />
+    <Map
+      Local="Content/Resources/Images/grabHandle.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/grabHandle.png" />
+    <Map
+      Local="Content/Resources/Images/guidesBg.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/guidesBg.png" />
+    <Map
+      Local="Content/Resources/Images/insightsIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/insightsIcon.png" />
+    <Map
+      Local="Content/Resources/Images/linkedinIcon40px.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/linkedinIcon40px.png" />
+    <Map
+      Local="Content/Resources/Images/mobileIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/mobileIcon.png" />
+    <Map
+      Local="Content/Resources/Images/Overview_First_Frame.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/Overview_First_Frame.png" />
+    <Map
+      Local="Content/Resources/Images/pcIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/pcIcon.png" />
+    <Map
+      Local="Content/Resources/Images/Pencil.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/Pencil.png" />
+    <Map
+      Local="Content/Resources/Images/PrivacyPolicyUpdates.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/PrivacyPolicyUpdates.png" />
+    <Map
+      Local="Content/Resources/Images/Pub_Thumbnails.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/Pub_Thumbnails.png" />
+    <Map
+      Local="Content/Resources/Images/ReleaseNotesJan16.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/ReleaseNotesJan16.png" />
+    <Map
+      Local="Content/Resources/Images/replayBadge.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/replayBadge.png" />
+    <Map
+      Local="Content/Resources/Images/ReplayOff.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/ReplayOff.png" />
+    <Map
+      Local="Content/Resources/Images/replaySettings.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/replaySettings.png" />
+    <Map
+      Local="Content/Resources/Images/reportsThumbnail.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/reportsThumbnail.png" />
+    <Map
+      Local="Content/Resources/Images/search_iconWt.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/search_iconWt.png" />
+    <Map
+      Local="Content/Resources/Images/spyglass_icon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/spyglass_icon.png" />
+    <Map
+      Local="Content/Resources/Images/tabletIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/tabletIcon.png" />
+    <Map
+      Local="Content/Resources/Images/toggleIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/toggleIcon.png" />
+    <Map
+      Local="Content/Resources/Images/trash.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/trash.png" />
+    <Map
+      Local="Content/Resources/Images/trusteLogo90x30.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/trusteLogo90x30.png" />
+    <Map
+      Local="Content/Resources/Images/twitterIcon40px.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/twitterIcon40px.png" />
+    <Map
+      Local="Content/Resources/Images/unPubIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/unPubIcon.png" />
+    <Map
+      Local="Content/Resources/Images/validIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/validIcon.png" />
+    <Map
+      Local="Content/Resources/Images/verticalhide_icon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/verticalhide_icon.png" />
+    <Map
+      Local="Content/Resources/Images/verticalshow_icon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/verticalshow_icon.png" />
+    <Map
+      Local="Content/Resources/Images/vidBg.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/vidBg.png" />
+    <Map
+      Local="Content/Resources/Images/viewReplay.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/viewReplay.png" />
+    <Map
+      Local="Content/Resources/Images/youtubeIcon.png"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Images/youtubeIcon.png" />
+    <Map
+      Local="Content/Resources/Multimedia/Alerts.mp4"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Multimedia/Alerts.mp4" />
+    <Map
+      Local="Content/Resources/Multimedia/cxSuiteOverview.mp4"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Multimedia/cxSuiteOverview.mp4" />
+    <Map
+      Local="Content/Resources/Multimedia/Reports.mp4"
+      Remote="../../../CX Suite/CX-Suite-master/Content/Resources/Multimedia/Reports.mp4" />
+    <Map
+      Local="Content/Readme.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Readme.htm" />
+    <Map
+      Local="Content/Resources/foundation/index.html"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation/index.html" />
+    <Map
+      Local="Content/Resources/foundation-icons/foundation-icons.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/foundation-icons.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/preview.html"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/preview.html" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-address-book.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-address-book.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-alert.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-alert.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-align-center.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-align-center.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-align-justify.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-align-justify.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-align-left.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-align-left.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-align-right.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-align-right.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-anchor.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-anchor.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-annotate.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-annotate.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-archive.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-archive.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrow-down.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrow-down.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrow-left.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrow-left.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrow-right.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrow-right.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrow-up.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrow-up.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrows-compress.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrows-compress.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrows-expand.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrows-expand.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrows-in.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrows-in.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-arrows-out.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-arrows-out.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-asl.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-asl.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-asterisk.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-asterisk.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-at-sign.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-at-sign.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-background-color.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-background-color.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-battery-empty.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-battery-empty.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-battery-full.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-battery-full.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-battery-half.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-battery-half.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-bitcoin-circle.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-bitcoin-circle.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-bitcoin.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-bitcoin.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-blind.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-blind.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-bluetooth.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-bluetooth.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-bold.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-bold.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-book-bookmark.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-book-bookmark.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-book.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-book.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-bookmark.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-bookmark.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-braille.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-braille.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-burst-new.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-burst-new.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-burst-sale.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-burst-sale.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-burst.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-burst.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-calendar.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-calendar.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-camera.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-camera.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-check.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-check.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-checkbox.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-checkbox.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-clipboard-notes.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-clipboard-notes.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-clipboard-pencil.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-clipboard-pencil.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-clipboard.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-clipboard.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-clock.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-clock.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-closed-caption.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-closed-caption.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-cloud.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-cloud.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-comment-minus.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-comment-minus.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-comment-quotes.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-comment-quotes.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-comment-video.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-comment-video.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-comment.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-comment.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-comments.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-comments.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-compass.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-compass.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-contrast.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-contrast.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-credit-card.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-credit-card.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-crop.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-crop.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-crown.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-crown.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-css3.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-css3.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-database.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-database.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-die-five.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-die-five.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-die-four.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-die-four.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-die-one.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-die-one.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-die-six.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-die-six.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-die-three.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-die-three.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-die-two.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-die-two.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-dislike.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-dislike.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-dollar-bill.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-dollar-bill.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-dollar.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-dollar.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-download.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-download.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-eject.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-eject.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-elevator.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-elevator.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-euro.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-euro.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-eye.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-eye.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-fast-forward.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-fast-forward.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-female-symbol.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-female-symbol.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-female.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-female.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-filter.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-filter.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-first-aid.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-first-aid.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-flag.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-flag.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-folder-add.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-folder-add.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-folder-lock.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-folder-lock.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-folder.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-folder.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-foot.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-foot.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-foundation.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-foundation.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-graph-bar.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-graph-bar.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-graph-horizontal.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-graph-horizontal.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-graph-pie.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-graph-pie.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-graph-trend.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-graph-trend.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-guide-dog.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-guide-dog.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-hearing-aid.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-hearing-aid.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-heart.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-heart.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-home.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-home.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-html5.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-html5.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-indent-less.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-indent-less.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-indent-more.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-indent-more.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-info.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-info.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-italic.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-italic.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-key.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-key.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-laptop.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-laptop.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-layout.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-layout.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-lightbulb.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-lightbulb.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-like.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-like.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-link.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-link.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-list-bullet.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-list-bullet.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-list-number.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-list-number.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-list-thumbnails.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-list-thumbnails.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-list.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-list.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-lock.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-lock.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-loop.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-loop.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-magnifying-glass.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-magnifying-glass.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-mail.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-mail.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-male-female.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-male-female.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-male-symbol.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-male-symbol.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-male.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-male.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-map.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-map.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-marker.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-marker.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-megaphone.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-megaphone.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-microphone.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-microphone.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-minus-circle.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-minus-circle.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-minus.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-minus.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-mobile-signal.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-mobile-signal.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-mobile.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-mobile.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-monitor.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-monitor.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-mountains.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-mountains.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-music.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-music.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-next.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-next.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-no-dogs.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-no-dogs.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-no-smoking.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-no-smoking.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-add.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-add.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-copy.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-copy.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-csv.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-csv.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-delete.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-delete.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-doc.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-doc.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-edit.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-edit.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-export-csv.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-export-csv.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-export-doc.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-export-doc.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-export-pdf.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-export-pdf.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-export.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-export.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-filled.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-filled.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-multiple.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-multiple.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-pdf.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-pdf.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-remove.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-remove.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page-search.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page-search.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-page.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-page.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-paint-bucket.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-paint-bucket.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-paperclip.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-paperclip.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-pause.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-pause.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-paw.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-paw.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-paypal.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-paypal.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-pencil.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-pencil.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-photo.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-photo.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-play-circle.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-play-circle.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-play-video.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-play-video.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-play.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-play.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-plus.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-plus.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-pound.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-pound.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-power.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-power.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-previous.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-previous.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-price-tag.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-price-tag.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-pricetag-multiple.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-pricetag-multiple.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-print.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-print.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-prohibited.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-prohibited.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-projection-screen.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-projection-screen.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-puzzle.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-puzzle.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-quote.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-quote.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-record.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-record.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-refresh.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-refresh.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-results-demographics.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-results-demographics.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-results.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-results.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-rewind-ten.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-rewind-ten.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-rewind.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-rewind.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-rss.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-rss.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-safety-cone.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-safety-cone.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-save.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-save.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-share.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-share.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-sheriff-badge.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-sheriff-badge.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-shield.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-shield.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-shopping-bag.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-shopping-bag.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-shopping-cart.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-shopping-cart.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-shuffle.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-shuffle.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-skull.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-skull.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-500px.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-500px.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-adobe.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-adobe.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-amazon.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-amazon.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-android.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-android.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-apple.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-apple.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-behance.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-behance.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-bing.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-bing.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-blogger.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-blogger.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-delicious.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-delicious.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-designer-news.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-designer-news.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-deviant-art.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-deviant-art.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-digg.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-digg.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-dribbble.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-dribbble.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-drive.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-drive.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-dropbox.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-dropbox.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-evernote.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-evernote.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-facebook.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-facebook.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-flickr.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-flickr.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-forrst.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-forrst.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-foursquare.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-foursquare.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-game-center.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-game-center.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-github.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-github.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-google-plus.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-google-plus.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-hacker-news.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-hacker-news.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-hi5.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-hi5.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-instagram.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-instagram.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-joomla.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-joomla.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-lastfm.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-lastfm.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-linkedin.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-linkedin.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-medium.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-medium.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-myspace.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-myspace.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-orkut.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-orkut.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-path.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-path.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-picasa.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-picasa.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-pinterest.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-pinterest.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-rdio.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-rdio.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-reddit.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-reddit.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-skillshare.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-skillshare.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-skype.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-skype.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-smashing-mag.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-smashing-mag.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-snapchat.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-snapchat.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-spotify.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-spotify.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-squidoo.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-squidoo.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-stack-overflow.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-stack-overflow.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-steam.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-steam.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-stumbleupon.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-stumbleupon.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-treehouse.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-treehouse.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-tumblr.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-tumblr.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-twitter.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-twitter.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-vimeo.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-vimeo.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-windows.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-windows.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-xbox.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-xbox.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-yahoo.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-yahoo.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-yelp.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-yelp.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-youtube.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-youtube.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-zerply.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-zerply.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-social-zurb.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-social-zurb.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-sound.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-sound.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-star.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-star.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-stop.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-stop.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-strikethrough.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-strikethrough.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-subscript.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-subscript.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-superscript.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-superscript.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-tablet-landscape.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-tablet-landscape.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-tablet-portrait.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-tablet-portrait.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-target-two.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-target-two.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-target.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-target.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-telephone-accessible.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-telephone-accessible.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-telephone.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-telephone.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-text-color.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-text-color.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-thumbnails.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-thumbnails.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-ticket.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-ticket.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torso-business.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torso-business.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torso-female.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torso-female.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torso.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torso.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torsos-all-female.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torsos-all-female.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torsos-all.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torsos-all.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torsos-female-male.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torsos-female-male.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torsos-male-female.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torsos-male-female.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-torsos.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-torsos.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-trash.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-trash.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-trees.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-trees.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-trophy.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-trophy.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-underline.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-underline.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-universal-access.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-universal-access.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-unlink.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-unlink.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-unlock.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-unlock.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-upload-cloud.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-upload-cloud.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-upload.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-upload.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-usb.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-usb.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-video.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-video.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-volume-none.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-volume-none.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-volume-strike.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-volume-strike.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-volume.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-volume.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-web.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-web.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-wheelchair.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-wheelchair.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-widget.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-widget.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-wrench.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-wrench.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-x-circle.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-x-circle.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-x.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-x.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-yen.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-yen.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-zoom-in.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-zoom-in.svg" />
+    <Map
+      Local="Content/Resources/foundation-icons/svgs/fi-zoom-out.svg"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/foundation-icons/svgs/fi-zoom-out.svg" />
+    <Map
+      Local="Content/Resources/MasterPages/SearchResults.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/Images/verticalhide_icon.png" />
+    <Map
+      Local="Content/Resources/Snippets/Footer.flsnp"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/Images/verticalshow_icon.png" />
+    <Map
+      Local="Content/Resources/Snippets/Topic content.flsnp"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/MasterPages/SearchResults.htm" />
+    <Map
+      Local="Content/TopicsA/SectA.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/Snippets/Footer.flsnp" />
+    <Map
+      Local="Content/TopicsA/Topic A.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/Resources/Snippets/Topic content.flsnp" />
+    <Map
+      Local="Content/TopicsA/Topic B.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/SectA.htm" />
+    <Map
+      Local="Content/TopicsA/Topic C.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic A.htm" />
+    <Map
+      Local="Content/TopicsA/Topic D.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic B.htm" />
+    <Map
+      Local="Content/TopicsA/Topic E.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic C.htm" />
+    <Map
+      Local="Content/TopicsA/Topic F.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic D.htm" />
+    <Map
+      Local="Content/TopicsA/Topic G.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic E.htm" />
+    <Map
+      Local="Content/TopicsA/Topic H.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic F.htm" />
+    <Map
+      Local="Content/TopicsA/Topic I.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic G.htm" />
+    <Map
+      Local="Content/TopicsA/Topic J.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic H.htm" />
+    <Map
+      Local="Content/TopicsA/Topic K.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic I.htm" />
+    <Map
+      Local="Content/TopicsA/Topic L.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic J.htm" />
+    <Map
+      Local="Content/TopicsA/Topic M.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic K.htm" />
+    <Map
+      Local="Content/TopicsA/Topic N.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic L.htm" />
+    <Map
+      Local="Content/TopicsA/Topic O.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic M.htm" />
+    <Map
+      Local="Content/TopicsA/Topic P.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic N.htm" />
+    <Map
+      Local="Content/TopicsA/Topic Q.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic O.htm" />
+    <Map
+      Local="Content/TopicsA/Topic R.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic P.htm" />
+    <Map
+      Local="Content/TopicsA/Topic S.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic Q.htm" />
+    <Map
+      Local="Content/TopicsA/Topic T.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic R.htm" />
+    <Map
+      Local="Content/TopicsA/Topic U.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic S.htm" />
+    <Map
+      Local="Content/TopicsA/Topic V.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic T.htm" />
+    <Map
+      Local="Content/TopicsA/Topic W.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic U.htm" />
+    <Map
+      Local="Content/TopicsA/Topic X.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic V.htm" />
+    <Map
+      Local="Content/TopicsA/Topic Y.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic W.htm" />
+    <Map
+      Local="Content/TopicsA/Topic Z.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic X.htm" />
+    <Map
+      Local="Content/TopicsB/SectB.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic Y.htm" />
+    <Map
+      Local="Content/TopicsB/Topic A.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsA/Topic Z.htm" />
+    <Map
+      Local="Content/TopicsB/Topic B.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/SectB.htm" />
+    <Map
+      Local="Content/TopicsB/Topic C.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic A.htm" />
+    <Map
+      Local="Content/TopicsB/Topic D.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic B.htm" />
+    <Map
+      Local="Content/TopicsB/Topic E.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic C.htm" />
+    <Map
+      Local="Content/TopicsB/Topic F.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic D.htm" />
+    <Map
+      Local="Content/TopicsB/Topic G.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic E.htm" />
+    <Map
+      Local="Content/TopicsB/Topic H.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic F.htm" />
+    <Map
+      Local="Content/TopicsB/Topic I.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic G.htm" />
+    <Map
+      Local="Content/TopicsB/Topic J.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic H.htm" />
+    <Map
+      Local="Content/TopicsB/Topic K.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic I.htm" />
+    <Map
+      Local="Content/TopicsB/Topic L.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic J.htm" />
+    <Map
+      Local="Content/TopicsB/Topic M.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic K.htm" />
+    <Map
+      Local="Content/TopicsB/Topic N.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic L.htm" />
+    <Map
+      Local="Content/TopicsB/Topic O.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic M.htm" />
+    <Map
+      Local="Content/TopicsB/Topic P.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic N.htm" />
+    <Map
+      Local="Content/TopicsB/Topic Q.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic O.htm" />
+    <Map
+      Local="Content/TopicsB/Topic R.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic P.htm" />
+    <Map
+      Local="Content/TopicsB/Topic S.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic Q.htm" />
+    <Map
+      Local="Content/TopicsB/Topic T.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic R.htm" />
+    <Map
+      Local="Content/TopicsB/Topic U.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic S.htm" />
+    <Map
+      Local="Content/TopicsB/Topic V.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic T.htm" />
+    <Map
+      Local="Content/TopicsB/Topic W.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic U.htm" />
+    <Map
+      Local="Content/TopicsB/Topic X.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic V.htm" />
+    <Map
+      Local="Content/TopicsB/Topic Y.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic W.htm" />
+    <Map
+      Local="Content/TopicsB/Topic Z.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic X.htm" />
+    <Map
+      Local="Content/TopicsC/SectC.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic Y.htm" />
+    <Map
+      Local="Content/TopicsC/Topic A.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsB/Topic Z.htm" />
+    <Map
+      Local="Content/TopicsC/Topic B.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/SectC.htm" />
+    <Map
+      Local="Content/TopicsC/Topic C.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic A.htm" />
+    <Map
+      Local="Content/TopicsC/Topic D.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic B.htm" />
+    <Map
+      Local="Content/TopicsC/Topic E.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic C.htm" />
+    <Map
+      Local="Content/TopicsC/Topic F.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic D.htm" />
+    <Map
+      Local="Content/TopicsC/Topic G.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic E.htm" />
+    <Map
+      Local="Content/TopicsC/Topic H.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic F.htm" />
+    <Map
+      Local="Content/TopicsC/Topic I.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic G.htm" />
+    <Map
+      Local="Content/TopicsC/Topic J.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic H.htm" />
+    <Map
+      Local="Content/TopicsC/Topic K.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic I.htm" />
+    <Map
+      Local="Content/TopicsC/Topic L.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic J.htm" />
+    <Map
+      Local="Content/TopicsC/Topic M.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic K.htm" />
+    <Map
+      Local="Content/TopicsC/Topic N.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic L.htm" />
+    <Map
+      Local="Content/TopicsC/Topic O.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic M.htm" />
+    <Map
+      Local="Content/TopicsC/Topic P.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic N.htm" />
+    <Map
+      Local="Content/TopicsC/Topic Q.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic O.htm" />
+    <Map
+      Local="Content/TopicsC/Topic R.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic P.htm" />
+    <Map
+      Local="Content/TopicsC/Topic S.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic Q.htm" />
+    <Map
+      Local="Content/TopicsC/Topic T.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic R.htm" />
+    <Map
+      Local="Content/TopicsC/Topic U.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic S.htm" />
+    <Map
+      Local="Content/TopicsC/Topic V.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic T.htm" />
+    <Map
+      Local="Content/TopicsC/Topic W.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic U.htm" />
+    <Map
+      Local="Content/TopicsC/Topic X.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic V.htm" />
+    <Map
+      Local="Content/TopicsC/Topic Y.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic W.htm" />
+    <Map
+      Local="Content/TopicsC/Topic Z.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic X.htm" />
+    <Map
+      Local="Content/TopicsD/SectD.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic Y.htm" />
+    <Map
+      Local="Content/TopicsD/Topic A.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsC/Topic Z.htm" />
+    <Map
+      Local="Content/TopicsD/Topic B.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/SectD.htm" />
+    <Map
+      Local="Content/TopicsD/Topic C.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic A.htm" />
+    <Map
+      Local="Content/TopicsD/Topic D.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic B.htm" />
+    <Map
+      Local="Content/TopicsD/Topic E.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic C.htm" />
+    <Map
+      Local="Content/TopicsD/Topic F.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic D.htm" />
+    <Map
+      Local="Content/TopicsD/Topic G.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic E.htm" />
+    <Map
+      Local="Content/TopicsD/Topic H.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic F.htm" />
+    <Map
+      Local="Content/TopicsD/Topic I.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic G.htm" />
+    <Map
+      Local="Content/TopicsD/Topic J.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic H.htm" />
+    <Map
+      Local="Content/TopicsD/Topic K.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic I.htm" />
+    <Map
+      Local="Content/TopicsD/Topic L.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic J.htm" />
+    <Map
+      Local="Content/TopicsD/Topic M.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic K.htm" />
+    <Map
+      Local="Content/TopicsD/Topic N.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic L.htm" />
+    <Map
+      Local="Content/TopicsD/Topic O.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic M.htm" />
+    <Map
+      Local="Content/TopicsD/Topic P.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic N.htm" />
+    <Map
+      Local="Content/TopicsD/Topic Q.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic O.htm" />
+    <Map
+      Local="Content/TopicsD/Topic R.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic P.htm" />
+    <Map
+      Local="Content/TopicsD/Topic S.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic Q.htm" />
+    <Map
+      Local="Content/TopicsD/Topic T.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic R.htm" />
+    <Map
+      Local="Content/TopicsD/Topic U.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic S.htm" />
+    <Map
+      Local="Content/TopicsD/Topic V.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic T.htm" />
+    <Map
+      Local="Content/TopicsD/Topic W.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic U.htm" />
+    <Map
+      Local="Content/TopicsD/Topic X.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic V.htm" />
+    <Map
+      Local="Content/TopicsD/Topic Y.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic W.htm" />
+    <Map
+      Local="Content/TopicsD/Topic Z.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic X.htm" />
+    <Map
+      Local="Content/TopicsE/SectE.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic Y.htm" />
+    <Map
+      Local="Content/TopicsE/Topic A.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsD/Topic Z.htm" />
+    <Map
+      Local="Content/TopicsE/Topic B.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/SectE.htm" />
+    <Map
+      Local="Content/TopicsE/Topic C.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic A.htm" />
+    <Map
+      Local="Content/TopicsE/Topic D.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic B.htm" />
+    <Map
+      Local="Content/TopicsE/Topic E.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic C.htm" />
+    <Map
+      Local="Content/TopicsE/Topic F.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic D.htm" />
+    <Map
+      Local="Content/TopicsE/Topic G.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic E.htm" />
+    <Map
+      Local="Content/TopicsE/Topic H.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic F.htm" />
+    <Map
+      Local="Content/TopicsE/Topic I.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic G.htm" />
+    <Map
+      Local="Content/TopicsE/Topic J.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic H.htm" />
+    <Map
+      Local="Content/TopicsE/Topic K.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic I.htm" />
+    <Map
+      Local="Content/TopicsE/Topic L.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic J.htm" />
+    <Map
+      Local="Content/TopicsE/Topic M.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic K.htm" />
+    <Map
+      Local="Content/TopicsE/Topic N.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic L.htm" />
+    <Map
+      Local="Content/TopicsE/Topic O.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic M.htm" />
+    <Map
+      Local="Content/TopicsE/Topic P.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic N.htm" />
+    <Map
+      Local="Content/TopicsE/Topic Q.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic O.htm" />
+    <Map
+      Local="Content/TopicsE/Topic R.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic P.htm" />
+    <Map
+      Local="Content/TopicsE/Topic S.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic Q.htm" />
+    <Map
+      Local="Content/TopicsE/Topic T.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic R.htm" />
+    <Map
+      Local="Content/TopicsE/Topic U.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic S.htm" />
+    <Map
+      Local="Content/TopicsE/Topic V.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic T.htm" />
+    <Map
+      Local="Content/TopicsE/Topic W.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic U.htm" />
+    <Map
+      Local="Content/TopicsE/Topic X.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic V.htm" />
+    <Map
+      Local="Content/TopicsE/Topic Y.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic W.htm" />
+    <Map
+      Local="Content/TopicsE/Topic Z.htm"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic X.htm" />
+    <Map
+      Local="Project/TOCs/SectA.fltoc"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Content/TopicsE/Topic Z.htm" />
+    <Map
+      Local="Project/TOCs/SectB.fltoc"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Project/TOCs/Master.fltoc" />
+    <Map
+      Local="Project/TOCs/SectC.fltoc"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Project/TOCs/SectA.fltoc" />
+    <Map
+      Local="Project/TOCs/SectD.fltoc"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Project/TOCs/SectB.fltoc" />
+    <Map
+      Local="Project/TOCs/SectE.fltoc"
+      Remote="../../../AccordionMenu/SampleProject/Foundation-6-Accordion-Menu/Project/TOCs/SectC.fltoc" />
+  </ImportedMap>
+  <SourceUrls>
+    <Url
+      Source="Project/Imports/Foundation 6 Accordion Menu.flimpfl" />
+  </SourceUrls>
+</CatapultGlobalImportedFilesCache>

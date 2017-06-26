@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/HT/home.htm" />
+    <Link
+      Url="Content/HT/whatsNew.htm" />
+    <Link
+      Url="Content/HT/cxSuiteTOC.htm" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/cxSuite/createProject.htm" />
+    <Link
+      Url="Content/cxSuite/using.htm" />
+    <Link
+      Url="Content/cxSuite/metaMeasureDashboard.htm" />
+    <Link
+      Url="Content/cxSuite/reports.htm" />
+    <Link
+      Url="Content/cxSuite/Alerts.htm" />
+    <Link
+      Url="Content/HT/surveyBuilderTOC.htm" />
+    <Link
+      Url="Content/HT/surveyDeploymentTOC.htm" />
+    <Link
+      Url="Project/TOCs/cxMeasurement.fltoc" />
+    <Link
+      Url="Content/HT/FeedbackTOC.htm" />
+    <Link
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/gettingStarted.htm" />
+    <Link
+      Url="Content/Feedback/create.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/topics.htm" />
+    <Link
+      Url="Content/Feedback/manualLaunch.htm" />
+    <Link
+      Url="Content/Feedback/analytics.htm" />
+    <Link
+      Url="Content/Feedback/inPg.htm" />
+    <Link
+      Url="Content/Feedback/Alerts.htm" />
+    <Link
+      Url="Content/Feedback/faq.htm" />
+    <Link
+      Url="Content/HT/ReplayTOC.htm" />
+    <Link
+      Url="Content/Replay/cxReplay.htm" />
+    <Link
+      Url="Content/Replay/create.htm" />
+    <Link
+      Url="Content/Replay/player.htm" />
+    <Link
+      Url="Content/Replay/heatMaps.htm" />
+    <Link
+      Url="Content/Replay/cxReplaySecurity.htm" />
+    <Link
+      Url="Content/HT/CaseMgmtTOC.htm" />
+    <Link
+      Url="Content/CaseMgmt/about.htm" />
+    <Link
+      Url="Content/CaseMgmt/gettingStarted.htm" />
+    <Link
+      Url="Content/CaseMgmt/createAuto.htm" />
+    <Link
+      Url="Content/CaseMgmt/createManual.htm" />
+    <Link
+      Url="Content/CaseMgmt/ManageSection.htm" />
+    <Link
+      Url="Content/CaseMgmt/monitorCase.htm" />
+    <Link
+      Url="Content/CaseMgmt/changeUser.htm" />
+    <Link
+      Url="Content/CaseMgmt/filterViews.htm" />
+    <Link
+      Url="Content/CaseMgmt/workCase.htm" />
+    <Link
+      Url="Content/CaseMgmt/using.htm" />
+    <Link
+      Url="Content/CaseMgmt/closeCase.htm" />
+    <Link
+      Url="Content/HT/TextAnalyticsTOC.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
+      Url="Content/HT/glossary.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

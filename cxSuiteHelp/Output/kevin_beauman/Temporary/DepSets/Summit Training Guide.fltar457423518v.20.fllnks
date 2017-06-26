@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/Skins/Webcollage.flskn" />
+    <Link
+      Url="Project/TOCs/SummitTraining.fltoc" />
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles_Print.css" />
+    <Link
+      Url="Content/Resources/PageLayouts/PrintPgLandscape.flpgl" />
+    <Link
+      Url="Content/Resources/MasterPages/PrintLandscape.flmsp" />
+    <Link
+      Url="Content/Help_Home.htm" />
+    <Link
+      Url="Project/Destinations/OneDrive4Summit.fldes" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Replay/home.htm" />
+    <Link
+      Url="Content/Replay/using.htm" />
+    <Link
+      Url="Content/Replay/cxReplay.htm" />
+    <Link
+      Url="Content/Replay/heatMaps.htm" />
+    <Link
+      Url="Content/Replay/player.htm" />
+    <Link
+      Url="Content/Replay/create.htm" />
+    <Link
+      Url="Content/Replay/cxReplaySecurity.htm" />
+    <Link
+      Url="Content/Replay/releaseNotes.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

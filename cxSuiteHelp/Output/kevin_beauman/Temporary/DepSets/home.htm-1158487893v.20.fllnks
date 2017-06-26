@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="CX Help &amp; Training Guide"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/getting-started-icon.svg" />
+    <Link
+      Url="Content/cxSuite/cxMeasurementTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/cx-measurement-icon.svg" />
+    <Link
+      Url="Content/cxSuite/FeedbackTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/feedback-icon.svg" />
+    <Link
+      Url="Content/cxSuite/TextAnalyticsTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/text-analytics-icon.svg" />
+    <Link
+      Url="Content/cxSuite/ReplayTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/replay-icon.svg" />
+    <Link
+      Url="Content/cxSuite/CaseMgmtTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/case-icon.svg" />
+    <Link
+      Url="Content/cxSuite/integrationTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/integration-icon.svg" />
+    <Link
+      Url="Content/cxSuite/whatsNew.htm" />
+    <Link
+      Url="Content/Resources/Images/megaphone-icon.svg" />
+    <Link
+      Url="Content/cxSuite/globalSettings.htm" />
+    <Link
+      Url="Content/Resources/Images/global-settings-icon.svg" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/gettingStarted.htm" />
+    <Link
+      Url="Content/Resources/Images/getting-started-icon.svg" />
+    <Link
+      Url="Content/cxSuite/cxMeasurementTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/cx-measurement-icon.svg" />
+    <Link
+      Url="Content/cxSuite/FeedbackTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/feedback-icon.svg" />
+    <Link
+      Url="Content/cxSuite/TextAnalyticsTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/text-analytics-icon.svg" />
+    <Link
+      Url="Content/cxSuite/ReplayTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/replay-icon.svg" />
+    <Link
+      Url="Content/cxSuite/CaseMgmtTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/case-icon.svg" />
+    <Link
+      Url="Content/cxSuite/integrationTOC.htm" />
+    <Link
+      Url="Content/Resources/Images/integration-icon.svg" />
+    <Link
+      Url="Content/cxSuite/whatsNew.htm" />
+    <Link
+      Url="Content/Resources/Images/megaphone-icon.svg" />
+    <Link
+      Url="Content/cxSuite/globalSettings.htm" />
+    <Link
+      Url="Content/Resources/Images/global-settings-icon.svg" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/CX_Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

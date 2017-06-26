@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Click <span class="uicontrol">Customize Columns</span> to view and select the data you wish to view and click <span class="uicontrol">Apply</span>. The column is added on the right. You can drag and drop columns to arrange them as desired. You may also drag the edge of a column to adjust the width.</p>
+        <p>To save a custom view:</p>
+        <ol>
+            <li>Click <span class="wintitle">Saved Views</span> and then click <span class="uicontrol">New Saved View</span>. A dialog displays for you to type in a name for the view and you may also select <span class="wintitle">Make This My Default View</span>.</li>
+            <li>Click <span class="uicontrol">Save View</span>. The dialog closes and your new view is now listed on the <span class="wintitle">Saved Views</span> menu, where you can click the name to apply the view, as well as edit or delete the view.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>The trigger code still has an option for pooling even if the client does not have cxReplay.  In this situation the default pooling value is set at 100.</body>
+</html>

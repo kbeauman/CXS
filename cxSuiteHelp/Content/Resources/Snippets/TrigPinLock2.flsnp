@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>A client may want us to pin a checkout and/or purchase definition over a more general browse definition. Checkout and purchase receive less traffic than the overall site, so we want to make sure that anyone who accepted the invitation via the browser definition would receive the checkout or purchase survey if they enter the checkout flow or complete a purchase. The "pin" parameter can accomplish this.</body>
+</html>
