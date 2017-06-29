@@ -122,6 +122,13 @@ a.vid
 	text-decoration: none;
 }
 
+a.vid2
+{
+	font-weight: bold;
+	text-decoration: none;
+	padding-left: 20px;
+}
+
 body
 {
 	font-family: 'ProximaNova-Regular', sans-serif;

@@ -8,36 +8,17 @@
   <Links>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
-    <Link
-      Url="Content/globalSettings.htm" />
-    <Link
-      Url="Content/setupTOC.htm" />
-    <Link
-      Url="Content/createHierarchy.htm" />
-    <Link
-      Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
-    <Link
-      Url="Content/globalSettings.htm" />
-    <Link
-      Url="Content/setupTOC.htm" />
-    <Link
-      Url="Content/createHierarchy.htm" />
-    <Link
-      Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="Tooltips.Tooltip Topic" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

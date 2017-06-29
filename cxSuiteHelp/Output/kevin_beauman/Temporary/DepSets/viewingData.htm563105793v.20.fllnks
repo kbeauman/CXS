@@ -10,7 +10,7 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/inPg.htm" />
+      Url="Content/Feedback/inPg.htm" />
     <Link
       Url="Content/Resources/Images/analyzeSurveyIcon.png" />
     <Link
@@ -44,7 +44,7 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/inPg.htm" />
+      Url="Content/Feedback/inPg.htm" />
     <Link
       Url="Content/Resources/Images/analyzeSurveyIcon.png" />
     <Link

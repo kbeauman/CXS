@@ -8,10 +8,14 @@
   <Links>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="https://foresee.wistia.com/medias/cf0vhhnuei" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="https://foresee.wistia.com/medias/cf0vhhnuei" />
   </LongLinks>
   <Anchors />
   <Keywords />
