@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadBuild V12 Generated Print.fltar" Date="2017-06-02T09:50:08.8354822-04:00">
+<MadCapLog Protocol="2" Description="MadBuild V12 Generated Print.fltar" Date="2017-06-27T08:15:56.7239645-04:00">
     <Messages>Compiling target Print...
 Checking Word version...
 Removing previously generated content...
@@ -87,6 +87,13 @@ Processing topic: cppEpp.htm
 Processing topic: globalSettings.htm
 Processing topic: aboutGlobalSettings.htm
 Missing linked source file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\using.htm
+Processing topic: setupTOC.htm
+Processing topic: users.htm
+Processing topic: hierarchy.htm
+Processing topic: hierarchyAbout.htm
+Processing topic: createHierarchy.htm
+Processing topic: hierarchyAttributes.htm
+Processing topic: hierarchyAboutVersions.htm
 Processing topic: appsTOC.htm
 Processing topic: ReplayTOC.htm
 Processing topic: cxReplay.htm
@@ -116,15 +123,15 @@ Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-G
 Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\feedbackDashboard.htm. File may not be included in the output.
 Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxMeasurement\triggerCode.htm. File may not be included in the output.
 Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxMeasurement\replay.htm. File may not be included in the output.
-Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\inPg.htm. File may not be included in the output.
 Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\datePicker.htm. File may not be included in the output.
 Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\respondentDetails.htm. File may not be included in the output.
 Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\using.htm. File may not be included in the output.
+Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\createCsvHierarchy.htm. File may not be included in the output.
 Saving word output...
 Embedding images into document. This may take several minutes.
 Generated ../../../../../Print/Output/Print/cxSuiteHelp.doc
 Saving result set...
-Output generated in 36 second(s).
+Output generated in 22 second(s).
 
 Done
 Saving log to "C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\Print\Output\Print\Print.mclog"
@@ -147,10 +154,10 @@ Saving log to "C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\Print
         <LogEntry File="../../../Content/Feedback/feedbackDashboard.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\feedbackDashboard.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
         <LogEntry File="../../../Content/cxMeasurement/triggerCode.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxMeasurement\triggerCode.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
         <LogEntry File="../../../Content/cxMeasurement/replay.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxMeasurement\replay.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
-        <LogEntry File="../../../Content/inPg.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\inPg.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
         <LogEntry File="../../../Content/CaseMgmt/datePicker.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\CaseMgmt\datePicker.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
         <LogEntry File="../../../Content/cxSuite/respondentDetails.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\respondentDetails.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
         <LogEntry File="../../../Content/using.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\using.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
+        <LogEntry File="../../../Content/cxSuite/createCsvHierarchy.htm" Message="Unresolved link to file: C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\createCsvHierarchy.htm. File may not be included in the output." LineIndex="-1" CharIndex="-1" Subsystem="MsWord Compiler" Target="Print" ErrorID="40017" />
     </Warnings>
     <Errors />
 </MadCapLog>

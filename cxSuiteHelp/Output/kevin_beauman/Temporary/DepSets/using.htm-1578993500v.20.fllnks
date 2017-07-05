@@ -10,6 +10,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="https://foresee.wistia.com/medias/cf0vhhnuei" />
+    <Link
       Url="Content/cxSuite/cx360.htm" />
     <Link
       Url="Content/cxSuite/cxMeasurementTOC.htm" />
@@ -33,6 +35,8 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="https://foresee.wistia.com/medias/cf0vhhnuei" />
     <Link
       Url="Content/cxSuite/cx360.htm" />
     <Link
