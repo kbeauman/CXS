@@ -4,7 +4,7 @@
         <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\cxSuite\globalSettings.htm" />
     </Dialog>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Images\EmpTree.png" />
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Images\gettingStartedVideoThumbnail340.png" />
     </Dialog>
     <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
         <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Snippets\CustomizeColumnsProcess.flsnp" />
