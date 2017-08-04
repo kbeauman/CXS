@@ -42,6 +42,9 @@
     <Url
       Source="../../Content/cxSuite/TOC_Print.htm"
       AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxSuite/TOC_Print.htm" />
+    <Url
+      Source="../../Content/cxSuite/vids.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxSuite/vids.htm" />
   </ExcludedFiles>
   <CollectedSourceFiles>
     <Url

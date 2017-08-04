@@ -264,12 +264,18 @@
           Title="Create a Hierarchy"
           Link="/Content/cxSuite/createHierarchy.htm" />
         <TocEntry
+          Title="Associate a Hierarchy"
+          Link="/Content/cxSuite/hierarchyAssociate.htm" />
+        <TocEntry
           Title="Hierarchy Attributes"
           Link="/Content/cxSuite/hierarchyAttributes.htm" />
         <TocEntry
           Title="About Hierarchy Versions"
           Link="/Content/cxSuite/hierarchyAboutVersions.htm" />
       </TocEntry>
+      <TocEntry
+        Title="Master Data"
+        Link="/Content/cxSuite/masterData.htm" />
     </TocEntry>
     <TocEntry
       Title="Apps"

@@ -179,6 +179,9 @@
     <Url
       Source="../../Content/Replay/player.htm"
       AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Replay/player.htm" />
+    <Url
+      Source="../../Content/cxSuite/vids.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxSuite/vids.htm" />
   </ExcludedFiles>
   <CollectedSourceFiles>
     <Url

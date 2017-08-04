@@ -26,11 +26,13 @@
     <Link
       Url="Content/cxSuite/cx360.htm" />
     <Link
+      Url="Content/cxSuite/faq.htm" />
+    <Link
       Url="Content/cxSuite/surveyTOC.htm" />
     <Link
       Url="Content/cxSuite/aboutSurveys.htm" />
     <Link
-      Url="Content/cxSuite/cxSurveyTOC.htm" />
+      Url="Content/cxSuite/cxMeasurementTOC.htm" />
     <Link
       Url="Content/cxSuite/MeasuresDashboard.htm" />
     <Link
@@ -155,6 +157,20 @@
       Url="Content/cxSuite/globalSettings.htm" />
     <Link
       Url="Content/cxSuite/aboutGlobalSettings.htm" />
+    <Link
+      Url="Content/cxSuite/setupTOC.htm" />
+    <Link
+      Url="Content/cxSuite/users.htm" />
+    <Link
+      Url="Content/cxSuite/hierarchy.htm" />
+    <Link
+      Url="Content/cxSuite/hierarchyAbout.htm" />
+    <Link
+      Url="Content/cxSuite/createHierarchy.htm" />
+    <Link
+      Url="Content/cxSuite/hierarchyAttributes.htm" />
+    <Link
+      Url="Content/cxSuite/hierarchyAboutVersions.htm" />
     <Link
       Url="Content/cxSuite/appsTOC.htm" />
     <Link

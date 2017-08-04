@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalImportedFilesCache
-  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/kevin_beauman/Temporary/GlobalImportedFilesSet v.1.xml">
+  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/Kevin_Beauman/Temporary/GlobalImportedFilesSet v.1.xml">
   <ImportedMap>
     <Map
       Local="../../Content/cxSuite/Alerts.htm"
@@ -2852,9 +2852,6 @@
     <Map
       Local="Content/cxSuite/searchResults.htm"
       Remote="../../CX Suite/CX-Suite-master/Content/cxSuite/searchResults.htm" />
-    <Map
-      Local="Content/cxSuite/vids.htm"
-      Remote="../../CX Suite/CX-Suite-master/Content/cxSuite/vids.htm" />
     <Map
       Local="Content/Resources/Multimedia/cxSuiteOverview.mp4"
       Remote="../../CX Suite/CX-Suite-master/Content/Resources/Multimedia/cxSuiteOverview.mp4" />

@@ -10,7 +10,7 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/cxSuite/learn.foresee.com/getting-started-cx-suite" />
+      Url="http://learn.foresee.com/getting-started-cx-suite" />
     <Link
       Url="Content/Resources/Images/gettingStartedVideoThumbnail340.png" />
     <Link
@@ -38,7 +38,7 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/cxSuite/learn.foresee.com/getting-started-cx-suite" />
+      Url="http://learn.foresee.com/getting-started-cx-suite" />
     <Link
       Url="Content/Resources/Images/gettingStartedVideoThumbnail340.png" />
     <Link

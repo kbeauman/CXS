@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileClass="Topic"
-  FileTitle="Help Videos"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
@@ -10,37 +8,17 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Resources/Multimedia/cxSuiteOverview.mp4" />
+      Url="https://fast.wistia.com/embed/medias/cf0vhhnuei.jsonp" />
     <Link
-      Url="Content/Resources/Images/cxSuiteThumbnail.png" />
-    <Link
-      Url="Content/Resources/Multimedia/Reports.mp4" />
-    <Link
-      Url="Content/Resources/Images/reportsThumbnail.png" />
-    <Link
-      Url="Content/Resources/Multimedia/Alerts.mp4" />
-    <Link
-      Url="Content/Resources/Images/alertsThumbnail.png" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
+      Url="https://fast.wistia.com/assets/external/E-v1.js" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Resources/Multimedia/cxSuiteOverview.mp4" />
+      Url="https://fast.wistia.com/embed/medias/cf0vhhnuei.jsonp" />
     <Link
-      Url="Content/Resources/Images/cxSuiteThumbnail.png" />
-    <Link
-      Url="Content/Resources/Multimedia/Reports.mp4" />
-    <Link
-      Url="Content/Resources/Images/reportsThumbnail.png" />
-    <Link
-      Url="Content/Resources/Multimedia/Alerts.mp4" />
-    <Link
-      Url="Content/Resources/Images/alertsThumbnail.png" />
-    <Link
-      Url="Project/ConditionTagSets/Default.flcts" />
+      Url="https://fast.wistia.com/assets/external/E-v1.js" />
   </LongLinks>
   <Anchors />
   <Keywords />
@@ -48,17 +26,8 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables />
-  <FileConditions>
-    <Condition
-      Tag="Default.ScreenOnly" />
-  </FileConditions>
+  <FileConditions />
   <FileTags />
-  <AllConditions>
-    <Condition
-      Tag="Default.ScreenOnly" />
-  </AllConditions>
-  <Stylesheets>
-    <Url
-      Source="Content/Resources/Stylesheets/CX_Styles.css" />
-  </Stylesheets>
+  <AllConditions />
+  <Stylesheets />
 </CatapultFileLinkSet>

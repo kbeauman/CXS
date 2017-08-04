@@ -9,6 +9,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/cxSuite/aboutGlobalSettings.htm" />
+    <Link
       Url="Content/cxMeasurement/pos.htm" />
     <Link
       Url="Content/cxMeasurement/loyalty.htm" />
@@ -19,9 +21,11 @@
     <Link
       Url="Content/CaseMgmt/about.htm" />
     <Link
-      Url="Content/cxSuite/createCsvHierarchy.htm" />
-    <Link
       Url="Content/cxSuite/hierarchyAttributes.htm" />
+    <Link
+      Url="Content/cxSuite/hierarchyAssociate.htm" />
+    <Link
+      Url="Content/cxSuite/cxMeasurementTOC.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
@@ -29,6 +33,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/cxSuite/aboutGlobalSettings.htm" />
+    <Link
       Url="Content/cxMeasurement/pos.htm" />
     <Link
       Url="Content/cxMeasurement/loyalty.htm" />
@@ -39,9 +45,11 @@
     <Link
       Url="Content/CaseMgmt/about.htm" />
     <Link
-      Url="Content/cxSuite/createCsvHierarchy.htm" />
-    <Link
       Url="Content/cxSuite/hierarchyAttributes.htm" />
+    <Link
+      Url="Content/cxSuite/hierarchyAssociate.htm" />
+    <Link
+      Url="Content/cxSuite/cxMeasurementTOC.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
