@@ -10,9 +10,11 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Resources/PDFs/Winter17ClientFacing.pdf" />
+      Url="Content/Resources/PDFs/CXS17_2ReleaseNotes.pdf" />
     <Link
       Url="Content/Resources/PDFs/Fall16ClientFacing.pdf" />
+    <Link
+      Url="Content/Resources/PDFs/Winter17ClientFacing.pdf" />
     <Link
       Url="Content/Resources/PDFs/Fall16MinorClientFacing.pdf" />
     <Link
@@ -26,9 +28,11 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Resources/PDFs/Winter17ClientFacing.pdf" />
+      Url="Content/Resources/PDFs/CXS17_2ReleaseNotes.pdf" />
     <Link
       Url="Content/Resources/PDFs/Fall16ClientFacing.pdf" />
+    <Link
+      Url="Content/Resources/PDFs/Winter17ClientFacing.pdf" />
     <Link
       Url="Content/Resources/PDFs/Fall16MinorClientFacing.pdf" />
     <Link

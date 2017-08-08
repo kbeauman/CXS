@@ -10,15 +10,21 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/Resources/Images/starClear.png" />
+    <Link
+      Url="Content/Resources/Images/starSelect.png" />
+    <Link
       Url="Content/cxSuite/MeasuresDashboard.htm" />
     <Link
-      Url="Content/Resources/Images/analyzeSurveyIcon.png" />
+      Url="Content/Resources/Images/previewIcon.png" />
     <Link
-      Url="Content/Resources/Images/viewSurveyIcon.png" />
+      Url="Content/Feedback/newSurvey.htm" />
     <Link
-      Url="Content/Resources/Images/seeRespondentsIcon.png" />
+      Url="Content/Resources/Images/trash.png" />
     <Link
-      Url="Content/Feedback/feedbackDashboard.htm" />
+      Url="Content/Resources/Images/dupSurvey.png" />
+    <Link
+      Url="Content/Resources/Images/Pencil.png" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
@@ -26,23 +32,21 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/Resources/Images/starClear.png" />
+    <Link
+      Url="Content/Resources/Images/starSelect.png" />
+    <Link
       Url="Content/cxSuite/MeasuresDashboard.htm#Analyze" />
     <Link
-      Url="Content/Resources/Images/analyzeSurveyIcon.png" />
+      Url="Content/Resources/Images/previewIcon.png" />
     <Link
-      Url="Content/Resources/Images/viewSurveyIcon.png" />
+      Url="Content/Feedback/newSurvey.htm" />
     <Link
-      Url="Content/cxSuite/MeasuresDashboard.htm#View" />
+      Url="Content/Resources/Images/trash.png" />
     <Link
-      Url="Content/Resources/Images/seeRespondentsIcon.png" />
+      Url="Content/Resources/Images/dupSurvey.png" />
     <Link
-      Url="Content/cxSuite/MeasuresDashboard.htm#See" />
-    <Link
-      Url="Content/Feedback/feedbackDashboard.htm#AnalyzeSurvey" />
-    <Link
-      Url="Content/Feedback/feedbackDashboard.htm#ViewSurvey" />
-    <Link
-      Url="Content/Feedback/feedbackDashboard.htm#SeeRespondents" />
+      Url="Content/Resources/Images/Pencil.png" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>

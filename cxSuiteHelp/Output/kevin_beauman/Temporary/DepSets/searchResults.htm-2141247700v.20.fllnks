@@ -8,13 +8,13 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Project/Skins/SearchResults.flskn" />
+      Url="Project/Skins/searchResults.flskn" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Project/Skins/SearchResults.flskn" />
+      Url="Project/Skins/searchResults.flskn" />
   </LongLinks>
   <Anchors />
   <Keywords />

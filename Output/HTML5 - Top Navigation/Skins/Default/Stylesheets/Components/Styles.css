@@ -236,23 +236,23 @@ ul.menu li > a.selected
 	text-decoration: none;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .term a:visited
+._Skins_searchResults.mc-component #resultList .glossary .term a:visited
 {
 	
 }
 
-._Skins_SearchResults.mc-component #resultList h3.title a:visited
+._Skins_searchResults.mc-component #resultList h3.title a:visited
 {
 	color: #007bca;
 	text-decoration: none;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .term a:focus
+._Skins_searchResults.mc-component #resultList .glossary .term a:focus
 {
 	text-decoration: none;
 }
 
-._Skins_SearchResults.mc-component #resultList h3.title a:focus
+._Skins_searchResults.mc-component #resultList h3.title a:focus
 {
 	color: #009fea;
 	text-decoration: overline;
@@ -293,28 +293,28 @@ ul.menu._Skins_Menu.mc-component ul ul ul ul > li > a:hover
 	background-color: #1CBDFF;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .term a:hover
+._Skins_searchResults.mc-component #resultList .glossary .term a:hover
 {
 	text-decoration: underline;
 }
 
-._Skins_SearchResults.mc-component #pagination a:hover
+._Skins_searchResults.mc-component #pagination a:hover
 {
 	border-top: solid 1px #e2e2e6;
 }
 
-._Skins_SearchResults.mc-component #resultList h3.title a:hover
+._Skins_searchResults.mc-component #resultList h3.title a:hover
 {
 	color: #007bca;
 	text-decoration: underline;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .term a:active
+._Skins_searchResults.mc-component #resultList .glossary .term a:active
 {
 	
 }
 
-._Skins_SearchResults.mc-component #resultList h3.title a:active
+._Skins_searchResults.mc-component #resultList h3.title a:active
 {
 	color: #009fea;
 	text-decoration: underline;
@@ -571,12 +571,12 @@ ul.menu._Skins_Menu.mc-component li > a.selected:hover
 	background-color: #1CBDFF;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .definition
+._Skins_searchResults.mc-component #resultList .glossary .definition
 {
 	
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary
+._Skins_searchResults.mc-component #resultList .glossary
 {
 	margin-bottom: 25px;
 	padding-left: 15px;
@@ -586,18 +586,18 @@ ul.menu._Skins_Menu.mc-component li > a.selected:hover
 	background-position: center center;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .term
+._Skins_searchResults.mc-component #resultList .glossary .term
 {
 	font-size: 1.5em;
 	margin-bottom: 10px;
 }
 
-._Skins_SearchResults.mc-component #resultList .glossary .term a
+._Skins_searchResults.mc-component #resultList .glossary .term a
 {
 	
 }
 
-._Skins_SearchResults.mc-component h1#results-heading
+._Skins_searchResults.mc-component h1#results-heading
 {
 	color: #222b3c;
 	font-size: 1.5em;
@@ -605,20 +605,20 @@ ul.menu._Skins_Menu.mc-component li > a.selected:hover
 	font-style: normal;
 }
 
-._Skins_SearchResults.mc-component #results-heading
+._Skins_searchResults.mc-component #results-heading
 {
 	border-bottom: solid 1px #ebebeb;
 	margin-bottom: 20px;
 	padding-bottom: 10px;
 }
 
-._Skins_SearchResults.mc-component #pagination
+._Skins_searchResults.mc-component #pagination
 {
 	height: 40px;
 	line-height: ;
 }
 
-._Skins_SearchResults.mc-component #pagination a
+._Skins_searchResults.mc-component #pagination a
 {
 	border-top: solid 1px #fafafc;
 	color: #0185D1;
@@ -634,38 +634,38 @@ ul.menu._Skins_Menu.mc-component li > a.selected:hover
 	text-decoration: none;
 }
 
-._Skins_SearchResults.mc-component #pagination a#selected
+._Skins_searchResults.mc-component #pagination a#selected
 {
 	font-weight: bold;
 	border-top: solid 1px #e2e2e6;
 }
 
-._Skins_SearchResults.mc-component #resultList .description
+._Skins_searchResults.mc-component #resultList .description
 {
 	color: #222b3c;
 	font-size: 13px;
 }
 
-._Skins_SearchResults.mc-component #resultList h3.title a
+._Skins_searchResults.mc-component #resultList h3.title a
 {
 	color: #1cbdff;
 	font-size: 1em;
 }
 
-._Skins_SearchResults.mc-component #resultList h3.title
+._Skins_searchResults.mc-component #resultList h3.title
 {
 	margin-bottom: 2px;
 	text-decoration: none;
 }
 
-._Skins_SearchResults.mc-component #resultList .url cite
+._Skins_searchResults.mc-component #resultList .url cite
 {
 	color: #3a475b;
 	font-size: 13px;
 	font-style: normal;
 }
 
-._Skins_SearchResults.mc-component #resultList
+._Skins_searchResults.mc-component #resultList
 {
 	line-height: 1em;
 	text-align: left;

@@ -26,4 +26,9 @@
     <Destination
       Link="/Project/Destinations/GitHubLocal.fldes" />
   </Destinations>
+  <MetaTags>
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+  </MetaTags>
 </CatapultTarget>

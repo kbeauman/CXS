@@ -168,9 +168,13 @@
     <Link
       Url="Content/cxSuite/createHierarchy.htm" />
     <Link
+      Url="Content/cxSuite/hierarchyAssociate.htm" />
+    <Link
       Url="Content/cxSuite/hierarchyAttributes.htm" />
     <Link
       Url="Content/cxSuite/hierarchyAboutVersions.htm" />
+    <Link
+      Url="Content/cxSuite/masterData.htm" />
     <Link
       Url="Content/cxSuite/appsTOC.htm" />
     <Link

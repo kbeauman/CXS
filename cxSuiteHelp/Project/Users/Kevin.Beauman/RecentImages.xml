@@ -1,13 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
     <Url Source="Resources/Images/Pencil.png" />
+    <Url Source="Resources/Images/dupSurvey.png" />
+    <Url Source="Resources/Images/trash.png" />
+    <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/previewIcon.png" />
+    <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/starSelect.png" />
+    <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/starClear.png" />
     <Url Source="Resources/Images/gettingStartedVideoThumbnail340.png" />
     <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/gettingStartedVideoThumbnail340.png" />
     <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/Hierarchy/EmpTree.png" />
     <Url Source="Resources/Images/movieIcon.png" />
     <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/corner.jpg" />
     <Url Source="Resources/Images/unPubIcon.png" />
-    <Url Source="Resources/Images/trash.png" />
     <Url Source="../../../../OneDrive - ForeSee/CX Suite/Graphics/dupSurvey.png" />
     <Url Source="Resources/Images/seeRespondentsIcon.png" />
     <Url Source="Resources/Images/viewSurveyIcon.png" />

@@ -12,6 +12,8 @@
     <Link
       Url="Content/cxSuite/ReleaseCalendar.htm" />
     <Link
+      Url="Content/cxSuite/whatsNew.htm" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
@@ -25,6 +27,8 @@
       Url="Content/cxSuite/ReleaseCalendar.htm#Major" />
     <Link
       Url="Content/cxSuite/ReleaseCalendar.htm#Patch" />
+    <Link
+      Url="Content/cxSuite/whatsNew.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
@@ -43,6 +47,8 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
     <Variable
       Name="Tooltips.Tooltip Section" />
   </Variables>

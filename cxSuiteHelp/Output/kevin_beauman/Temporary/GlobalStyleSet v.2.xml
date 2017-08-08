@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalStyleCache
-  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/Kevin_Beauman/Temporary/GlobalStyleSet v.2.xml">
+  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/kevin_beauman/Temporary/GlobalStyleSet v.2.xml">
   <Media>
     <Medium
       Name="print" />
@@ -96,6 +96,8 @@
         Name="logo" />
       <Class
         Name="vid" />
+      <Class
+        Name="vid2" />
       <Class
         Name="selected" />
       <Class
@@ -437,6 +439,8 @@
         Name="uicontrol" />
       <Class
         Name="wintitle" />
+      <Class
+        Name="term" />
       <Class
         Name="query" />
       <Class
@@ -785,6 +789,8 @@
       Source="Resources/TableStyles/home.css" />
     <Url
       Source="Resources/TableStyles/homeftr.css" />
+    <Url
+      Source="Resources/TableStyles/simple.css" />
     <Url
       Source="Resources/TableStyles/vid.css" />
     <Url
