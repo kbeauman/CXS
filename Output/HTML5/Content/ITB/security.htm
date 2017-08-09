@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en-us" xml:lang="en-us" class="Topic" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../../" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic;Default" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="CX Measurement|CX Platform">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Security</title>
+        <link rel="shortcut icon" href="https://voc.foresee.com/assets/img/favicon.ico" />
+        <link href="../../Skins/Default/Stylesheets/Slideshow.css" rel="stylesheet" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Styles.css" rel="stylesheet" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Tablet.css" rel="stylesheet" data-mc-generated="True" />
+        <link href="../../Skins/Default/Stylesheets/Components/Mobile.css" rel="stylesheet" data-mc-generated="True" />
+        <script src="../../Resources/Scripts/custom.modernizr.js">
+        </script>
+        <script src="../../Resources/Scripts/jquery.min.js">
+        </script>
+        <script src="../../Resources/Scripts/require.min.js">
+        </script>
+        <script src="../../Resources/Scripts/require.config.js">
+        </script>
+        <script src="../../Resources/Scripts/foundation.min.js">
+        </script>
+        <script src="../../Resources/Scripts/plugins.min.js">
+        </script>
+        <script src="../../Resources/Scripts/MadCapAll.js">
+        </script>
+    </head>
+    <body class="home">
+        <div class="topicHdBg"><a href="../HT/home.htm" title="Click to view the Home page." alt="Click to view the Home page."><img src="../Resources/Images/4C_logo_white40pxhigh.png" class="bluelogo" title="Click to view the Home page." alt="ForeSee logo" /></a>
+            <form class="search" action="#">
+                <div class="search-bar search-bar-container needs-pie _Skins_navSkinTopic mc-component">
+                    <input class="search-field needs-pie" type="search" placeholder="Search" />
+                    <div class="search-filter-wrapper">
+                        <div class="search-filter">
+                            <div class="search-filter-content">
+                                <ul>
+                                    <li>All Files</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="search-submit-wrapper" dir="ltr">
+                        <div class="search-submit" title="Search">
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <table border="0">
+            <tr>
+                <td width="1%" style="vertical-align: top;">
+                    <h2>Contents</h2>
+                    <ul class="menu _Skins_LeftNav mc-component">
+                        <li class="has-children"><a href="cxPlatform.htm">CX Platform</a>
+                            <ul class="sub-menu">
+                                <li><a href="benchmarks.htm">Benchmarks</a>
+                                </li>
+                                <li><a href="cppEpp.htm">CPPs/EPPs</a>
+                                </li>
+                                <li><a href="languageOptions.htm">Language Options</a>
+                                </li>
+                                <li><a href="reporting.htm">Reporting</a>
+                                </li>
+                                <li><a href="#" class="selected">Security</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </td>
+                <td width="99%" style="vertical-align: top;">
+                    <div class="content">
+                        <h1>Security</h1>
+                        <table class="BlindTOC" style="margin-left: 0; margin-right: auto;">
+                            <col style="width: 50%;" />
+                            <col style="width: 50%;" />
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <ul>
+                                            <li value="1"><a href="#DATA" title="Click to view this section." alt="Click to view this section." class="selected">Data Masking</a>
+                                            </li>
+                                            <li value="2"><a href="#PASSWORD" title="Click to view this section." alt="Click to view this section." class="selected">Password Security</a>
+                                            </li>
+                                            <li value="3"><a href="#ACCOUNT" title="Click to view this section." alt="Click to view this section." class="selected">Account Disabling</a>
+                                            </li>
+                                            <li value="4"><a href="#CLIENT" title="Click to view this section." alt="Click to view this section." class="selected">Client Data Security</a>
+                                            </li>
+                                            <li value="5"><a href="#EMPLOYEE" title="Click to view this section." alt="Click to view this section." class="selected">Employee Computer Use</a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li value="1"><a href="#PERSONAL" title="Click to view this section." alt="Click to view this section." class="selected">Personal Mobile Devices</a>
+                                            </li>
+                                            <li value="2"><a href="#USER" title="Click to view this section." alt="Click to view this section." class="selected">User Security Groups</a>
+                                            </li>
+                                            <li value="3"><a href="#DATA2" title="Click to view this section." alt="Click to view this section." class="selected">Data Classification Levels</a>
+                                            </li>
+                                            <li value="4"><a href="#cxREPLAY" title="Click to view this section." alt="Click to view this section." class="selected">Replay Security</a>
+                                            </li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <h2><a name="DATA"></a>Data Masking</h2>
+                        <ul>
+                            <li value="1">Once data is masked it cannot be unmasked.</li>
+                            <li value="2">The following sensitive data is masked:<ul><li value="1">Social security number (SSN), Tax ID - 9 Digit number.</li><li value="2">Credit/debit card account number - 15 or 16 digit number.</li></ul></li>
+                            <li value="3">Open-end data masking applies to the following applications:<ul><li value="1">Survey (including mobile)</li><li value="2">Store study surveys</li><li value="3">Survey support links</li><li value="4">Feedback</li><li value="5">EXDL</li><li value="6">IVR transcription of open ends (we get this data through FTP from our partners)</li></ul></li>
+                            <li value="4">Masking does not apply to data collected via the following:<ul><li value="1">Sweepstakes through store landing pages (e.g., for drug stores)</li><li value="2">Smart Thank You Pages</li><li value="3">Mobile OnExit</li></ul></li>
+                            <li value="5">Replay clients MUST fill out a Secure Entry Form  (SIF) to determine which information is to be masked and which to be unmasked.  By default, if a client doesn’t specify masked or unmasked for a specific information, ForeSee masks that information.  Contact legal for the SIF.</li>
+                            <li value="6">Clients do not need to fill out a SIF for surveys to mask sensitive information in open-end responses.  The system looks for patterns, such as 15 or 16 digit number strings, and automatically assume it is a credit card number and mask it, or a nine digit number string, and automatically assume it is a SS number and mask it.<ul><li value="1">All situations that the system believes matches the pattern are masked, whether it was sensitive information or not.<div class="example">A nine digit number string that is not actually a Social Security number is masked anyway under the assumption that it is.</div></li></ul></li>
+                        </ul>
+                        <h2><a name="PASSWORD"></a>Password Security</h2>
+                        <h3>Portal Password</h3>
+                        <ul>
+                            <li value="1">The following password criteria is applicable now for AAP, EP, and  VOC.<ul><li value="1">Password must contain eight characters.</li><li value="2">Password must contain at least one upper and one lower case alpha character.</li><li value="3">Password must contain at least one number and special character.</li><li value="4">Password must not contain more than two repeating characters.<div class="example">Passsword123!</div></li><li value="5">Password must not match your username.</li><li value="6">Password cannot be one of your previous six passwords.</li><li value="7">Certain common phrases are not allowed.</li></ul></li>
+                            <li value="2">Profile passwords expire every 90 days. Users receive a notification email 15 days before the password is set expire.</li>
+                            <li value="3">Analysts and users from FedRAMP clients must use two factor authentication (2FA), rather than relying on a password alone.</li>
+                            <li value="4">With regards to portal, users are provided with a single-use link as well as a single-use token for initial account setup. Upon using these one-time items, they are prompted to create a unique, private password.<ul><li value="1">This is applicable for both internal and external Portal users.</li></ul></li>
+                        </ul>
+                        <h2><a name="ACCOUNT"></a>Account Disabling</h2>
+                        <ul>
+                            <li value="1">User accounts are disabled for users who do not log into the portal for 90 days or more.<ul><li value="1">This is applicable to both internal and external portal users.</li></ul></li>
+                            <li value="2">External users must contact ForeSee to enable their portal profile again.<ul><li value="1">Internal users who have their accounts disabled due to inactivity must contact DOT to re-enable their access.</li></ul></li>
+                            <li value="3">Satisfying the 90 day requirement works by logging into either portal. So if a user logs into the EP then the 90 day count resets for AAP also, and vice versa.</li>
+                        </ul>
+                        <h2><a name="CLIENT"></a>Client Data Security</h2>
+                        <ul>
+                            <li value="1">We have an Acceptable Use Policy as well as Paper and Electronic Media Policies. It prohibits users from misusing client data.</li>
+                            <li value="2">Employees go through annual training and must sign confidentiality agreements.</li>
+                            <li value="3">Printed reports containing restricted data are to be physically retained, stored, or archived only within secure Foresee office environments, and only for the minimum time deemed necessary for their use. Printers do maintain logs of who printed data.</li>
+                            <li value="4">We typically disable the use of USB and CD drives, but use cryptzone to ensure data is encrypted for privileged users who are allowed access.</li>
+                            <li value="5">ForeSee is working to implement a formal DLP solution in the future as part of the FedRamp compliance efforts.</li>
+                        </ul>
+                        <h2><a name="EMPLOYEE"></a>Employee Computer Use</h2>
+                        <ul>
+                            <li value="1">Using VPN to remotely access the company network should only be done from a company device.  Home computers can be used if connecting through “View” (VMWare).<ul><li value="1">Employees must submit a ticket for initial access to the VPN, and provide the following information:<ul><li value="1">Personal cell number</li><li value="2">Carrier</li><li value="3">Personal email address</li></ul></li><li value="2">Once you have been given access to the VPN, Tech Ops can help you through the initial setup process.</li><li value="3">To access the VPN, you must sign in through the browser (IE) at sslvpn.foreseeresults.com.  You will be send a text message with a six digit string that must be input into the web page that displays after you login.</li></ul></li>
+                            <li value="2">All PCs, laptops, and workstations should be secured with a password-protected screensaver with the automatic activation feature set at 15 minutes or less.</li>
+                            <li value="3">Employees should secure their workstations by logging off or locking when the workstation is attended.<ul><li value="1">Windows users can press Ctrl+Alt+Delete keys simultaneous and select Lock this computer, or press the Windows key together with L.</li></ul></li>
+                            <li value="4">Employees must use extreme caution when opening email attachments received from unknown senders, which may contain viruses, email bombs, or trojans.</li>
+                            <li value="5">Access to the company’s email through a smartphone, using its native email client, is only allowed on a company issues phone.  Users without a company issues phone may use their personal phone’s web browser to access company email if supported.</li>
+                            <li value="6">The employee must not install third-party file sharing tools, such as Dropbox, on a company device, without the consent of the Security Team.  If permission is granted, the file share can only be used for non-proprietary data. No client data should be shared.<ul><li value="1">Contact the Security team for more information on the formal exception process.</li></ul></li>
+                            <li value="7">Use encryption of information in compliance with Security Team standards:<ul><li value="1">Data classified as “public” does not need to be encrypted.</li><li value="2">Data classified as “confidential” passed internally to an authorized user needs no encryption.</li><li value="3">Data classified as “internal” does not need to be encrypted since they can only be sent internally.</li><li value="4">Any other classification must have encryption.</li><li value="5">WinZip is the standard internal encryption tool.</li></ul></li>
+                        </ul>
+                        <h2><a name="PERSONAL"></a>Personal Mobile Devices</h2>
+                        <p>Mobile devices may be used on the company public network only and should be done for valid business reasons only.  The company supports Apple iOS and Android devices.  An employee having a personal mobile Android or Apple device may connect to the company private network under the following conditions:</p>
+                        <ul>
+                            <li value="1">The device must be registered and staged by the IT staff.</li>
+                            <li value="2">The employee must consent to the device being cleaned and restored to the original factory settings upon the employee’s departure from the company and in the event the device is lost or stolen.<ul><li value="1">The employee must notify the company immediately if the device is lost or stolen.</li></ul></li>
+                            <li value="3">The employee must consent to company-imposed password protection for the device, and the password must be kept confidential.</li>
+                            <li value="4">The company does not support any other type of mobile device, including but not limited to, the Windows or Blackberry operating systems.</li>
+                        </ul>
+                        <h2><a name="USER"></a>User Security Groups</h2>
+                        <ul>
+                            <li value="1">We will be categorizing clients as either HIPAA, FedRAMP, or neither.  If you are an analyst supporting a client who is categorized as HIPAA, you must be in the HIPAA security group to be able to access that client’s data.<ul><li value="1">A user can have both HIPAA and FedRAMP clearance.</li><li value="2">Users who have a specific designation are able to view data from all clients with that particular designation, not just data from your client(s) with that designation.</li></ul></li>
+                            <li value="2">By default, ForeSee employees will be added to the ‘default’ security group, with no access to HIPAA or FedRAMP client data.<ul><li value="1">For employees of clients, there is no change to the Portal access process, since the client is designated at the company level as FedRAMP/HIPAA.</li></ul></li>
+                            <li value="3">DOT is in charge of placing ForeSee employees within the correct security group.</li>
+                            <li value="4">Report subscriptions within the AAP will be affected by the addition of security groups.<ul><li value="1">If a subscription report is set up with an ‘owner’ that is not in the applicable security group the subscription will not process.</li></ul></li>
+                        </ul>
+                        <h2><a name="DATA2"></a>Data Classification Levels</h2>
+                        <p>ForeSee classifies data in five primary categories (Sensitive, Confidential, Restricted, Internal, and Public).</p>
+                        <ul>
+                            <li value="1"><b>Sensitive Data:</b> Any restricted data that is covered by law/regulation. The Company is required to self-report to the government and/or provide notice to the individual if information is inappropriately accessed.  Regulations include data collected under FedRAMP, HIPAA, HITECH, FERPA, PCI and similar state and  federal laws.</li>
+                            <li value="2"><b>Restricted Data:</b> Any user information which unauthorized disclosure could seriously and adversely impact the team member, company, business partners, and/or its customers. This is typically data not shared, such as passwords and encryption keys.</li>
+                            <li value="3"><b>Confidential Data:</b> any data that is contractually protected as confidential by law or by contract and any other information that is considered by the Company appropriate for confidential treatment. (Client-owned data, HR information, non-public personal and financial data).</li>
+                            <li value="4"><b>Internal Data:</b> Any information that is proprietary or business information which is intended strictly for use within the Company. (Internal policy, operating procedures, operational manuals, technical and security documents).</li>
+                            <li value="5"><b>Public Data:</b> Any information that may or must be made available to the general public, with no legal restrictions on its access or use. Corporate Communications approves any such designation.</li>
+                        </ul>
+                        <p>The system/data owner, or stakeholder, is typically responsible for classifying the data.  If you have any question surrounding which classification your data should be, contact the Security Team at security-team@answers.com.</p>
+                        <h2><a name="cxREPLAY"></a>Replay Security</h2>
+                        <ul>
+                            <li value="1">Login is the same as the portal since to view replays you need to be in the portal.<ul><li value="1">The only exception to the above statement is when a Replay link is created to email out.</li></ul></li>
+                            <li value="2">cxReplay offers the functionality to create a link that can be sent out to users who do not have access to the portal, both internal and external.<ul><li value="1">The links automatically expire at 11:59 PM on the second day after they are sent.</li><li value="2">The person who sent the link has the ability to deactivate the link at any time before the expiration period, even after the link has been viewed.</li><li value="3">Viewing the link does not require a portal login.</li><li value="4">The person the link was sent to can view the linked content as many times as they want before the link expires or is deactivated.</li></ul></li>
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div class="homeftrBand">
+            <ul class="inline">
+                <li value="1">© 2016 ForeSee, an <a href="http://www.answers.com" target="_blank" class="home">Answers</a> company. All rights reserved</li>
+                <li value="2"><a title="Privacy Policy" href="http://www.foresee.com/about-us/privacy-policy/" class="home2">Privacy Policy</a>
+                </li>
+                <li value="3"><a title="Contact Us" href="http://www.foresee.com/about-us/contact-us/" class="home2">Contact Us</a>
+                </li>
+                <li value="4"><a title="Site Map" href="http://www.foresee.com/about-us/site-map/" class="home2">Site Map</a>
+                </li>
+                <li value="5"><a title="Login" href="http://portal2.foreseeresults.com" target="_blank" class="home2">Client Login</a>
+                </li>
+                <li value="6"><a href="http://privacy.truste.com/privacy-seal/ForeSee-Results/validation?rid=fc7be566-92aa-4667-be44-67d8412088c1" target="_blank" title="TRUSTe European Safe Harbor certification" alt="TRUSTe European Safe Harbor certification" class="home2"><img style="vertical-align: middle;padding-top: 5px;" src="../Resources/Images/trusteLogo90x30.png" title="Click to view this web page." alt="trust e certified privacy logo" /></a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

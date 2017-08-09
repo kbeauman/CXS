@@ -476,25 +476,42 @@ a.glossaryTerm
 	display: none;
 }
 
-div.MCBreadcrumbsBox_0
+.dropDownHotspot
 {
-	margin-top: 2em;
-	margin-bottom: 2em;
-	font-size: 12pt;
-	width: 100%;
-	display: inline;
-	color: #627085;
-	border-bottom-color: transparent;
-	border-bottom-width: 0;
-	border-bottom-style: solid;
-	padding-bottom: 10px;
+	text-decoration: none;
+}
+
+.dropDownHotspot:link
+{
+	text-decoration: none;
+}
+
+.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('DropDownOpen.gif');
+	padding-left: 1px;
+	padding-right: 0;
+}
+
+.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
+{
+	background-position: left;
+	background-image: url('DropDownClosed.gif');
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.dropDownHead
+{
+	text-decoration: none;
 }
 
 div.MCMiniTocBox_0
 {
-	border-top-color: transparent;
-	border-top-width: 0px;
+	border-top-width: 1px;
 	border-top-style: solid;
+	border-top-color: black;
 	padding-top: 10px;
 	margin-top: 10px;
 	padding-left: 20px;
@@ -502,9 +519,6 @@ div.MCMiniTocBox_0
 
 p.MiniTOC1_0
 {
-	font-family: 'ProximaNova-Regular', sans-serif;
-	line-height: 1.5;
-	margin-bottom: 1em;
 	display: block;
 	margin: 1.12em 0;
 	margin-left: 0pt;
@@ -537,6 +551,7 @@ a.MiniTOC1:link
 	background-image: none;
 	float: inherit;
 	font-size: inherit;
+	font-family: inherit;
 	font-style: inherit;
 	font-variant: inherit;
 	text-transform: inherit;
@@ -545,45 +560,12 @@ a.MiniTOC1:link
 	text-align: inherit;
 	mc-leader-format: '.';
 	color: black;
-	font-family: 'ProximaNova-Regular', sans-serif;
 	font-weight: bold;
 	text-decoration: none;
 }
 
-.popupHead
-{
-	color: blue;
-}
-
-.popupHead:link
-{
-	color: blue;
-}
-
-.popupBody
-{
-	color: #000000;
-	background-color: #dcdcdc;
-	border: solid 1px #000000;
-	margin: 0px;
-	padding: 5px;
-}
-
-.MCTextPopupArrow
-{
-	border-bottom-color: #dcdcdc;
-}
-
-.MCTextPopupBodyBottom .MCTextPopupArrow
-{
-	border-top-color: #dcdcdc;
-}
-
 p.MiniTOC2_0
 {
-	font-family: 'ProximaNova-Regular', sans-serif;
-	line-height: 1.5;
-	margin-bottom: 1em;
 	display: block;
 	margin: 1.12em 0;
 	margin-left: 10pt;
@@ -615,6 +597,7 @@ a.MiniTOC2:link
 	background-image: none;
 	float: inherit;
 	font-size: inherit;
+	font-family: inherit;
 	font-style: inherit;
 	font-variant: inherit;
 	text-transform: inherit;
@@ -623,21 +606,98 @@ a.MiniTOC2:link
 	text-align: inherit;
 	mc-leader-format: '.';
 	color: black;
-	font-family: 'ProximaNova-Regular', sans-serif;
 	text-decoration: none;
 }
 
-p.MiniTOC3_0
+div.MCTocProxy_0
 {
-	font-family: 'ProximaNova-Regular', sans-serif;
-	line-height: 1.5;
-	margin-bottom: 1em;
-	display: block;
-	margin: 1.12em 0;
-	margin-left: 20pt;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: black;
+	padding-top: 10px;
+	margin-top: 10px;
+	padding-left: 20px;
 }
 
-a.MiniTOC3:link
+table.GenTOCTable1
+{
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-left-color: transparent;
+	border-left-style: none;
+	border-left-width: 0;
+	border-right-color: transparent;
+	border-right-style: none;
+	border-right-width: 0;
+	border-top-color: transparent;
+	border-top-style: none;
+	border-top-width: 0;
+	border-bottom-color: transparent;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	background-color: transparent;
+	background-image: none;
+	float: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	text-transform: inherit;
+	color: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+	text-decoration: inherit;
+	text-align: inherit;
+	margin-top: 1.12em;
+	margin-bottom: 1.12em;
+}
+
+td.GenTOCText1
+{
+	margin: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-left-color: transparent;
+	border-left-style: none;
+	border-left-width: 0;
+	border-right-color: transparent;
+	border-right-style: none;
+	border-right-width: 0;
+	border-top-color: transparent;
+	border-top-style: none;
+	border-top-width: 0;
+	border-bottom-color: transparent;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	background-color: transparent;
+	background-image: none;
+	float: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	text-transform: inherit;
+	color: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+	text-decoration: inherit;
+	text-align: inherit;
+	mc-leader-format: '.';
+	mc-leader-indent: 5pt;
+	font-weight: bold;
+}
+
+a.GenTOCText1:link
 {
 	margin-left: 0;
 	margin-right: 0;
@@ -663,6 +723,7 @@ a.MiniTOC3:link
 	background-image: none;
 	float: inherit;
 	font-size: inherit;
+	font-family: inherit;
 	font-style: inherit;
 	font-variant: inherit;
 	text-transform: inherit;
@@ -670,67 +731,175 @@ a.MiniTOC3:link
 	word-spacing: inherit;
 	text-align: inherit;
 	mc-leader-format: '.';
+	mc-leader-indent: 5pt;
 	color: black;
-	font-family: 'ProximaNova-Regular', sans-serif;
+	font-weight: bold;
 	text-decoration: none;
 }
 
-.dropDown
+a.GenTOCText1
 {
-	display: block;
-	border-bottom: 1px solid #B7C0CC;
-	margin-bottom: 1em;
-}
-
-.dropDownHotspot
-{
-	cursor: hand;
-	text-decoration: none;
-	font-weight: bold;
-	color: #222b3c;
-}
-
-.dropDownHotspot:link
-{
-	cursor: hand;
-	text-decoration: none;
-	font-weight: bold;
-	color: #222b3c;
-}
-
-.dropDownHotspot.dropDownHotspotreleaseNotes
-{
-	font-weight: bold;
-	font-size: 14.0pt;
-	color: #007BCA;
-}
-
-.dropDownHotspot.dropDownHotspotreleaseNotes:link
-{
-	font-weight: bold;
-	font-size: 14.0pt;
-	color: #007BCA;
-}
-
-.MCDropDown_Open .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('verticalhide_icon.png');
-	padding-left: 1px;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
 	padding-right: 0;
-}
-
-.MCDropDown_Closed .MCDropDownHotSpot_.MCHotSpotImage
-{
-	background-position: left;
-	background-image: url('verticalshow_icon.png');
-	padding-left: 1px;
-	padding-right: 0;
-}
-
-.dropDownHead
-{
-	padding: 15px;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-left-color: transparent;
+	border-left-style: none;
+	border-left-width: 0;
+	border-right-color: transparent;
+	border-right-style: none;
+	border-right-width: 0;
+	border-top-color: transparent;
+	border-top-style: none;
+	border-top-width: 0;
+	border-bottom-color: transparent;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	background-color: transparent;
+	background-image: none;
+	float: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	text-transform: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+	text-align: inherit;
+	mc-leader-format: '.';
+	mc-leader-indent: 5pt;
+	color: black;
+	font-weight: bold;
 	text-decoration: none;
+}
+
+td.GenTOCAutoText1
+{
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-left-color: transparent;
+	border-left-style: none;
+	border-left-width: 0;
+	border-right-color: transparent;
+	border-right-style: none;
+	border-right-width: 0;
+	border-top-color: transparent;
+	border-top-style: none;
+	border-top-width: 0;
+	border-bottom-color: transparent;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	background-color: transparent;
+	background-image: none;
+	float: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	text-transform: inherit;
+	color: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+	text-decoration: inherit;
+	text-align: inherit;
+	margin: 0;
+	font-weight: bold;
+}
+
+td.GenTOCPageText1
+{
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-left-color: transparent;
+	border-left-style: none;
+	border-left-width: 0;
+	border-right-color: transparent;
+	border-right-style: none;
+	border-right-width: 0;
+	border-top-color: transparent;
+	border-top-style: none;
+	border-top-width: 0;
+	border-bottom-color: transparent;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	background-color: transparent;
+	background-image: none;
+	float: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	text-transform: inherit;
+	color: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+	text-decoration: inherit;
+	margin: 0;
+	vertical-align: bottom;
+	font-weight: bold;
+	text-align: right;
+	white-space: normal;
+}
+
+td.mcReset
+{
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-left-color: transparent;
+	border-left-style: none;
+	border-left-width: 0;
+	border-right-color: transparent;
+	border-right-style: none;
+	border-right-width: 0;
+	border-top-color: transparent;
+	border-top-style: none;
+	border-top-width: 0;
+	border-bottom-color: transparent;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	background-color: transparent;
+	background-image: none;
+	float: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-variant: inherit;
+	text-transform: inherit;
+	color: inherit;
+	letter-spacing: inherit;
+	word-spacing: inherit;
+	text-decoration: inherit;
+	text-align: inherit;
+}
+
+MadCap|xref.TOCPageNumber_0
+{
+	color: inherit;
+	text-decoration: inherit;
+	font-weight: inherit;
+	font-family: inherit;
+	font-size: inherit;
 }
 

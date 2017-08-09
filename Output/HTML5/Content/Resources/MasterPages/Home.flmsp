@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="344" MadCap:lastWidth="1466">
+    <head>
+        <link href="../TableStyles/homeftr.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link rel="shortcut icon" href="https://voc.foresee.com/assets/img/favicon.ico" />
+    </head>
+    <body class="home">
+        <div class="topicHdBg"><a href="../../HT/home.htm" title="Click to view the Home page." alt="Click to view the Home page."><img src="../Images/4C_logo_white40pxhigh.png" class="bluelogo" title="Click to view the Home page." alt="ForeSee logo" /></a>
+            <MadCap:searchBarProxy data-mc-skin="/Project/Skins/navSkinTopic.flskn" />
+        </div>
+        <div class="homecontent">
+            <MadCap:bodyProxy />
+        </div>
+        <div class="homeftrBand">
+            <ul class="inline">
+                <li>© 2016 ForeSee, an <a href="http://www.answers.com" target="_blank" class="home2">Answers</a> company. All rights reserved</li>
+                <li><a title="Privacy Policy" href="http://www.foresee.com/about-us/privacy-policy/" class="home2">Privacy Policy</a>
+                </li>
+                <li><a title="Contact Us" href="http://www.foresee.com/about-us/contact-us/" class="home2">Contact Us</a>
+                </li>
+                <li><a title="Site Map" href="http://www.foresee.com/about-us/site-map/" class="home2">Site Map</a>
+                </li>
+                <li><a title="Login" href="http://portal2.foreseeresults.com" target="_blank" class="home2">Client Login</a>
+                </li>
+                <li><a href="http://privacy.truste.com/privacy-seal/ForeSee-Results/validation?rid=fc7be566-92aa-4667-be44-67d8412088c1" target="_blank" title="TRUSTe European Safe Harbor certification" alt="TRUSTe European Safe Harbor certification"><img style="vertical-align: middle; padding-top: 5px;" src="../Images/trusteLogo90x30.png" title="Click to view this web page." alt="trust e certified privacy logo" /></a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

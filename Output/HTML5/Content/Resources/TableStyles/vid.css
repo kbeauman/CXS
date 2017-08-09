@@ -78,8 +78,9 @@ mcTableBodyStyle
 	name: Body1;
 	text-align: center;
 	font-size: 10pt;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	color: #007BCA;
+	font-weight: bold;
 	vertical-align: top;
 }
 
@@ -857,8 +858,9 @@ mcTableBodyStyle
 .TableStyle-vid-BodyI-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -866,15 +868,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyI-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyE-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -882,15 +886,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyE-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyF-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -898,15 +904,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyF-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyH-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -914,15 +922,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyH-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyD-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -930,15 +940,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyD-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyC-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -946,15 +958,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyC-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyB-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -962,15 +976,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyB-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyA-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -978,7 +994,7 @@ mcTableBodyStyle
 .TableStyle-vid-BodyA-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
 	font-weight: bold;
 }
@@ -986,8 +1002,9 @@ mcTableBodyStyle
 .TableStyle-vid-BodyG-Column1-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -995,15 +1012,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyG-Column1-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyI-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1011,15 +1030,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyI-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyE-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1027,15 +1048,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyE-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyF-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1043,15 +1066,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyF-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyH-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1059,15 +1084,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyH-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyD-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1075,15 +1102,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyD-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyC-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1091,15 +1120,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyC-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyB-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1107,15 +1138,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyB-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyA-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1123,15 +1156,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyA-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyG-Column2-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1139,15 +1174,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyG-Column2-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyI-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1155,15 +1192,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyI-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyE-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1171,15 +1210,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyE-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyF-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1187,15 +1228,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyF-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyH-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1203,15 +1246,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyH-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyD-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1219,15 +1264,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyD-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyC-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1235,15 +1282,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyC-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyB-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1251,15 +1300,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyB-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyA-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1267,15 +1318,17 @@ mcTableBodyStyle
 .TableStyle-vid-BodyA-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
 
 .TableStyle-vid-BodyG-Column3-Body1
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 	text-align: center;
 	vertical-align: top;
 }
@@ -1283,6 +1336,9 @@ mcTableBodyStyle
 .TableStyle-vid-BodyG-Column3-Body1 p
 {
 	color: #007BCA;
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: Arial;
 	font-size: 10pt;
+	font-weight: bold;
 }
+
+
