@@ -10,6 +10,9 @@
     Link="/Content/cxSuite/printTOC.htm"
     conditions="Default.PrintOnly" />
   <TocEntry
+    Title="17.2 Change Log"
+    Link="/Content/cxSuite/changeLog.htm" />
+  <TocEntry
     Title="CX Help &amp; Training Guide Home"
     Link="/Content/cxSuite/home.htm"
     conditions="Default.ScreenOnly" />
@@ -252,9 +255,6 @@
       Title="Setup"
       Link="/Content/cxSuite/setupTOC.htm">
       <TocEntry
-        Title="Users &amp; Roles"
-        Link="/Content/cxSuite/users.htm" />
-      <TocEntry
         Title="Hierarchy"
         Link="/Content/cxSuite/hierarchy.htm">
         <TocEntry
@@ -299,6 +299,9 @@
           Title="ForeSee Replay Security"
           Link="/Content/Replay/cxReplaySecurity.htm" />
       </TocEntry>
+      <TocEntry
+        Title="Case Management Global Settings"
+        Link="/Content/cxSuite/caseMgmtSettings.htm" />
     </TocEntry>
     <TocEntry
       Title="Integrate"

@@ -11,15 +11,22 @@
     <Link
       Url="Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
     <Link
+      Url="Content/Resources/TableStyles/4cBasic.css" />
+    <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
     <Link
+      Url="Content/Resources/TableStyles/4cBasic.css" />
+    <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Taxonomy" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />
@@ -29,6 +36,8 @@
   <FileTags />
   <AllConditions />
   <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/4cBasic.css" />
     <Url
       Source="Content/Resources/Stylesheets/CX_Styles.css" />
   </Stylesheets>

@@ -30,9 +30,15 @@
     <Link
       Url="Content/cxMeasurement/contactCenter.htm" />
     <Link
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
       Url="Content/cxMeasurement/store.htm" />
     <Link
       Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
     <Link
       Url="http://www.itic.org/dotAsset/5644ecd2-5024-417f-bc23-a52650f47ef8.doc" />
     <Link
@@ -106,9 +112,17 @@
     <Link
       Url="Content/cxSuite/glossary.htm#SSH" />
     <Link
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
       Url="Content/cxMeasurement/store.htm" />
     <Link
       Url="Content/cxMeasurement/employee.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm#Taxonomy" />
     <Link
       Url="http://www.itic.org/dotAsset/5644ecd2-5024-417f-bc23-a52650f47ef8.doc" />
     <Link

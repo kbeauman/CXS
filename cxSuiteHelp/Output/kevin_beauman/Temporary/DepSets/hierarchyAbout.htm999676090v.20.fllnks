@@ -9,6 +9,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/cxSuite/globalSettings.htm" />
+    <Link
       Url="Content/cxSuite/createHierarchy.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
@@ -16,6 +18,8 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/globalSettings.htm" />
     <Link
       Url="Content/cxSuite/createHierarchy.htm" />
     <Link

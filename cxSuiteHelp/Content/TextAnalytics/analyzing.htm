@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="840" MadCap:lastWidth="1427" class="Topic" style="mc-master-page: url('..\Resources\MasterPages\Foundation-responsive-offcanvas.flmsp');">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="9" MadCap:lastHeight="1301" MadCap:lastWidth="1375" class="Topic" style="mc-master-page: url('..\Resources\MasterPages\Foundation-responsive-offcanvas.flmsp');">
     <head><title>Analyzing Data</title>
         <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
     </head>
@@ -7,9 +7,10 @@
         <h1>Analyzing Data</h1>
         <p>When you configure <span class="wintitle">Text Analytics</span> to be applied to certain surveys and questions, the <span class="wintitle">Text Analytics</span> engine queues up the comments for classification. Once the processing is completed the analysis is available in the dashboard for review.</p>
         <div class="note">If you are a new user to <span class="wintitle">Text Analytics</span>, no data is available to review in the dashboard unless you have selected the measure and questions for analysis in the Settings tab. </div>
-        <p>The <span class="wintitle">Text Analytics Dashboard</span> consists of the <span class="wintitle">Keywords</span> and Settings tabs, and offers a filter bar containing the following features:</p>
+        <p>The <span class="wintitle">Text Analytics</span> section of <span class="wintitle">CX Suite</span> consists of the <span class="wintitle">Topics</span> and <span class="wintitle">Keywords</span> dashboards, and offers a filter ribbon containing the following features:</p>
         <ul>
             <li><span class="wintitle">Measure Menu</span> - Click the displayed measure to open a menu of available measures to select from.</li>
+            <li><span class="wintitle">Question Menu</span> - By default, all questions are included. This menu allows you to include or exclude specific question responses.</li>
             <li>
                 <MadCap:snippetBlock src="../Resources/Snippets/DatePicker.flsnp" />
             </li>
@@ -17,10 +18,17 @@
                 <MadCap:snippetBlock src="../Resources/Snippets/SurveyFilter.flsnp" />
             </li>
         </ul>
-        <p>Below the filter bar, the <span class="wintitle">Sentiment</span> filter allows you to focus on positive, neutral, or negative sentiment comments by clicking the green, gray, and red face icons.</p>
-        <p>Data is displayed on the following cards:</p>
+        <h2>Topics</h2>
+        <p>The <span class="wintitle">Topics</span> dashboard displays taxonomy data on the following cards:</p>
         <ul>
-            <li><span class="wintitle">Topic Wordcloud</span> - Displays the most commonly used words in size proportion of frequency and color coded according to the overall sentiment of the open ends each word is used. For example, if several respondents are reporting an issue where they clicked on a link and nothing happened, you might see the word "click" appearing in red and in a larger size.<p>This card offers two types of displays, <span class="wintitle">Wordcloud</span> and <span class="wintitle">Treemap</span>, as well as buttons for the number of words to display.</p></li>
+            <li><span class="wintitle">Topics Overview</span> - A horizontal bar chart showing the top five positive and negative topics for the selected date range.  </li>
+            <li><span class="wintitle">Topic Trend</span> - A vertical bar chart showing sentiment based on the number of responses for the selected date range. Mouse over each bar to see By default, data from all topics are included. The menu in the upper-right corner of the card allows you to focus on a selected topic.</li>
+            <li><span class="wintitle">Topic and Comments</span> - The data on this card is divided into two tabs:<ul><li><span class="wintitle">Topics</span> - A list of <a href="about.htm#Taxonomy" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">High Level Themes</a> displays with a horizontal bar showing three sentiment levels, the number of comments, overall sentiment, and overall satisfaction. Click a High Level Theme name to display the associated Mid Level Themes. Each Mid Level Theme may also be clicked to display the Topics associated with the theme.</li><li><span class="wintitle">Comments</span> - A list of open end responses to the displayed question. This list contains the comment itself, the date which the comment was submitted,  the Sentiment of the comment, and the overall Satisfaction Score given by the respondent. Data may be sorted by clicking the column heading.</li></ul></li>
+        </ul>
+        <h2>Keywords</h2>
+        <p>The <span class="wintitle">Keywords</span> dashboard displays data on the following cards:</p>
+        <ul>
+            <li><span class="wintitle">Keyword Wordcloud</span> - Displays the most commonly used words in size proportion of frequency and color coded according to the overall sentiment of the open ends each word is used. For example, if several respondents are reporting an issue where they clicked on a link and nothing happened, you might see the word "click" appearing in red and in a larger size.<p>This card offers two types of displays, <span class="wintitle">Wordcloud</span> and <span class="wintitle">Treemap</span>, as well as buttons for the number of words to display.</p></li>
             <li><span class="wintitle">Top Keywords</span> - A bar chart of the top 10 words during the selected time span, showing the amount of positive, neutral, and negative statements in which the word was used. This card typically displays top 10 frequently occurring words/topics, with the exception of a search term that is not in top 10. When a search is applied to show a specific word, this word is included in the chart regardless of its frequency.<p>Hover over each bar to view the breakdown of positive, neutral, and negative occurrences.</p></li>
             <li><span class="wintitle">Comments</span> - A list of open end responses to the displayed question. This list contains the overall Satisfaction Score given by the respondent, the Sentiment of the comment, the comment itself, and the date which the comment was submitted.<p>The header of the comment column contains a menu of all open end questions and can be used to display results from each of these questions. Click on any of the column headers to sort the comments according to the clicked column. The <span class="wintitle">Comments</span> card also offers ability to view details of the response (all survey scores, device, browser, and other parameters), and Replays associated with a response.</p></li>
         </ul>

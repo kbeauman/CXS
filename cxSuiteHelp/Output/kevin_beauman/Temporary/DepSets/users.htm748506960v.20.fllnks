@@ -11,6 +11,8 @@
     <Link
       Url="Content/cxSuite/globalSettings.htm" />
     <Link
+      Url="Content/cxSuite/assignUser.htm" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
@@ -18,6 +20,8 @@
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
       Url="Content/cxSuite/globalSettings.htm" />
+    <Link
+      Url="Content/cxSuite/assignUser.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>

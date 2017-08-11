@@ -182,6 +182,12 @@
     <Url
       Source="../../Content/cxSuite/vids.htm"
       AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxSuite/vids.htm" />
+    <Url
+      Source="../../Content/TextAnalytics/home.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/TextAnalytics/home.htm" />
+    <Url
+      Source="../../Content/TextAnalytics/analyzing.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/TextAnalytics/analyzing.htm" />
   </ExcludedFiles>
   <CollectedSourceFiles>
     <Url

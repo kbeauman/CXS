@@ -138,6 +138,8 @@
     <Link
       Url="Content/TextAnalytics/analyzing.htm" />
     <Link
+      Url="Content/TextAnalytics/taxonomy.htm" />
+    <Link
       Url="Content/cxSuite/integrationTOC.htm" />
     <Link
       Url="Content/cxMeasurement/integrationAPI.htm" />
@@ -159,8 +161,6 @@
       Url="Content/cxSuite/aboutGlobalSettings.htm" />
     <Link
       Url="Content/cxSuite/setupTOC.htm" />
-    <Link
-      Url="Content/cxSuite/users.htm" />
     <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
@@ -189,6 +189,8 @@
       Url="Content/Replay/heatMaps.htm" />
     <Link
       Url="Content/Replay/cxReplaySecurity.htm" />
+    <Link
+      Url="Content/cxSuite/caseMgmtSettings.htm" />
     <Link
       Url="Content/cxSuite/integrateTOC.htm" />
     <Link

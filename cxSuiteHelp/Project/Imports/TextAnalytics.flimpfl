@@ -75,6 +75,15 @@
     <Url
       Source="../../Content/Replay/player.htm"
       AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Replay/player.htm" />
+    <Url
+      Source="../../Content/TextAnalytics/home.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/TextAnalytics/home.htm" />
+    <Url
+      Source="../../Content/TextAnalytics/analyzing.htm"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/TextAnalytics/analyzing.htm" />
+    <Url
+      Source="../../Content/Resources/Snippets/DatePicker.flsnp"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Snippets/DatePicker.flsnp" />
   </ExcludedFiles>
   <CollectedSourceFiles>
     <Url

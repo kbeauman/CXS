@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlobalImportedFilesCache
-  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/kevin_beauman/Temporary/GlobalImportedFilesSet v.1.xml">
+  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/Kevin_Beauman/Temporary/GlobalImportedFilesSet v.1.xml">
   <ImportedMap>
     <Map
       Local="../../Content/cxSuite/Alerts.htm"
@@ -3597,12 +3597,6 @@
       Local="Content/Resources/Snippets/WhoUsesItDisclaimer.flsnp"
       Remote="../CX-Help-and-Training-Guide/Content/Resources/Snippets/TrigPinLock3.flsnp" />
     <Map
-      Local="Content/TextAnalytics/analyzing.htm"
-      Remote="../../TextAnalytics/Content/Resources/Snippets/Topic content.flsnp" />
-    <Map
-      Local="Content/TextAnalytics/home.htm"
-      Remote="../../TextAnalytics/Content/TextAnalytics/about.htm" />
-    <Map
       Local="Content/TextAnalytics/releaseNotes.htm"
       Remote="../../TextAnalytics/Content/TextAnalytics/analyzing.htm" />
     <Map
@@ -3653,9 +3647,6 @@
     <Map
       Local="Content/Feedback/reports.htm"
       Remote="../../Feedback/Content/Feedback/publishing.htm" />
-    <Map
-      Local="Content/Resources/Snippets/DatePicker.flsnp"
-      Remote="../../TextAnalytics/Content/Resources/Images/filterIcon.png" />
     <Map
       Local="Content/Resources/Snippets/ElevatedPrivileges.flsnp"
       Remote="../../TextAnalytics/Content/Resources/Images/ForeSee_logo_wht_40.png" />
