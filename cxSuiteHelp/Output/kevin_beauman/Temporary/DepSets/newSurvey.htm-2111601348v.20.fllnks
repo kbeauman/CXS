@@ -13,11 +13,7 @@
     <Link
       Url="Content/Feedback/publishing.htm" />
     <Link
-      Url="Content/Resources/Images/pcIcon.png" />
-    <Link
-      Url="Content/Resources/Images/tabletIcon.png" />
-    <Link
-      Url="Content/Resources/Images/mobileIcon.png" />
+      Url="Content/cxSuite/aboutSurveys.htm" />
     <Link
       Url="Content/Feedback/topics.htm" />
     <Link
@@ -41,11 +37,9 @@
     <Link
       Url="Content/Feedback/publishing.htm" />
     <Link
-      Url="Content/Resources/Images/pcIcon.png" />
+      Url="Content/cxSuite/aboutSurveys.htm" />
     <Link
-      Url="Content/Resources/Images/tabletIcon.png" />
-    <Link
-      Url="Content/Resources/Images/mobileIcon.png" />
+      Url="Content/cxSuite/aboutSurveys.htm#Filterin" />
     <Link
       Url="Content/Feedback/topics.htm" />
     <Link
@@ -75,7 +69,7 @@
       Term="Images"
       Conditions=""
       LocalConditions=""
-      Position="25" />
+      Position="31" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

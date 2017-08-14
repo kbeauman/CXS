@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
     <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
-        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\TextAnalytics\about.htm" />
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Feedback\publishing.htm" />
     </Dialog>
     <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
-        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Images\closeWht.png" />
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Images\Pencil.png" />
     </Dialog>
     <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
         <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Snippets\CustomizeColumnsProcess.flsnp" />

@@ -1,0 +1,2669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Output/Kevin_Beauman/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Badge">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/configureSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Choose Survey Type">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/configureSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Configure Survey">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/configureSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Creating a Survey">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/newSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Images">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/newSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Privacy Policy setup">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/configureSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Publishing">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/publishing.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="Reports">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="cxSuite/reports.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+      <IndexEntry
+        Term="White List">
+        <Entries />
+        <Links>
+          <IndexLink
+            Link="Feedback/configureSurvey.htm"
+            UsedConditions=""
+            LocalConditions="" />
+        </Links>
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="searchResults.htm" />
+    <Url
+      Source="CaseMgmt/about.htm" />
+    <Url
+      Source="CaseMgmt/caseMgmtSettings.htm" />
+    <Url
+      Source="CaseMgmt/changeUser.htm" />
+    <Url
+      Source="CaseMgmt/createAuto.htm" />
+    <Url
+      Source="CaseMgmt/createManual.htm" />
+    <Url
+      Source="CaseMgmt/datePicker.htm" />
+    <Url
+      Source="CaseMgmt/emailTemplates.htm" />
+    <Url
+      Source="CaseMgmt/filterViews.htm" />
+    <Url
+      Source="CaseMgmt/gettingStarted.htm" />
+    <Url
+      Source="CaseMgmt/hierarchyFilter.htm" />
+    <Url
+      Source="CaseMgmt/ManageSection.htm" />
+    <Url
+      Source="CaseMgmt/monitorCase.htm" />
+    <Url
+      Source="CaseMgmt/releaseNotes.htm" />
+    <Url
+      Source="CaseMgmt/workCase.htm" />
+    <Url
+      Source="cxMeasurement/AboutRespondentLevelIntegration.htm" />
+    <Url
+      Source="cxMeasurement/adobeMarketingCloudIntegration.htm" />
+    <Url
+      Source="cxMeasurement/apps.htm" />
+    <Url
+      Source="cxMeasurement/cartCheckoutAbandon.htm" />
+    <Url
+      Source="cxMeasurement/competitor.htm" />
+    <Url
+      Source="cxMeasurement/contactCenter.htm" />
+    <Url
+      Source="cxMeasurement/cppEpp.htm" />
+    <Url
+      Source="cxMeasurement/crm.htm" />
+    <Url
+      Source="cxMeasurement/deploymentOptions.htm" />
+    <Url
+      Source="cxMeasurement/digitalContribution.htm" />
+    <Url
+      Source="cxMeasurement/email.htm" />
+    <Url
+      Source="cxMeasurement/emailMeasure.htm" />
+    <Url
+      Source="cxMeasurement/employee.htm" />
+    <Url
+      Source="cxMeasurement/feedback.htm" />
+    <Url
+      Source="cxMeasurement/functional.htm" />
+    <Url
+      Source="cxMeasurement/googleUniversalAnalyticsIntegration.htm" />
+    <Url
+      Source="cxMeasurement/integration.htm" />
+    <Url
+      Source="cxMeasurement/integrationAPI.htm" />
+    <Url
+      Source="cxMeasurement/ivr.htm" />
+    <Url
+      Source="cxMeasurement/loyalty.htm" />
+    <Url
+      Source="cxMeasurement/MasterList.htm" />
+    <Url
+      Source="cxMeasurement/panel.htm" />
+    <Url
+      Source="cxMeasurement/passingData.htm" />
+    <Url
+      Source="cxMeasurement/pos.htm" />
+    <Url
+      Source="cxMeasurement/productsMeasures.htm" />
+    <Url
+      Source="cxMeasurement/purchase.htm" />
+    <Url
+      Source="cxMeasurement/ratingsAndReviews.htm" />
+    <Url
+      Source="cxMeasurement/replay.htm" />
+    <Url
+      Source="cxMeasurement/sdk.htm" />
+    <Url
+      Source="cxMeasurement/sentimentAnalytics.htm" />
+    <Url
+      Source="cxMeasurement/socialMedia.htm" />
+    <Url
+      Source="cxMeasurement/store.htm" />
+    <Url
+      Source="cxMeasurement/triggerCode.htm" />
+    <Url
+      Source="cxSuite/aboutGlobalSettings.htm" />
+    <Url
+      Source="cxSuite/aboutSurveys.htm" />
+    <Url
+      Source="cxSuite/appsTOC.htm" />
+    <Url
+      Source="cxSuite/assignUser.htm" />
+    <Url
+      Source="cxSuite/caseMgmtSettings.htm" />
+    <Url
+      Source="cxSuite/CaseMgmtTOC.htm" />
+    <Url
+      Source="cxSuite/changeLog.htm" />
+    <Url
+      Source="cxSuite/collectingVOCdata.htm" />
+    <Url
+      Source="cxSuite/cover.htm" />
+    <Url
+      Source="cxSuite/createHierarchy.htm" />
+    <Url
+      Source="cxSuite/createProject.htm" />
+    <Url
+      Source="cxSuite/createRole.htm" />
+    <Url
+      Source="cxSuite/cx360.htm" />
+    <Url
+      Source="cxSuite/cxMeasurementTOC.htm" />
+    <Url
+      Source="cxSuite/deployFeedbackTOC.htm" />
+    <Url
+      Source="cxSuite/faq.htm" />
+    <Url
+      Source="cxSuite/FeedbackTOC.htm" />
+    <Url
+      Source="cxSuite/gettingStarted.htm" />
+    <Url
+      Source="cxSuite/globalSettings.htm" />
+    <Url
+      Source="cxSuite/glossary.htm" />
+    <Url
+      Source="cxSuite/hierarchy.htm" />
+    <Url
+      Source="cxSuite/hierarchyAbout.htm" />
+    <Url
+      Source="cxSuite/hierarchyAboutVersions.htm" />
+    <Url
+      Source="cxSuite/hierarchyAssociate.htm" />
+    <Url
+      Source="cxSuite/hierarchyAttributes.htm" />
+    <Url
+      Source="cxSuite/home.htm" />
+    <Url
+      Source="cxSuite/hostedcode.htm" />
+    <Url
+      Source="cxSuite/integrateTOC.htm" />
+    <Url
+      Source="cxSuite/integrationTOC.htm" />
+    <Url
+      Source="cxSuite/masterData.htm" />
+    <Url
+      Source="cxSuite/MeasuresDashboard.htm" />
+    <Url
+      Source="cxSuite/MobileApp.htm" />
+    <Url
+      Source="cxSuite/printTOC.htm" />
+    <Url
+      Source="cxSuite/ReleaseCalendar.htm" />
+    <Url
+      Source="cxSuite/releaseNotes.htm" />
+    <Url
+      Source="cxSuite/ReplayTOC.htm" />
+    <Url
+      Source="cxSuite/reports.htm" />
+    <Url
+      Source="cxSuite/respondentDetails.htm" />
+    <Url
+      Source="cxSuite/setupTOC.htm" />
+    <Url
+      Source="cxSuite/surveyTOC.htm" />
+    <Url
+      Source="cxSuite/TextAnalyticsTOC.htm" />
+    <Url
+      Source="cxSuite/TOC_Print.htm" />
+    <Url
+      Source="cxSuite/touchpointsTOC.htm" />
+    <Url
+      Source="cxSuite/users.htm" />
+    <Url
+      Source="cxSuite/using.htm" />
+    <Url
+      Source="cxSuite/vids.htm" />
+    <Url
+      Source="cxSuite/whatsNew.htm" />
+    <Url
+      Source="cxSuite/Resources/behaviors.js" />
+    <Url
+      Source="cxSuite/Resources/jquery.min.js" />
+    <Url
+      Source="cxSuite/Resources/Images/HamMenuIcon.png" />
+    <Url
+      Source="cxSuite/Resources/Images/HierFilterIcon.png" />
+    <Url
+      Source="cxSuite/Resources/Images/image5.gif" />
+    <Url
+      Source="cxSuite/Resources/Images/image6.gif" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileAppIcon.JPG" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileFilterIconSmall.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileIcon2016.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileLogin.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileNav.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileNav_iOS.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileSat.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileSum.png" />
+    <Url
+      Source="cxSuite/Resources/Images/MobileTrendLandscape.png" />
+    <Url
+      Source="cxSuite/Resources/Images/Pencil.png" />
+    <Url
+      Source="cxSuite/Resources/Images/QuarterMark.png" />
+    <Url
+      Source="Feedback/aboutSurveys.htm" />
+    <Url
+      Source="Feedback/Alerts.htm" />
+    <Url
+      Source="Feedback/configureSurvey.htm" />
+    <Url
+      Source="Feedback/editSurvey.htm" />
+    <Url
+      Source="Feedback/feedbackDashboard.htm" />
+    <Url
+      Source="Feedback/filters.htm" />
+    <Url
+      Source="Feedback/gettingStarted.htm" />
+    <Url
+      Source="Feedback/inPg.htm" />
+    <Url
+      Source="Feedback/manualLaunch.htm" />
+    <Url
+      Source="Feedback/newSurvey.htm" />
+    <Url
+      Source="Feedback/publishing.htm" />
+    <Url
+      Source="Feedback/Replay4FeedbackSection.htm" />
+    <Url
+      Source="Feedback/skipLogic.htm" />
+    <Url
+      Source="Feedback/surveyOff.htm" />
+    <Url
+      Source="Feedback/topics.htm" />
+    <Url
+      Source="Feedback/using.htm" />
+    <Url
+      Source="Feedback/viewingData.htm" />
+    <Url
+      Source="Replay/cover.htm" />
+    <Url
+      Source="Replay/cxReplay.htm" />
+    <Url
+      Source="Replay/cxReplaySecurity.htm" />
+    <Url
+      Source="Replay/faq.htm" />
+    <Url
+      Source="Replay/heatMaps.htm" />
+    <Url
+      Source="Replay/home.htm" />
+    <Url
+      Source="Replay/player.htm" />
+    <Url
+      Source="Replay/releaseNotes.htm" />
+    <Url
+      Source="Replay/searchResults.htm" />
+    <Url
+      Source="Replay/settings.htm" />
+    <Url
+      Source="Replay/TOC_Print.htm" />
+    <Url
+      Source="Replay/using.htm" />
+    <Url
+      Source="Replay/vids.htm" />
+    <Url
+      Source="Resources/Carousel/bootstrapCarousel.htm" />
+    <Url
+      Source="Resources/Carousel/fonts/glyphicons-halflings-regular.svg" />
+    <Url
+      Source="Resources/Carousel/graphics/alertsCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/configureCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/createCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/cxSuiteCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/inpageCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/overviewCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/publishCarousel.png" />
+    <Url
+      Source="Resources/Carousel/graphics/reportsCarousel.png" />
+    <Url
+      Source="Resources/foundation/index.html" />
+    <Url
+      Source="Resources/foundation/css/app.css" />
+    <Url
+      Source="Resources/foundation/css/foundation.css" />
+    <Url
+      Source="Resources/foundation/css/foundation.min.css" />
+    <Url
+      Source="Resources/foundation/js/app.js" />
+    <Url
+      Source="Resources/foundation/js/vendor/foundation.js" />
+    <Url
+      Source="Resources/foundation/js/vendor/foundation.min.js" />
+    <Url
+      Source="Resources/foundation/js/vendor/jquery.js" />
+    <Url
+      Source="Resources/foundation/js/vendor/what-input.js" />
+    <Url
+      Source="Resources/foundation-icons/foundation-icons.svg" />
+    <Url
+      Source="Resources/foundation-icons/preview.html" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-address-book.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-alert.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-align-center.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-align-justify.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-align-left.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-align-right.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-anchor.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-annotate.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-archive.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrow-down.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrow-left.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrow-right.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrow-up.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrows-compress.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrows-expand.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrows-in.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-arrows-out.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-asl.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-asterisk.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-at-sign.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-background-color.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-battery-empty.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-battery-full.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-battery-half.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-bitcoin-circle.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-bitcoin.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-blind.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-bluetooth.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-bold.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-book-bookmark.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-book.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-bookmark.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-braille.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-burst-new.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-burst-sale.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-burst.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-calendar.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-camera.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-check.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-checkbox.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-clipboard-notes.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-clipboard-pencil.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-clipboard.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-clock.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-closed-caption.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-cloud.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-comment-minus.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-comment-quotes.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-comment-video.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-comment.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-comments.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-compass.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-contrast.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-credit-card.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-crop.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-crown.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-css3.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-database.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-die-five.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-die-four.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-die-one.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-die-six.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-die-three.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-die-two.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-dislike.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-dollar-bill.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-dollar.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-download.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-eject.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-elevator.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-euro.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-eye.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-fast-forward.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-female-symbol.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-female.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-filter.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-first-aid.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-flag.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-folder-add.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-folder-lock.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-folder.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-foot.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-foundation.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-graph-bar.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-graph-horizontal.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-graph-pie.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-graph-trend.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-guide-dog.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-hearing-aid.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-heart.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-home.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-html5.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-indent-less.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-indent-more.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-info.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-italic.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-key.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-laptop.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-layout.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-lightbulb.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-like.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-link.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-list-bullet.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-list-number.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-list-thumbnails.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-list.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-lock.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-loop.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-magnifying-glass.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-mail.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-male-female.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-male-symbol.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-male.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-map.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-marker.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-megaphone.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-microphone.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-minus-circle.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-minus.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-mobile-signal.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-mobile.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-monitor.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-mountains.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-music.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-next.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-no-dogs.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-no-smoking.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-add.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-copy.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-csv.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-delete.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-doc.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-edit.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-export-csv.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-export-doc.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-export-pdf.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-export.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-filled.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-multiple.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-pdf.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-remove.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page-search.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-page.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-paint-bucket.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-paperclip.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-pause.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-paw.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-paypal.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-pencil.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-photo.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-play-circle.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-play-video.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-play.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-plus.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-pound.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-power.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-previous.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-price-tag.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-pricetag-multiple.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-print.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-prohibited.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-projection-screen.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-puzzle.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-quote.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-record.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-refresh.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-results-demographics.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-results.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-rewind-ten.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-rewind.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-rss.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-safety-cone.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-save.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-share.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-sheriff-badge.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-shield.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-shopping-bag.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-shopping-cart.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-shuffle.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-skull.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-500px.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-adobe.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-amazon.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-android.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-apple.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-behance.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-bing.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-blogger.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-delicious.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-designer-news.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-deviant-art.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-digg.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-dribbble.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-drive.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-dropbox.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-evernote.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-facebook.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-flickr.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-forrst.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-foursquare.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-game-center.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-github.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-google-plus.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-hacker-news.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-hi5.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-instagram.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-joomla.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-lastfm.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-linkedin.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-medium.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-myspace.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-orkut.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-path.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-picasa.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-pinterest.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-rdio.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-reddit.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-skillshare.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-skype.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-smashing-mag.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-snapchat.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-spotify.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-squidoo.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-stack-overflow.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-steam.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-stumbleupon.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-treehouse.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-tumblr.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-twitter.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-vimeo.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-windows.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-xbox.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-yahoo.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-yelp.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-youtube.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-zerply.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-social-zurb.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-sound.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-star.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-stop.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-strikethrough.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-subscript.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-superscript.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-tablet-landscape.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-tablet-portrait.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-target-two.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-target.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-telephone-accessible.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-telephone.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-text-color.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-thumbnails.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-ticket.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torso-business.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torso-female.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torso.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torsos-all-female.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torsos-all.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torsos-female-male.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torsos-male-female.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-torsos.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-trash.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-trees.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-trophy.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-underline.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-universal-access.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-unlink.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-unlock.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-upload-cloud.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-upload.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-usb.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-video.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-volume-none.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-volume-strike.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-volume.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-web.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-wheelchair.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-widget.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-wrench.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-x-circle.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-x.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-yen.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-zoom-in.svg" />
+    <Url
+      Source="Resources/foundation-icons/svgs/fi-zoom-out.svg" />
+    <Url
+      Source="Resources/Images/4C_logo_white40pxhigh.png" />
+    <Url
+      Source="Resources/Images/4C_logo_white50.png" />
+    <Url
+      Source="Resources/Images/alertsThumbnail.png" />
+    <Url
+      Source="Resources/Images/analyzeSurveyIcon.png" />
+    <Url
+      Source="Resources/Images/aveStarRating.png" />
+    <Url
+      Source="Resources/Images/BackgroundImage.png" />
+    <Url
+      Source="Resources/Images/BadgeColorSwatch.png" />
+    <Url
+      Source="Resources/Images/breadcrumbBorder.png" />
+    <Url
+      Source="Resources/Images/Bullet1.png" />
+    <Url
+      Source="Resources/Images/BulletChart.jpg" />
+    <Url
+      Source="Resources/Images/case-icon.svg" />
+    <Url
+      Source="Resources/Images/CaseMgmtGrayTile.png" />
+    <Url
+      Source="Resources/Images/CaseMgmtTile.png" />
+    <Url
+      Source="Resources/Images/ChooseSurveyTypeTab.png" />
+    <Url
+      Source="Resources/Images/ClientMenuSingleSharpened.png" />
+    <Url
+      Source="Resources/Images/close.png" />
+    <Url
+      Source="Resources/Images/closeWht.png" />
+    <Url
+      Source="Resources/Images/CompanyLogo.png" />
+    <Url
+      Source="Resources/Images/configThumbnail.png" />
+    <Url
+      Source="Resources/Images/Config_Thumbnails.png" />
+    <Url
+      Source="Resources/Images/ContactCenterEmailDiagram.png" />
+    <Url
+      Source="Resources/Images/ContactCenterHybridModel.png" />
+    <Url
+      Source="Resources/Images/ContactCenterIVRDiagram.png" />
+    <Url
+      Source="Resources/Images/ContactCenterSalesModel.png" />
+    <Url
+      Source="Resources/Images/ContactCenterServiceModel.png" />
+    <Url
+      Source="Resources/Images/corner.jpg" />
+    <Url
+      Source="Resources/Images/CorpMetrics1.jpg" />
+    <Url
+      Source="Resources/Images/CorpMetrics2.jpg" />
+    <Url
+      Source="Resources/Images/CorpMetrics3.jpg" />
+    <Url
+      Source="Resources/Images/CorpMetrics4.jpg" />
+    <Url
+      Source="Resources/Images/CorpMetrics5.jpg" />
+    <Url
+      Source="Resources/Images/CorpMetrics6.jpg" />
+    <Url
+      Source="Resources/Images/CoverBgPrint.png" />
+    <Url
+      Source="Resources/Images/createThumbnail.png" />
+    <Url
+      Source="Resources/Images/Create_Thumbnail.png" />
+    <Url
+      Source="Resources/Images/CRM_model.png" />
+    <Url
+      Source="Resources/Images/cx-measurement-icon.svg" />
+    <Url
+      Source="Resources/Images/cxCompareModel.png" />
+    <Url
+      Source="Resources/Images/cxMeasurementTile.png" />
+    <Url
+      Source="Resources/Images/cxMeasurementTileGray.png" />
+    <Url
+      Source="Resources/Images/cxMeasureTile.png" />
+    <Url
+      Source="Resources/Images/cxReplay4Feedback.png" />
+    <Url
+      Source="Resources/Images/cxSuiteThumbnail.png" />
+    <Url
+      Source="Resources/Images/cxSuiteTile.png" />
+    <Url
+      Source="Resources/Images/CX_HelpLogo.png" />
+    <Url
+      Source="Resources/Images/downloadIcon.png" />
+    <Url
+      Source="Resources/Images/dupSurvey.png" />
+    <Url
+      Source="Resources/Images/EmailEPPsample.png" />
+    <Url
+      Source="Resources/Images/EmailExample.png" />
+    <Url
+      Source="Resources/Images/EmailInviteTable.png" />
+    <Url
+      Source="Resources/Images/EmployeeExperienceMeasureModel.png" />
+    <Url
+      Source="Resources/Images/EmpTree.png" />
+    <Url
+      Source="Resources/Images/ExpandIcon.png" />
+    <Url
+      Source="Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="Resources/Images/facebookIcon40px.png" />
+    <Url
+      Source="Resources/Images/fbBadge.png" />
+    <Url
+      Source="Resources/Images/fbBadgeExample.png" />
+    <Url
+      Source="Resources/Images/FB_icon.png" />
+    <Url
+      Source="Resources/Images/FB_video_Thumbnails.png" />
+    <Url
+      Source="Resources/Images/feedback-icon.svg" />
+    <Url
+      Source="Resources/Images/filterIcon.png" />
+    <Url
+      Source="Resources/Images/FilterTile.png" />
+    <Url
+      Source="Resources/Images/ForeSee_logo_wht_40.png" />
+    <Url
+      Source="Resources/Images/getting-started-icon.svg" />
+    <Url
+      Source="Resources/Images/GettingStartedGrayTile.png" />
+    <Url
+      Source="Resources/Images/GettingStartedTile.png" />
+    <Url
+      Source="Resources/Images/gettingStartedVideoThumbnail340.png" />
+    <Url
+      Source="Resources/Images/global-settings-icon.svg" />
+    <Url
+      Source="Resources/Images/googlePlusIcon.png" />
+    <Url
+      Source="Resources/Images/grabHandle.png" />
+    <Url
+      Source="Resources/Images/guidesBg.png" />
+    <Url
+      Source="Resources/Images/heading.png" />
+    <Url
+      Source="Resources/Images/InPage_Thumbnails.png" />
+    <Url
+      Source="Resources/Images/InPgThumbnail.png" />
+    <Url
+      Source="Resources/Images/Insights2Analytics.png" />
+    <Url
+      Source="Resources/Images/insightsIcon.png" />
+    <Url
+      Source="Resources/Images/integration-icon.svg" />
+    <Url
+      Source="Resources/Images/InternalContectCenterMeasureWorkFlow750.jpg" />
+    <Url
+      Source="Resources/Images/linkedinIcon40px.png" />
+    <Url
+      Source="Resources/Images/logicIcon.png" />
+    <Url
+      Source="Resources/Images/login.png" />
+    <Url
+      Source="Resources/Images/login200wBorder.png" />
+    <Url
+      Source="Resources/Images/LoyaltyProgramModel.png" />
+    <Url
+      Source="Resources/Images/megaphone-icon.svg" />
+    <Url
+      Source="Resources/Images/menuIcon.png" />
+    <Url
+      Source="Resources/Images/mobileIcon.png" />
+    <Url
+      Source="Resources/Images/MobileIcon2016.png" />
+    <Url
+      Source="Resources/Images/movieIcon.png" />
+    <Url
+      Source="Resources/Images/multiChannelSat5to20.png" />
+    <Url
+      Source="Resources/Images/multiChannelSatOver20.png" />
+    <Url
+      Source="Resources/Images/nCountIcon.png" />
+    <Url
+      Source="Resources/Images/open.png" />
+    <Url
+      Source="Resources/Images/openWht.png" />
+    <Url
+      Source="Resources/Images/overviewThumbnail.png" />
+    <Url
+      Source="Resources/Images/Overview_First_Frame.png" />
+    <Url
+      Source="Resources/Images/pcIcon.png" />
+    <Url
+      Source="Resources/Images/PDF Cover.png" />
+    <Url
+      Source="Resources/Images/Pencil.png" />
+    <Url
+      Source="Resources/Images/player1.png" />
+    <Url
+      Source="Resources/Images/player2.png" />
+    <Url
+      Source="Resources/Images/POSreceipt1.png" />
+    <Url
+      Source="Resources/Images/POSreceipt2.png" />
+    <Url
+      Source="Resources/Images/PossibleFulfillmentFlows.png" />
+    <Url
+      Source="Resources/Images/PostVisitDropDown.jpg" />
+    <Url
+      Source="Resources/Images/PostVisitFilter.jpg" />
+    <Url
+      Source="Resources/Images/PostVisitModel.png" />
+    <Url
+      Source="Resources/Images/PostVisitScenarios.jpg" />
+    <Url
+      Source="Resources/Images/previewIcon.png" />
+    <Url
+      Source="Resources/Images/PrivacyPolicyUpdates.png" />
+    <Url
+      Source="Resources/Images/Pub_Thumbnails.png" />
+    <Url
+      Source="Resources/Images/PurchaseMeasurementFlow.png" />
+    <Url
+      Source="Resources/Images/PurchaseModel.png" />
+    <Url
+      Source="Resources/Images/ReleaseNotesJan16.png" />
+    <Url
+      Source="Resources/Images/replay-icon.svg" />
+    <Url
+      Source="Resources/Images/replayBadge.png" />
+    <Url
+      Source="Resources/Images/ReplayOff.png" />
+    <Url
+      Source="Resources/Images/ReplayPooling.png" />
+    <Url
+      Source="Resources/Images/replaySettings.png" />
+    <Url
+      Source="Resources/Images/replaysRole.png" />
+    <Url
+      Source="Resources/Images/replayThumbnail.png" />
+    <Url
+      Source="Resources/Images/reportsThumbnail.png" />
+    <Url
+      Source="Resources/Images/Reports_Thumbnails.png" />
+    <Url
+      Source="Resources/Images/requiredIcon.png" />
+    <Url
+      Source="Resources/Images/returnButton.png" />
+    <Url
+      Source="Resources/Images/SearchLabel.png" />
+    <Url
+      Source="Resources/Images/search_iconWt.png" />
+    <Url
+      Source="Resources/Images/seeRespondentsIcon.png" />
+    <Url
+      Source="Resources/Images/SettingsIcon.png" />
+    <Url
+      Source="Resources/Images/SocialValueCQ.png" />
+    <Url
+      Source="Resources/Images/spyglass_icon.png" />
+    <Url
+      Source="Resources/Images/starClear.png" />
+    <Url
+      Source="Resources/Images/starSelect.png" />
+    <Url
+      Source="Resources/Images/surveys.png" />
+    <Url
+      Source="Resources/Images/tabletIcon.png" />
+    <Url
+      Source="Resources/Images/text-analytics-icon.svg" />
+    <Url
+      Source="Resources/Images/toggleIcon.png" />
+    <Url
+      Source="Resources/Images/TornadoChart.jpg" />
+    <Url
+      Source="Resources/Images/trash.png" />
+    <Url
+      Source="Resources/Images/TrueConversionPrimaryPurpose.jpg" />
+    <Url
+      Source="Resources/Images/trusteLogo90x30.png" />
+    <Url
+      Source="Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="Resources/Images/twitterIcon40px.png" />
+    <Url
+      Source="Resources/Images/unPubIcon.png" />
+    <Url
+      Source="Resources/Images/URLbreakdown.png" />
+    <Url
+      Source="Resources/Images/validIcon.png" />
+    <Url
+      Source="Resources/Images/verticalhide_icon.png" />
+    <Url
+      Source="Resources/Images/verticalshow_icon.png" />
+    <Url
+      Source="Resources/Images/vidBg.png" />
+    <Url
+      Source="Resources/Images/ViewingTile.png" />
+    <Url
+      Source="Resources/Images/viewReplay.png" />
+    <Url
+      Source="Resources/Images/viewSurveyIcon.png" />
+    <Url
+      Source="Resources/Images/What'sNewTile.png" />
+    <Url
+      Source="Resources/Images/whats-new-icon.svg" />
+    <Url
+      Source="Resources/Images/WhatsNewGrayTile.png" />
+    <Url
+      Source="Resources/Images/WhatsNewTile.png" />
+    <Url
+      Source="Resources/Images/youtubeIcon.png" />
+    <Url
+      Source="Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
+    <Url
+      Source="Resources/MasterPages/Print.flmsp" />
+    <Url
+      Source="Resources/MasterPages/PrintLandscape.flmsp" />
+    <Url
+      Source="Resources/Multimedia/Replay.mp4" />
+    <Url
+      Source="Resources/Multimedia/ReplayOverview.mp4" />
+    <Url
+      Source="Resources/PageLayouts/Content.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/PrintPg.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/PrintPgLandscape.flpgl" />
+    <Url
+      Source="Resources/PDFs/1602_Implementation_Guide-Survey_Invite_v1MR.pdf" />
+    <Url
+      Source="Resources/PDFs/CXS17_2ReleaseNotes.pdf" />
+    <Url
+      Source="Resources/PDFs/Fall16ClientFacing.pdf" />
+    <Url
+      Source="Resources/PDFs/Fall16MinorClientFacing.pdf" />
+    <Url
+      Source="Resources/PDFs/Spring16ClientFacing.pdf" />
+    <Url
+      Source="Resources/PDFs/Winter16ClientFacing.pdf" />
+    <Url
+      Source="Resources/PDFs/Winter17ClientFacing.pdf" />
+    <Url
+      Source="Resources/Scripts/foundation-menu-off-canvas-initialisation.js" />
+    <Url
+      Source="Resources/Snippets/AutoCases.flsnp" />
+    <Url
+      Source="Resources/Snippets/CodeSnippetNote.flsnp" />
+    <Url
+      Source="Resources/Snippets/CompetitiveLanscapeParagraph.flsnp" />
+    <Url
+      Source="Resources/Snippets/CopyReplayURL.flsnp" />
+    <Url
+      Source="Resources/Snippets/CPPEPP.flsnp" />
+    <Url
+      Source="Resources/Snippets/CPPsMoreInfo.flsnp" />
+    <Url
+      Source="Resources/Snippets/CreateCaseLastSteps1.flsnp" />
+    <Url
+      Source="Resources/Snippets/CreateCaseLastSteps2.flsnp" />
+    <Url
+      Source="Resources/Snippets/CustomizeColumnsProcess.flsnp" />
+    <Url
+      Source="Resources/Snippets/DateColumnDesc.flsnp" />
+    <Url
+      Source="Resources/Snippets/DatePicker.flsnp" />
+    <Url
+      Source="Resources/Snippets/DateRangeSelection.flsnp" />
+    <Url
+      Source="Resources/Snippets/DropQuestion.flsnp" />
+    <Url
+      Source="Resources/Snippets/ElevatedPrivileges.flsnp" />
+    <Url
+      Source="Resources/Snippets/FooterContent.flsnp" />
+    <Url
+      Source="Resources/Snippets/HierarchyFilter.flsnp" />
+    <Url
+      Source="Resources/Snippets/imageTypes.flsnp" />
+    <Url
+      Source="Resources/Snippets/LanguageOptions.flsnp" />
+    <Url
+      Source="Resources/Snippets/ManualCase.flsnp" />
+    <Url
+      Source="Resources/Snippets/NumberColumnDesc.flsnp" />
+    <Url
+      Source="Resources/Snippets/PreviewSurveyNote.flsnp" />
+    <Url
+      Source="Resources/Snippets/ProjectMenuDesc.flsnp" />
+    <Url
+      Source="Resources/Snippets/ReplayColumnDesc.flsnp" />
+    <Url
+      Source="Resources/Snippets/RespondentDetailsPgDesc.flsnp" />
+    <Url
+      Source="Resources/Snippets/SeeRespondentsDefaultView.flsnp" />
+    <Url
+      Source="Resources/Snippets/showHideTopic.flsnp" />
+    <Url
+      Source="Resources/Snippets/SurveyFilter.flsnp" />
+    <Url
+      Source="Resources/Snippets/SurveyStats.flsnp" />
+    <Url
+      Source="Resources/Snippets/Topic content.flsnp" />
+    <Url
+      Source="Resources/Snippets/Topics1.flsnp" />
+    <Url
+      Source="Resources/Snippets/Topics2.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigEventTrigs1.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigEventTrigs2.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigEventTrigs3.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigEventTrigs4.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPinLock1.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPinLock2.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPinLock3.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPinLock4.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPooling1.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPooling2.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigPooling3.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigRepeatDays1.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigRepeatDays2.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigSampParam1.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigSampParam2.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigSampParam3.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigSampParam4.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigSampParam5.flsnp" />
+    <Url
+      Source="Resources/Snippets/TrigSampParam6.flsnp" />
+    <Url
+      Source="Resources/Snippets/WhoUsesItDisclaimer.flsnp" />
+    <Url
+      Source="Resources/Stylesheets/CX_Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/CX_Styles_Print.css" />
+    <Url
+      Source="Resources/Stylesheets/TopicStyles.css" />
+    <Url
+      Source="Resources/TableStyles/4cBasic.css" />
+    <Url
+      Source="Resources/TableStyles/4cBasicLeft.css" />
+    <Url
+      Source="Resources/TableStyles/Blind3.css" />
+    <Url
+      Source="Resources/TableStyles/cxSuiteDefault.css" />
+    <Url
+      Source="Resources/TableStyles/home.css" />
+    <Url
+      Source="Resources/TableStyles/homeftr.css" />
+    <Url
+      Source="Resources/TableStyles/simple.css" />
+    <Url
+      Source="Resources/TableStyles/vid.css" />
+    <Url
+      Source="Resources/webfonts/30F752_0_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_0_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_0_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_0_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_10_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_10_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_10_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_10_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_11_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_11_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_11_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_11_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_12_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_12_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_12_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_12_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_13_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_13_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_13_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_13_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_14_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_14_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_14_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_14_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_15_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_15_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_15_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_15_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_16_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_16_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_16_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_16_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_17_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_17_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_17_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_17_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_18_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_18_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_18_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_18_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_19_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_19_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_19_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_19_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_1_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_1_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_1_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_1_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_20_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_20_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_20_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_20_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_21_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_21_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_21_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_21_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_22_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_22_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_22_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_22_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_23_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_23_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_23_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_23_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_24_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_24_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_24_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_24_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_25_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_25_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_25_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_25_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_26_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_26_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_26_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_26_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_27_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_27_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_27_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_27_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_28_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_28_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_28_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_28_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_29_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_29_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_29_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_29_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_2_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_2_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_2_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_2_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_30_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_30_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_30_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_30_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_31_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_31_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_31_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_31_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_32_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_32_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_32_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_32_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_33_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_33_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_33_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_33_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_34_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_34_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_34_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_34_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_35_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_35_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_35_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_35_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_36_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_36_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_36_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_36_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_37_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_37_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_37_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_37_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_38_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_38_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_38_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_38_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_39_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_39_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_39_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_39_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_3_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_3_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_3_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_3_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_40_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_40_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_40_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_40_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_41_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_41_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_41_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_41_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_42_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_42_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_42_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_42_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_43_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_43_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_43_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_43_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_44_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_44_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_44_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_44_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_45_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_45_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_45_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_45_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_46_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_46_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_46_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_46_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_47_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_47_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_47_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_47_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_48_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_48_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_48_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_48_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_49_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_49_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_49_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_49_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_4_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_4_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_4_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_4_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_50_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_50_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_50_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_50_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_51_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_51_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_51_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_51_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_52_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_52_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_52_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_52_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_53_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_53_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_53_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_53_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_54_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_54_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_54_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_54_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_55_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_55_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_55_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_55_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_56_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_56_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_56_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_56_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_57_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_57_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_57_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_57_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_58_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_58_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_58_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_58_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_59_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_59_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_59_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_59_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_5_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_5_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_5_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_5_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_60_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_60_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_60_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_60_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_61_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_61_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_61_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_61_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_62_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_62_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_62_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_62_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_63_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_63_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_63_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_63_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_64_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_64_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_64_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_64_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_65_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_65_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_65_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_65_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_66_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_66_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_66_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_66_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_67_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_67_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_67_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_67_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_68_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_68_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_68_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_68_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_69_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_69_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_69_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_69_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_6_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_6_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_6_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_6_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_70_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_70_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_70_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_70_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_71_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_71_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_71_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_71_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_72_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_72_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_72_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_72_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_73_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_73_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_73_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_73_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_74_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_74_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_74_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_74_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_75_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_75_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_75_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_75_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_76_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_76_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_76_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_76_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_77_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_77_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_77_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_77_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_78_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_78_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_78_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_78_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_79_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_79_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_79_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_79_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_7_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_7_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_7_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_7_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_80_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_80_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_80_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_80_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_81_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_81_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_81_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_81_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_82_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_82_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_82_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_82_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_83_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_83_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_83_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_83_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_84_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_84_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_84_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_84_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_85_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_85_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_85_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_85_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_86_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_86_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_86_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_86_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_87_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_87_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_87_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_87_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_88_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_88_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_88_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_88_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_89_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_89_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_89_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_89_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8F_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_8_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_8_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_8_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_8_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_9_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_9_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_9_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_9_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_A_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_A_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_A_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_A_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_B_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_B_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_B_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_B_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_C_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_C_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_C_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_C_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_D_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_D_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_D_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_D_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_E_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_E_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_E_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_E_0.woff2" />
+    <Url
+      Source="Resources/webfonts/30F752_F_0.eot" />
+    <Url
+      Source="Resources/webfonts/30F752_F_0.ttf" />
+    <Url
+      Source="Resources/webfonts/30F752_F_0.woff" />
+    <Url
+      Source="Resources/webfonts/30F752_F_0.woff2" />
+    <Url
+      Source="TextAnalytics/about.htm" />
+    <Url
+      Source="TextAnalytics/analyzing.htm" />
+    <Url
+      Source="TextAnalytics/home.htm" />
+    <Url
+      Source="TextAnalytics/releaseNotes.htm" />
+    <Url
+      Source="TextAnalytics/Resources/Snippets/Topic content.flsnp" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls>
+    <Url
+      Source="cxSuite/reports.htm"
+      Terms="Reports" />
+    <Url
+      Source="Feedback/configureSurvey.htm"
+      Terms="Choose Survey Type;Badge;Configure Survey;White List;Privacy Policy setup" />
+    <Url
+      Source="Feedback/newSurvey.htm"
+      Terms="Creating a Survey;Images" />
+    <Url
+      Source="Feedback/publishing.htm"
+      Terms="Publishing" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>

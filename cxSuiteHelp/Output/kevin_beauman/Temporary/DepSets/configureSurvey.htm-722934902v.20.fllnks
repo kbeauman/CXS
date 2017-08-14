@@ -16,7 +16,11 @@
     <Link
       Url="Content/Feedback/publishing.htm" />
     <Link
-      Url="Content/Resources/Images/fbBadge.png" />
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Resources/Images/Pencil.png" />
     <Link
       Url="Content/Feedback/manualLaunch.htm" />
     <Link
@@ -36,7 +40,17 @@
     <Link
       Url="Content/Feedback/publishing.htm" />
     <Link
-      Url="Content/Resources/Images/fbBadge.png" />
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm#Web" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm#Site" />
+    <Link
+      Url="Content/Resources/Images/Pencil.png" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm#Design" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm#URL Targ" />
     <Link
       Url="Content/Feedback/manualLaunch.htm" />
     <Link
@@ -46,38 +60,44 @@
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Web" />
+    <Anchor
+      Name="Site" />
+    <Anchor
+      Name="Design" />
+    <Anchor
+      Name="URL Targ" />
+  </Anchors>
   <Keywords>
-    <IndexCacheEntry
-      Term="Choose Survey Type"
-      Conditions=""
-      LocalConditions=""
-      Position="13" />
     <IndexCacheEntry
       Term="Badge"
       Conditions=""
       LocalConditions=""
-      Position="15" />
+      Position="46" />
     <IndexCacheEntry
       Term="Configure Survey"
       Conditions=""
       LocalConditions=""
-      Position="47" />
+      Position="99" />
     <IndexCacheEntry
       Term="White List"
       Conditions=""
       LocalConditions=""
-      Position="53" />
+      Position="105" />
     <IndexCacheEntry
       Term="Privacy Policy setup"
       Conditions=""
       LocalConditions=""
-      Position="75" />
+      Position="127" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
   <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Section" />
     <Variable
       Name="Tooltips.Tooltip Topic" />
   </Variables>

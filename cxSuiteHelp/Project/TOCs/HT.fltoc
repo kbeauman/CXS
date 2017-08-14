@@ -131,8 +131,12 @@
         Title="About Feedback Surveys"
         Link="/Content/Feedback/aboutSurveys.htm" />
       <TocEntry
-        Title="Create or Edit a Survey"
-        Link="/Content/Feedback/newSurvey.htm"></TocEntry>
+        Title="Create a Survey"
+        Link="/Content/Feedback/newSurvey.htm"
+        ReplaceMergeNode="false"></TocEntry>
+      <TocEntry
+        Title="Edit a Feedback Survey"
+        Link="/Content/Feedback/editSurvey.htm" />
       <TocEntry
         Title="Skip Logic"
         Link="/Content/Feedback/skipLogic.htm" />
@@ -143,7 +147,7 @@
         Title="Deploying a Feedback Survey"
         Link="/Content/cxSuite/deployFeedbackTOC.htm">
         <TocEntry
-          Title="Configuring a Survey"
+          Title="Collection Methods"
           Link="/Content/Feedback/configureSurvey.htm" />
         <TocEntry
           Title="Publishing a Survey"

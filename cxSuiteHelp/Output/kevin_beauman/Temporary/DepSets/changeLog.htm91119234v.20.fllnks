@@ -23,6 +23,16 @@
     <Link
       Url="Content/TextAnalytics/analyzing.htm" />
     <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
+      Url="https://issuetracking.foresee.com/browse/ACSH-82" />
+    <Link
+      Url="https://issuetracking.foresee.com/browse/ACSH-81" />
+    <Link
+      Url="https://issuetracking.foresee.com/browse/ACSH-86" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
@@ -43,6 +53,16 @@
     <Link
       Url="Content/TextAnalytics/analyzing.htm" />
     <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
+      Url="https://issuetracking.foresee.com/browse/ACSH-82" />
+    <Link
+      Url="https://issuetracking.foresee.com/browse/ACSH-81" />
+    <Link
+      Url="https://issuetracking.foresee.com/browse/ACSH-86" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
   <Anchors />
@@ -51,6 +71,8 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Web Site" />
     <Variable
       Name="Tooltips.Tooltip Topic" />
   </Variables>

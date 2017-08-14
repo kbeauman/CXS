@@ -16,8 +16,6 @@
     <Link
       Url="Content/cxSuite/MeasuresDashboard.htm" />
     <Link
-      Url="Content/Resources/Images/previewIcon.png" />
-    <Link
       Url="Content/Feedback/newSurvey.htm" />
     <Link
       Url="Content/Resources/Images/trash.png" />
@@ -25,6 +23,14 @@
       Url="Content/Resources/Images/dupSurvey.png" />
     <Link
       Url="Content/Resources/Images/Pencil.png" />
+    <Link
+      Url="Content/Resources/Images/previewIcon.png" />
+    <Link
+      Url="Content/Resources/Images/pcIcon.png" />
+    <Link
+      Url="Content/Resources/Images/tabletIcon.png" />
+    <Link
+      Url="Content/Resources/Images/mobileIcon.png" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
@@ -38,8 +44,6 @@
     <Link
       Url="Content/cxSuite/MeasuresDashboard.htm#Analyze" />
     <Link
-      Url="Content/Resources/Images/previewIcon.png" />
-    <Link
       Url="Content/Feedback/newSurvey.htm" />
     <Link
       Url="Content/Resources/Images/trash.png" />
@@ -48,9 +52,20 @@
     <Link
       Url="Content/Resources/Images/Pencil.png" />
     <Link
+      Url="Content/Resources/Images/previewIcon.png" />
+    <Link
+      Url="Content/Resources/Images/pcIcon.png" />
+    <Link
+      Url="Content/Resources/Images/tabletIcon.png" />
+    <Link
+      Url="Content/Resources/Images/mobileIcon.png" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
-  <Anchors />
+  <Anchors>
+    <Anchor
+      Name="Filterin" />
+  </Anchors>
   <Keywords />
   <Concepts />
   <ConceptControlNames />

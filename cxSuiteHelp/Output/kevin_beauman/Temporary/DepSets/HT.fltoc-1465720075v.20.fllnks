@@ -10,6 +10,8 @@
     <Link
       Url="Content/cxSuite/printTOC.htm" />
     <Link
+      Url="Content/cxSuite/changeLog.htm" />
+    <Link
       Url="Content/cxSuite/home.htm" />
     <Link
       Url="Content/cxSuite/whatsNew.htm" />
@@ -137,8 +139,6 @@
       Url="Content/TextAnalytics/about.htm" />
     <Link
       Url="Content/TextAnalytics/analyzing.htm" />
-    <Link
-      Url="Content/TextAnalytics/taxonomy.htm" />
     <Link
       Url="Content/cxSuite/integrationTOC.htm" />
     <Link
