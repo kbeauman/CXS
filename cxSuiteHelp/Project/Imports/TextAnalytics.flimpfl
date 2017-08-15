@@ -84,6 +84,9 @@
     <Url
       Source="../../Content/Resources/Snippets/DatePicker.flsnp"
       AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Snippets/DatePicker.flsnp" />
+    <Url
+      Source="../../Content/Resources/Snippets/CodeSnippetNote.flsnp"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Snippets/CodeSnippetNote.flsnp" />
   </ExcludedFiles>
   <CollectedSourceFiles>
     <Url

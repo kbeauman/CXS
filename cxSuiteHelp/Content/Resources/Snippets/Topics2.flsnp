@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="62" MadCap:lastWidth="1466">
     <body>
-        <p>You may also control where each topic displays on the web site by using the <span class="wintitle">White List</span> area of the <span class="wintitle">Configure Survey</span> page. For example, if you have a product line where the <span class="wintitle">Color</span> topic does not apply, clear the <span class="wintitle">Show Site-wide</span> check box and list the URLs of the pages you want the <span class="wintitle">Color</span> topic to display on.</p>
+        <p>You may also control where each topic displays on the web site by using the <span class="wintitle">URL Targeting</span> feature of the <a href="../../Feedback/configureSurvey.htm#URL&#160;Targ" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">Collection Methods</a> page. For example, if you have a product line where the <span class="wintitle">Color</span> topic does not apply, clear the <span class="wintitle">Show Sitewide</span> check box and list the URLs of the pages you want the <span class="wintitle">Color</span> topic to display on.</p>
     </body>
 </html>

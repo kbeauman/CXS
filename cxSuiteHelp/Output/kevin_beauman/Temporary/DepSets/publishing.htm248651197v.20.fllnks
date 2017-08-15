@@ -13,15 +13,9 @@
     <Link
       Url="Content/Feedback/configureSurvey.htm" />
     <Link
-      Url="Content/Feedback/Alerts.htm" />
-    <Link
-      Url="Content/Resources/Snippets/CodeSnippetNote.flsnp" />
-    <Link
       Url="Content/Resources/Images/Pencil.png" />
     <Link
-      Url="Content/Resources/Images/unPubIcon.png" />
-    <Link
-      Url="Content/Feedback/surveyOff.htm" />
+      Url="Content/Resources/Snippets/CodeSnippetNote.flsnp" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
@@ -35,15 +29,11 @@
     <Link
       Url="Content/Feedback/configureSurvey.htm" />
     <Link
-      Url="Content/Feedback/Alerts.htm" />
-    <Link
-      Url="Content/Resources/Snippets/CodeSnippetNote.flsnp" />
-    <Link
       Url="Content/Resources/Images/Pencil.png" />
     <Link
-      Url="Content/Resources/Images/unPubIcon.png" />
+      Url="Content/Feedback/configureSurvey.htm#Web" />
     <Link
-      Url="Content/Feedback/surveyOff.htm" />
+      Url="Content/Resources/Snippets/CodeSnippetNote.flsnp" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link

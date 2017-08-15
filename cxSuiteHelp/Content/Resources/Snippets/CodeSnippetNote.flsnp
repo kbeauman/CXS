@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-<head>
-</head>
-<body>
-	<div class="note">Before publishing, verify each web page from which the survey can be launched contains the <span class="wintitle">Customer Defined</span> code snippet.</div>
-</body>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="31" MadCap:lastWidth="1466">
+    <head>
+    </head>
+    <body>
+        <div class="note">Before publishing, verify each web page from which the survey can be launched contains the <a href="../../cxSuite/hostedcode.htm" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">Installation Code</a> snippet.</div>
+    </body>
 </html>

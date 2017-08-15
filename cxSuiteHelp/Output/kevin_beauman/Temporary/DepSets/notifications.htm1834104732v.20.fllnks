@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileClass="Topic"
+  FileTitle="Notifications"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
@@ -9,35 +10,32 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Resources/Snippets/Topics1.flsnp" />
+      Url="Content/Resources/Images/Pencil.png" />
     <Link
-      Url="Content/Resources/Snippets/Topics2.flsnp" />
+      Url="Content/Resources/Images/trash.png" />
     <Link
-      Url="Content/Feedback/newSurvey.htm" />
+      Url="Content/Resources/Images/unPubIcon.png" />
     <Link
-      Url="Project/VariableSets/Tooltips.flvar" />
+      Url="Content/Resources/Images/validIcon.png" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Resources/Snippets/Topics1.flsnp" />
+      Url="Content/Resources/Images/Pencil.png" />
     <Link
-      Url="Content/Resources/Snippets/Topics2.flsnp" />
+      Url="Content/Resources/Images/trash.png" />
     <Link
-      Url="Content/Feedback/newSurvey.htm#Adding" />
+      Url="Content/Resources/Images/unPubIcon.png" />
     <Link
-      Url="Project/VariableSets/Tooltips.flvar" />
+      Url="Content/Resources/Images/validIcon.png" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="Tooltips.Tooltip Topic" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />

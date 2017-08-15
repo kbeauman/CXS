@@ -10,8 +10,6 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/Feedback/publishing.htm" />
-    <Link
       Url="Content/Feedback/feedbackDashboard.htm" />
     <Link
       Url="Content/Resources/Images/Pencil.png" />
@@ -21,8 +19,6 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
-    <Link
-      Url="Content/Feedback/publishing.htm" />
     <Link
       Url="Content/Feedback/feedbackDashboard.htm" />
     <Link

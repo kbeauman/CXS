@@ -88,6 +88,8 @@
     <Link
       Url="Content/Feedback/newSurvey.htm" />
     <Link
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
       Url="Content/Feedback/skipLogic.htm" />
     <Link
       Url="Content/Feedback/topics.htm" />
@@ -97,12 +99,6 @@
       Url="Content/Feedback/configureSurvey.htm" />
     <Link
       Url="Content/Feedback/publishing.htm" />
-    <Link
-      Url="Content/Feedback/manualLaunch.htm" />
-    <Link
-      Url="Content/Feedback/surveyOff.htm" />
-    <Link
-      Url="Content/Feedback/feedbackDashboard.htm" />
     <Link
       Url="Content/Feedback/viewingData.htm" />
     <Link

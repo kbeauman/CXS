@@ -22,10 +22,6 @@
     <Link
       Url="Content/Resources/Images/Pencil.png" />
     <Link
-      Url="Content/Feedback/manualLaunch.htm" />
-    <Link
-      Url="Content/Feedback/topics.htm" />
-    <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
@@ -52,10 +48,6 @@
     <Link
       Url="Content/Feedback/configureSurvey.htm#URL Targ" />
     <Link
-      Url="Content/Feedback/manualLaunch.htm" />
-    <Link
-      Url="Content/Feedback/topics.htm" />
-    <Link
       Url="Project/ConditionTagSets/Default.flcts" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
@@ -75,22 +67,7 @@
       Term="Badge"
       Conditions=""
       LocalConditions=""
-      Position="46" />
-    <IndexCacheEntry
-      Term="Configure Survey"
-      Conditions=""
-      LocalConditions=""
-      Position="99" />
-    <IndexCacheEntry
-      Term="White List"
-      Conditions=""
-      LocalConditions=""
-      Position="105" />
-    <IndexCacheEntry
-      Term="Privacy Policy setup"
-      Conditions=""
-      LocalConditions=""
-      Position="127" />
+      Position="49" />
   </Keywords>
   <Concepts />
   <ConceptControlNames />

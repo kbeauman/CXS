@@ -12,9 +12,17 @@
     <Link
       Url="Content/Resources/Images/fbBadgeExample.png" />
     <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/cxSuite/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/inPg.htm" />
+    <Link
       Url="Content/Feedback/newSurvey.htm" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
     <Link
@@ -22,16 +30,29 @@
     <Link
       Url="Content/Resources/Images/fbBadgeExample.png" />
     <Link
+      Url="Content/Feedback/configureSurvey.htm#Site" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm#Web" />
+    <Link
+      Url="Content/cxSuite/aboutSurveys.htm#Feedback" />
+    <Link
+      Url="Content/Feedback/inPg.htm" />
+    <Link
       Url="Content/Feedback/newSurvey.htm" />
     <Link
       Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
   <FileConditions />
   <FileTags />
   <AllConditions>

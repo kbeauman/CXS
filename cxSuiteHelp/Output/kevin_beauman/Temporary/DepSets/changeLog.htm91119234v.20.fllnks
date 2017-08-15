@@ -27,7 +27,17 @@
     <Link
       Url="Content/Feedback/editSurvey.htm" />
     <Link
-      Url="https://issuetracking.foresee.com/browse/ACSH-82" />
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/topics.htm" />
+    <Link
+      Url="Content/cxSuite/hostedcode.htm" />
+    <Link
+      Url="Content/cxSuite/notifications.htm" />
     <Link
       Url="https://issuetracking.foresee.com/browse/ACSH-81" />
     <Link
@@ -57,7 +67,17 @@
     <Link
       Url="Content/Feedback/editSurvey.htm" />
     <Link
-      Url="https://issuetracking.foresee.com/browse/ACSH-82" />
+      Url="Content/Feedback/aboutSurveys.htm" />
+    <Link
+      Url="Content/Feedback/configureSurvey.htm" />
+    <Link
+      Url="Content/Feedback/publishing.htm" />
+    <Link
+      Url="Content/Feedback/topics.htm" />
+    <Link
+      Url="Content/cxSuite/hostedcode.htm" />
+    <Link
+      Url="Content/cxSuite/notifications.htm" />
     <Link
       Url="https://issuetracking.foresee.com/browse/ACSH-81" />
     <Link

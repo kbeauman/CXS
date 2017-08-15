@@ -188,6 +188,9 @@
     <Url
       Source="../../Content/TextAnalytics/analyzing.htm"
       AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/TextAnalytics/analyzing.htm" />
+    <Url
+      Source="../../Content/Resources/Snippets/CodeSnippetNote.flsnp"
+      AbsoluteSource="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Snippets/CodeSnippetNote.flsnp" />
   </ExcludedFiles>
   <CollectedSourceFiles>
     <Url

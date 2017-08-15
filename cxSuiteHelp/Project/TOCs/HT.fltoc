@@ -152,26 +152,13 @@
         <TocEntry
           Title="Publishing a Survey"
           Link="/Content/Feedback/publishing.htm" />
-        <TocEntry
-          Title="Manual Launch of Survey"
-          Link="/Content/Feedback/manualLaunch.htm" />
       </TocEntry>
-      <TocEntry
-        Title="Turn A Survey Off"
-        Link="/Content/Feedback/surveyOff.htm" />
-      <TocEntry
-        Title="Feedback Dashboard"
-        Link="/Content/Feedback/feedbackDashboard.htm"
-        StartSection="false" />
       <TocEntry
         Title="Viewing Feedback Data"
         Link="/Content/Feedback/viewingData.htm" />
       <TocEntry
         Title="In-Page Reporting"
         Link="/Content/Feedback/inPg.htm" />
-      <TocEntry
-        Title="Notifications"
-        Link="/Content/Feedback/Alerts.htm" />
     </TocEntry>
     <TocEntry
       Title="Respondent Details"
@@ -223,6 +210,9 @@
       Title="Analyzing Data"
       Link="/Content/TextAnalytics/analyzing.htm" />
   </TocEntry>
+  <TocEntry
+    Title="Notifications"
+    Link="/Content/cxSuite/notifications.htm" />
   <TocEntry
     Title="Integration"
     Link="/Content/cxSuite/integrationTOC.htm">

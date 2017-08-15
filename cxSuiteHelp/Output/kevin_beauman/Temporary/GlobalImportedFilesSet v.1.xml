@@ -1776,9 +1776,6 @@
       Local="Content/Resources/Multimedia/Reports.mp4"
       Remote="../../Feedback/Content/Resources/Multimedia/Replay.mp4" />
     <Map
-      Local="Content/Resources/Snippets/CodeSnippetNote.flsnp"
-      Remote="../../Feedback/Content/Resources/Multimedia/ReplayOverview.mp4" />
-    <Map
       Local="Content/Resources/Snippets/DateRangeSelection.flsnp"
       Remote="../../Feedback/Content/Resources/Multimedia/Reports.mp4" />
     <Map

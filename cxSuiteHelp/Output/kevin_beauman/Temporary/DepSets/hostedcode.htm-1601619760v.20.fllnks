@@ -10,11 +10,9 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="http://developer.foresee.com/docs-articles/foresee-hosted-code/" />
+      Url="https://developer.foresee.com/docs/cloud-deployment" />
     <Link
-      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/implementing/the-embed-snippet/" />
-    <Link
-      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/the-foresee-cookies/" />
+      Url="https://developer.foresee.com/docs/client-code-cookies" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
@@ -22,11 +20,11 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="http://developer.foresee.com/docs-articles/foresee-hosted-code/" />
+      Url="https://developer.foresee.com/docs/cloud-deployment" />
     <Link
-      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/implementing/the-embed-snippet/" />
+      Url="https://developer.foresee.com/docs/cloud-deployment#section-the-embed-snippet" />
     <Link
-      Url="http://developer.foresee.com/docs-articles/foresee-web-sdk-cloud/the-foresee-cookies/" />
+      Url="https://developer.foresee.com/docs/client-code-cookies" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
