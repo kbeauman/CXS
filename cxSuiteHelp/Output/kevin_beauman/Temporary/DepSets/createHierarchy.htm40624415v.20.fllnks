@@ -11,10 +11,6 @@
     <Link
       Url="Content/cxSuite/aboutGlobalSettings.htm" />
     <Link
-      Url="Content/cxMeasurement/pos.htm" />
-    <Link
-      Url="Content/cxMeasurement/loyalty.htm" />
-    <Link
       Url="Content/cxMeasurement/employee.htm" />
     <Link
       Url="Content/cxMeasurement/contactCenter.htm" />
@@ -34,10 +30,6 @@
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
       Url="Content/cxSuite/aboutGlobalSettings.htm" />
-    <Link
-      Url="Content/cxMeasurement/pos.htm" />
-    <Link
-      Url="Content/cxMeasurement/loyalty.htm" />
     <Link
       Url="Content/cxMeasurement/employee.htm" />
     <Link

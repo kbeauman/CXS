@@ -9,23 +9,7 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/cxSuite/releaseNotes.htm" />
-    <Link
-      Url="Content/cxSuite/ReleaseCalendar.htm" />
-    <Link
-      Url="Content/cxSuite/aboutSurveys.htm" />
-    <Link
-      Url="Content/cxMeasurement/MasterList.htm" />
-    <Link
-      Url="Content/cxSuite/glossary.htm" />
-    <Link
-      Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
-    <Link
-      Url="Content/Feedback/newSurvey.htm" />
-    <Link
-      Url="Content/Feedback/editSurvey.htm" />
+      Url="Content/cxSuite/hierarchy.htm" />
     <Link
       Url="Content/Feedback/aboutSurveys.htm" />
     <Link
@@ -38,6 +22,24 @@
       Url="Content/cxSuite/hostedcode.htm" />
     <Link
       Url="Content/cxSuite/notifications.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
+      Url="Content/cxSuite/glossary.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
+      Url="Content/cxMeasurement/MasterList.htm" />
+    <Link
+      Url="Content/cxSuite/releaseNotes.htm" />
+    <Link
+      Url="Content/cxSuite/ReleaseCalendar.htm" />
+    <Link
+      Url="Content/cxSuite/aboutSurveys.htm" />
     <Link
       Url="https://issuetracking.foresee.com/browse/ACSH-81" />
     <Link
@@ -49,23 +51,7 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/cxSuite/releaseNotes.htm" />
-    <Link
-      Url="Content/cxSuite/ReleaseCalendar.htm" />
-    <Link
-      Url="Content/cxSuite/aboutSurveys.htm" />
-    <Link
-      Url="Content/cxMeasurement/MasterList.htm" />
-    <Link
-      Url="Content/cxSuite/glossary.htm" />
-    <Link
-      Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
-    <Link
-      Url="Content/Feedback/newSurvey.htm" />
-    <Link
-      Url="Content/Feedback/editSurvey.htm" />
+      Url="Content/cxSuite/hierarchy.htm" />
     <Link
       Url="Content/Feedback/aboutSurveys.htm" />
     <Link
@@ -78,6 +64,24 @@
       Url="Content/cxSuite/hostedcode.htm" />
     <Link
       Url="Content/cxSuite/notifications.htm" />
+    <Link
+      Url="Content/Feedback/newSurvey.htm" />
+    <Link
+      Url="Content/Feedback/editSurvey.htm" />
+    <Link
+      Url="Content/cxSuite/glossary.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
+      Url="Content/cxMeasurement/MasterList.htm" />
+    <Link
+      Url="Content/cxSuite/releaseNotes.htm" />
+    <Link
+      Url="Content/cxSuite/ReleaseCalendar.htm" />
+    <Link
+      Url="Content/cxSuite/aboutSurveys.htm" />
     <Link
       Url="https://issuetracking.foresee.com/browse/ACSH-81" />
     <Link
