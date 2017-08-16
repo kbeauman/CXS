@@ -294,14 +294,14 @@
           Link="/Content/Replay/cxReplaySecurity.htm" />
       </TocEntry>
       <TocEntry
-        Title="Case Management Global Settings"
+        Title="Case Management"
         Link="/Content/cxSuite/caseMgmtSettings.htm" />
     </TocEntry>
     <TocEntry
       Title="Integrate"
       Link="/Content/cxSuite/integrateTOC.htm">
       <TocEntry
-        Title="ForeSee® Cloud Deployment Publishing"
+        Title="Cloud Deployment"
         Link="/Content/cxSuite/hostedcode.htm" />
     </TocEntry>
   </TocEntry>

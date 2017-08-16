@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileClass="Topic"
-  FileTitle="ForeSee® Cloud Deployment Publishing"
+  FileTitle="Cloud Deployment"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
@@ -12,6 +12,8 @@
     <Link
       Url="https://developer.foresee.com/docs/cloud-deployment" />
     <Link
+      Url="Content/cxSuite/globalSettings.htm" />
+    <Link
       Url="https://developer.foresee.com/docs/client-code-cookies" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
@@ -21,6 +23,8 @@
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
       Url="https://developer.foresee.com/docs/cloud-deployment" />
+    <Link
+      Url="Content/cxSuite/globalSettings.htm" />
     <Link
       Url="https://developer.foresee.com/docs/cloud-deployment#section-the-embed-snippet" />
     <Link
@@ -36,6 +40,8 @@
   <Variables>
     <Variable
       Name="Tooltips.Tooltip Web Site" />
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
   </Variables>
   <FileConditions />
   <FileTags />
