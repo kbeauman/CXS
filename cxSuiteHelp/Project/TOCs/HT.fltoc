@@ -39,6 +39,9 @@
       Title="CX 360 Dashboard"
       Link="/Content/cxSuite/cx360.htm" />
     <TocEntry
+      Title="Leaderboard"
+      Link="/Content/cxSuite/leaderboard.htm" />
+    <TocEntry
       Title="FAQ's"
       Link="/Content/cxSuite/faq.htm" />
   </TocEntry>

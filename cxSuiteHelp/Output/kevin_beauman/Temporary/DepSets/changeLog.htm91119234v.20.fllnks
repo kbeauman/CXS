@@ -9,6 +9,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/cxSuite/leaderboard.htm" />
+    <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
       Url="Content/cxSuite/caseMgmtSettings.htm" />
@@ -52,6 +54,8 @@
   <LongLinks>
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/cxSuite/leaderboard.htm" />
     <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
