@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="934" MadCap:lastWidth="1427" class="Topic" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Global Settings|Setup|Hierarchy" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="MsWord">
+    <head><title>Hierarchy Error Messages</title>
+        <link href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/TableStyles/4cBasic.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/Stylesheets/CX_Styles_Print.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Hierarchy Error Messages</h1>
+        <table class="TableStyle-4cBasic" style="mc-table-style: url('file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/Resources/TableStyles/4cBasic.css'); margin-left: 0; margin-right: auto;" cellspacing="0">
+            <col class="TableStyle-4cBasic-Column-Column1" />
+            <col class="TableStyle-4cBasic-Column-Column2" />
+            <thead>
+                <tr class="TableStyle-4cBasic-Head-Header1">
+                    <th class="TableStyle-4cBasic-HeadE-Column1-Header1">Error Message</th>
+                    <th class="TableStyle-4cBasic-HeadD-Column2-Header1">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Column Missing (not required)</span><![CDATA[
+]]></td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">This is a warning and does not require a revision unless the missing column is still needed. This warning occurs when an existing hierarchy is updated with a file that does not contain one or more of the optional columns in the existing hierarchy.
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">Duplicate entries found</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">A member exists in the CSV file more than once. To fix the error, sort the CSV file by the <span class="wintitle">ID</span> column and review for duplicate members. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Empty entries found</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">Specific information is missing from a required field. To fix the error, review the file for any blank cells in required columns, which are described in the <a href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxSuite/hierarchyAttributes.htm" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">Hierarchy Attributes</a> topic.
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">Format Syntax Error</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">The specified rows are not formatted correctly (e.g., not valid email address format, ID format is incorrect, the date format is not YYYY-MM-DD, etc.). To fix the error, check the identified rows and fix the format as needed. See <a href="file:///C:/Users/kevin.beauman/Documents/CX-Help-and-Training-Guide/cxSuiteHelp/Content/cxSuite/hierarchyAttributes.htm" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">Hierarchy Attributes</a> for information on formatting data. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Incorrect format found</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">The file format must be Comma Separated Values (CSV). To fix the error, save the file as a CSV file. If your data contains leading zeros, verify the zeros still exist once the file is saved as a CSV file. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">Invalid Header Format</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">The column header has a specific format (must begin with a letter and can only contain letters, numbers, ampersand, and underscore). To fix this error, check all the column headers within the file and revise as needed.  
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Invalid Parent</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">For a specific member(s), a <span class="wintitle">Parent ID</span> is listed that is not part of the <span class="wintitle">ID</span> column. To fix the error, check the specific rows within the file and make sure the <span class="wintitle">Parent ID</span> is valid and part of the <span class="wintitle">ID</span> column.
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">Invalid Root</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">There are more than one blank cell within the <span class="wintitle">Parent ID</span> column. There can only be one blank cell within this column, which is the topmost level of your organization and does not have a parent). To fix this error, check the <span class="wintitle">Parent ID</span> column for more than one blank cell and revise as needed. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Missing columns</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">This can be either a warning or an error. If an optional column exists in the hierarchy but is missing from an update file, it is a warning. If it is a required column, this is an error. To fix the error, add the required column(s) back. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">Missing Required Data</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">The specified rows are missing required information. To fix the error, check the file and add the required information as needed.
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Ragged Hierarchy</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">Currently, the hierarchy file must be balanced which means that all members within all the levels must follow the same lineage (e.g. all agents roll up to a team lead, all team leads roll up to a manager, etc.).
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">State Date Column Includes Future Date</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">If the <span class="wintitle">Start Date</span> column is chosen, the date cannot be in the future. To fix the error, the <span class="wintitle">Start Date</span> must be revised to a date in the past or today’s date. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Start Date(s) After End Date(s)</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">If the <span class="wintitle">Start Date</span> and <span class="wintitle">End Date</span> columns are chosen, the <span class="wintitle">Start Date</span> cannot be after <span class="wintitle">End Date</span>. To fix the error, any <span class="wintitle">Start Date</span> value(s) greater than, or after the corresponding <span class="wintitle">End Date</span> must be revised to a date which occurs before the <span class="wintitle">End Date</span>. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body2"><span class="systemoutput">Timed Out
+</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body2">You may have been inactive for some time so your session has timed out. To fix this error, restart the hierarchy load process.
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body1">
+                    <td class="TableStyle-4cBasic-BodyE-Column1-Body1"><span class="systemoutput">Unknown Error
+</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyD-Column2-Body1">This is a general error that may require help from ForeSee Support. First check your file for general errors as well as try to reload it once more. If you receive the error again, please contact ForeSee Support. 
+</td>
+                </tr>
+                <tr class="TableStyle-4cBasic-Body-Body2">
+                    <td class="TableStyle-4cBasic-BodyB-Column1-Body2"><span class="systemoutput">Version Effective in the Future
+</span>
+                    </td>
+                    <td class="TableStyle-4cBasic-BodyA-Column2-Body2">If the <span class="wintitle">Version Effective</span> column is chosen, the date cannot be in the future. To fix the error, the <span class="wintitle">Effective</span> date must be revised to a date in the past or today’s date. 
+</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

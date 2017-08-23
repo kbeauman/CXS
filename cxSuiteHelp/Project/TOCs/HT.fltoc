@@ -269,6 +269,9 @@
         <TocEntry
           Title="About Hierarchy Versions"
           Link="/Content/cxSuite/hierarchyAboutVersions.htm" />
+        <TocEntry
+          Title="Hierarchy Error Messages"
+          Link="/Content/cxSuite/hierarchyErrors.htm" />
       </TocEntry>
       <TocEntry
         Title="Master Data"
@@ -299,6 +302,9 @@
       <TocEntry
         Title="Case Management"
         Link="/Content/cxSuite/caseMgmtSettings.htm" />
+      <TocEntry
+        Title="Text Analytics"
+        Link="/Content/cxSuite/taSettings.htm" />
     </TocEntry>
     <TocEntry
       Title="Integrate"
