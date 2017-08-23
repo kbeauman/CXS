@@ -11,6 +11,12 @@
     <Link
       Url="Content/cxSuite/leaderboard.htm" />
     <Link
+      Url="Content/cxSuite/hierarchyErrors.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
       Url="Content/cxSuite/caseMgmtSettings.htm" />
@@ -33,10 +39,6 @@
     <Link
       Url="Content/cxSuite/glossary.htm" />
     <Link
-      Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
-    <Link
       Url="Content/cxMeasurement/MasterList.htm" />
     <Link
       Url="Content/cxSuite/releaseNotes.htm" />
@@ -44,10 +46,6 @@
       Url="Content/cxSuite/ReleaseCalendar.htm" />
     <Link
       Url="Content/cxSuite/aboutSurveys.htm" />
-    <Link
-      Url="https://issuetracking.foresee.com/browse/ACSH-81" />
-    <Link
-      Url="https://issuetracking.foresee.com/browse/ACSH-86" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
@@ -57,6 +55,12 @@
     <Link
       Url="Content/cxSuite/leaderboard.htm" />
     <Link
+      Url="Content/cxSuite/hierarchyErrors.htm" />
+    <Link
+      Url="Content/TextAnalytics/about.htm" />
+    <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
       Url="Content/cxSuite/caseMgmtSettings.htm" />
@@ -79,10 +83,6 @@
     <Link
       Url="Content/cxSuite/glossary.htm" />
     <Link
-      Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
-    <Link
       Url="Content/cxMeasurement/MasterList.htm" />
     <Link
       Url="Content/cxSuite/releaseNotes.htm" />
@@ -90,10 +90,6 @@
       Url="Content/cxSuite/ReleaseCalendar.htm" />
     <Link
       Url="Content/cxSuite/aboutSurveys.htm" />
-    <Link
-      Url="https://issuetracking.foresee.com/browse/ACSH-81" />
-    <Link
-      Url="https://issuetracking.foresee.com/browse/ACSH-86" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
@@ -103,8 +99,6 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables>
-    <Variable
-      Name="Tooltips.Tooltip Web Site" />
     <Variable
       Name="Tooltips.Tooltip Topic" />
   </Variables>

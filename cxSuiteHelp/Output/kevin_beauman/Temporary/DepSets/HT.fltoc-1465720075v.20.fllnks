@@ -28,6 +28,8 @@
     <Link
       Url="Content/cxSuite/cx360.htm" />
     <Link
+      Url="Content/cxSuite/leaderboard.htm" />
+    <Link
       Url="Content/cxSuite/faq.htm" />
     <Link
       Url="Content/cxSuite/surveyTOC.htm" />
@@ -104,8 +106,6 @@
     <Link
       Url="Content/Feedback/inPg.htm" />
     <Link
-      Url="Content/Feedback/Alerts.htm" />
-    <Link
       Url="Content/cxSuite/respondentDetails.htm" />
     <Link
       Url="Content/cxSuite/MobileApp.htm" />
@@ -135,6 +135,8 @@
       Url="Content/TextAnalytics/about.htm" />
     <Link
       Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
+      Url="Content/cxSuite/notifications.htm" />
     <Link
       Url="Content/cxSuite/integrationTOC.htm" />
     <Link
