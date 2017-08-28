@@ -13,6 +13,8 @@
     <Link
       Url="Content/cxSuite/hierarchyAttributes.htm" />
     <Link
+      Url="http://support.foresee.com/contact" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
@@ -23,6 +25,8 @@
     <Link
       Url="Content/cxSuite/hierarchyAttributes.htm" />
     <Link
+      Url="http://support.foresee.com/contact" />
+    <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
   <Anchors />
@@ -31,6 +35,8 @@
   <ConceptControlNames />
   <IndexControlNames />
   <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Web Site" />
     <Variable
       Name="Tooltips.Tooltip Topic" />
   </Variables>

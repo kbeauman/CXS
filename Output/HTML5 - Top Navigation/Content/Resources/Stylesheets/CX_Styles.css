@@ -562,6 +562,7 @@ img
 {
 	border: none;
 	caption-side: bottom;
+	margin-bottom: 0px;
 }
 
 img.bluelogo

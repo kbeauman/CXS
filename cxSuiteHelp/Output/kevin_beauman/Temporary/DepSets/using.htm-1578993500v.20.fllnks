@@ -30,6 +30,8 @@
     <Link
       Url="Content/Resources/Snippets/SurveyFilter.flsnp" />
     <Link
+      Url="Content/Resources/Images/AddIcon.png" />
+    <Link
       Url="Content/Resources/Snippets/HierarchyFilter.flsnp" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
@@ -57,6 +59,8 @@
       Url="Content/Resources/Snippets/DatePicker.flsnp" />
     <Link
       Url="Content/Resources/Snippets/SurveyFilter.flsnp" />
+    <Link
+      Url="Content/Resources/Images/AddIcon.png" />
     <Link
       Url="Content/Resources/Snippets/HierarchyFilter.flsnp" />
     <Link

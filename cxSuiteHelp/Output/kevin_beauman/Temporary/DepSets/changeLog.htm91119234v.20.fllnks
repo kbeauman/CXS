@@ -9,9 +9,13 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/cxSuite/using.htm" />
+    <Link
       Url="Content/cxSuite/leaderboard.htm" />
     <Link
       Url="Content/cxSuite/hierarchyErrors.htm" />
+    <Link
+      Url="Content/cxSuite/taSettings.htm" />
     <Link
       Url="Content/TextAnalytics/about.htm" />
     <Link
@@ -53,9 +57,13 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/cxSuite/using.htm#Filterin" />
+    <Link
       Url="Content/cxSuite/leaderboard.htm" />
     <Link
       Url="Content/cxSuite/hierarchyErrors.htm" />
+    <Link
+      Url="Content/cxSuite/taSettings.htm" />
     <Link
       Url="Content/TextAnalytics/about.htm" />
     <Link
@@ -101,6 +109,8 @@
   <Variables>
     <Variable
       Name="Tooltips.Tooltip Topic" />
+    <Variable
+      Name="Tooltips.Tooltip Section" />
   </Variables>
   <FileConditions />
   <FileTags />
