@@ -10,9 +10,6 @@
     Link="/Content/cxSuite/printTOC.htm"
     conditions="Default.PrintOnly" />
   <TocEntry
-    Title="17.2 Change Log"
-    Link="/Content/cxSuite/changeLog.htm" />
-  <TocEntry
     Title="CX Help &amp; Training Guide Home"
     Link="/Content/cxSuite/home.htm"
     conditions="Default.ScreenOnly" />
