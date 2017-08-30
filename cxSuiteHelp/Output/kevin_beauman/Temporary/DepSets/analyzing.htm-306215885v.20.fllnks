@@ -15,8 +15,6 @@
     <Link
       Url="Content/Resources/Snippets/DatePicker.flsnp" />
     <Link
-      Url="Content/Resources/Snippets/SurveyFilter.flsnp" />
-    <Link
       Url="Content/TextAnalytics/about.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
@@ -28,8 +26,6 @@
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
       Url="Content/Resources/Snippets/DatePicker.flsnp" />
-    <Link
-      Url="Content/Resources/Snippets/SurveyFilter.flsnp" />
     <Link
       Url="Content/TextAnalytics/about.htm#Taxonomy" />
     <Link

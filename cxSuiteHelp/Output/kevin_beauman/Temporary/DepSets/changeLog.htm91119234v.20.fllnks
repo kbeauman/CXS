@@ -9,6 +9,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
       Url="Content/cxSuite/using.htm" />
     <Link
       Url="Content/cxSuite/leaderboard.htm" />
@@ -18,8 +20,6 @@
       Url="Content/cxSuite/taSettings.htm" />
     <Link
       Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
     <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
@@ -57,6 +57,8 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
+      Url="Content/TextAnalytics/analyzing.htm" />
+    <Link
       Url="Content/cxSuite/using.htm#Filterin" />
     <Link
       Url="Content/cxSuite/leaderboard.htm" />
@@ -66,8 +68,6 @@
       Url="Content/cxSuite/taSettings.htm" />
     <Link
       Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
     <Link
       Url="Content/cxSuite/hierarchy.htm" />
     <Link
