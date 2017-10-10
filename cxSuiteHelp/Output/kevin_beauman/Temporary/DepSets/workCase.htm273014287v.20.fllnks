@@ -11,19 +11,30 @@
       Url="Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/CaseMgmt/caseMgmtSettings.htm" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
   <LongLinks>
     <Link
       Url="Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp" />
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
+    <Link
+      Url="Content/CaseMgmt/caseMgmtSettings.htm" />
+    <Link
+      Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables />
+  <Variables>
+    <Variable
+      Name="Tooltips.Tooltip Topic" />
+  </Variables>
   <FileConditions />
   <FileTags />
   <AllConditions />

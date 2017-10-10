@@ -4,11 +4,14 @@
   <TocEntry
     Title="CX Suite Help &amp; Training Guide"
     Link="/Content/cxSuite/cover.htm"
-    conditions="Default.PrintOnly" />
+    conditions="Default.PrintOnly"></TocEntry>
   <TocEntry
     Title="TOC - Print"
     Link="/Content/cxSuite/printTOC.htm"
     conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="17.3 Change Log"
+    Link="/Content/cxSuite/changeLog.htm" />
   <TocEntry
     Title="CX Help &amp; Training Guide Home"
     Link="/Content/cxSuite/home.htm"
@@ -110,6 +113,9 @@
         <TocEntry
           Title="Functional Measure"
           Link="/Content/cxMeasurement/functional.htm" />
+        <TocEntry
+          Title="Fulfillment"
+          Link="/Content/cxMeasurement/fulfillment.htm" />
         <TocEntry
           Title="Loyalty Program"
           Link="/Content/cxMeasurement/loyalty.htm" />
@@ -311,6 +317,11 @@
         Link="/Content/cxSuite/hostedcode.htm" />
     </TocEntry>
   </TocEntry>
+  <TocEntry
+    Title="Client Resources"
+    Link="http://learn.foresee.com/clientresources"
+    FrameName="_blank"
+    ReplaceMergeNode="false" />
   <TocEntry
     Title="Glossary"
     Link="/Content/cxSuite/glossary.htm" />

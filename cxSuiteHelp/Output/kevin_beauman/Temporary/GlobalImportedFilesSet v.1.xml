@@ -3282,9 +3282,6 @@
       Local="Content/cxMeasurement/feedbackLegacy.htm"
       Remote="../CX-Help-and-Training-Guide/Content/cxMeasurement/employee.htm" />
     <Map
-      Local="Content/cxMeasurement/fulfillment.htm"
-      Remote="../CX-Help-and-Training-Guide/Content/cxMeasurement/feedback.htm" />
-    <Map
       Local="Content/cxMeasurement/home.htm"
       Remote="../CX-Help-and-Training-Guide/Content/cxMeasurement/fulfillment.htm" />
     <Map
@@ -3557,9 +3554,6 @@
     <Map
       Local="Content/Resources/Snippets/TrigPinLock4.flsnp"
       Remote="../CX-Help-and-Training-Guide/Content/Resources/Snippets/LanguageOptions.flsnp" />
-    <Map
-      Local="Content/Resources/Snippets/TrigPooling1.flsnp"
-      Remote="../CX-Help-and-Training-Guide/Content/Resources/Snippets/ManualCase.flsnp" />
     <Map
       Local="Content/Resources/Snippets/TrigPooling2.flsnp"
       Remote="../CX-Help-and-Training-Guide/Content/Resources/Snippets/PreviewSurveyNote.flsnp" />

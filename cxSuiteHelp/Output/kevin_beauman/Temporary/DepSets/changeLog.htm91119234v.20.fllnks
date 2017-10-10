@@ -9,47 +9,11 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
+      Url="Content/CaseMgmt/workCase.htm" />
     <Link
-      Url="Content/cxSuite/using.htm" />
+      Url="Content/cxMeasurement/fulfillment.htm" />
     <Link
-      Url="Content/cxSuite/leaderboard.htm" />
-    <Link
-      Url="Content/cxSuite/hierarchyErrors.htm" />
-    <Link
-      Url="Content/cxSuite/taSettings.htm" />
-    <Link
-      Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/cxSuite/hierarchy.htm" />
-    <Link
-      Url="Content/cxSuite/caseMgmtSettings.htm" />
-    <Link
-      Url="Content/cxSuite/hostedcode.htm" />
-    <Link
-      Url="Content/Feedback/aboutSurveys.htm" />
-    <Link
-      Url="Content/Feedback/configureSurvey.htm" />
-    <Link
-      Url="Content/Feedback/publishing.htm" />
-    <Link
-      Url="Content/Feedback/topics.htm" />
-    <Link
-      Url="Content/cxSuite/notifications.htm" />
-    <Link
-      Url="Content/Feedback/newSurvey.htm" />
-    <Link
-      Url="Content/Feedback/editSurvey.htm" />
-    <Link
-      Url="Content/cxSuite/glossary.htm" />
-    <Link
-      Url="Content/cxMeasurement/MasterList.htm" />
-    <Link
-      Url="Content/cxSuite/releaseNotes.htm" />
-    <Link
-      Url="Content/cxSuite/ReleaseCalendar.htm" />
-    <Link
-      Url="Content/cxSuite/aboutSurveys.htm" />
+      Url="Content/cxMeasurement/triggerCode.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </Links>
@@ -57,47 +21,11 @@
     <Link
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
-      Url="Content/TextAnalytics/analyzing.htm" />
+      Url="Content/CaseMgmt/workCase.htm" />
     <Link
-      Url="Content/cxSuite/using.htm#Filterin" />
+      Url="Content/cxMeasurement/fulfillment.htm" />
     <Link
-      Url="Content/cxSuite/leaderboard.htm" />
-    <Link
-      Url="Content/cxSuite/hierarchyErrors.htm" />
-    <Link
-      Url="Content/cxSuite/taSettings.htm" />
-    <Link
-      Url="Content/TextAnalytics/about.htm" />
-    <Link
-      Url="Content/cxSuite/hierarchy.htm" />
-    <Link
-      Url="Content/cxSuite/caseMgmtSettings.htm" />
-    <Link
-      Url="Content/cxSuite/hostedcode.htm" />
-    <Link
-      Url="Content/Feedback/aboutSurveys.htm" />
-    <Link
-      Url="Content/Feedback/configureSurvey.htm" />
-    <Link
-      Url="Content/Feedback/publishing.htm" />
-    <Link
-      Url="Content/Feedback/topics.htm" />
-    <Link
-      Url="Content/cxSuite/notifications.htm" />
-    <Link
-      Url="Content/Feedback/newSurvey.htm" />
-    <Link
-      Url="Content/Feedback/editSurvey.htm" />
-    <Link
-      Url="Content/cxSuite/glossary.htm" />
-    <Link
-      Url="Content/cxMeasurement/MasterList.htm" />
-    <Link
-      Url="Content/cxSuite/releaseNotes.htm" />
-    <Link
-      Url="Content/cxSuite/ReleaseCalendar.htm" />
-    <Link
-      Url="Content/cxSuite/aboutSurveys.htm" />
+      Url="Content/cxMeasurement/triggerCode.htm" />
     <Link
       Url="Project/VariableSets/Tooltips.flvar" />
   </LongLinks>
@@ -109,8 +37,6 @@
   <Variables>
     <Variable
       Name="Tooltips.Tooltip Topic" />
-    <Variable
-      Name="Tooltips.Tooltip Section" />
   </Variables>
   <FileConditions />
   <FileTags />
