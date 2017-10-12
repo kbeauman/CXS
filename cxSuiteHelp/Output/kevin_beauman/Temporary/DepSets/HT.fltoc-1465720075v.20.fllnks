@@ -10,6 +10,8 @@
     <Link
       Url="Content/cxSuite/printTOC.htm" />
     <Link
+      Url="Content/cxSuite/changeLog.htm" />
+    <Link
       Url="Content/cxSuite/home.htm" />
     <Link
       Url="Content/cxSuite/whatsNew.htm" />
@@ -170,8 +172,6 @@
     <Link
       Url="Content/cxSuite/hierarchyAboutVersions.htm" />
     <Link
-      Url="Content/cxSuite/hierarchyErrors.htm" />
-    <Link
       Url="Content/cxSuite/masterData.htm" />
     <Link
       Url="Content/cxSuite/appsTOC.htm" />
@@ -189,8 +189,6 @@
       Url="Content/Replay/cxReplaySecurity.htm" />
     <Link
       Url="Content/cxSuite/caseMgmtSettings.htm" />
-    <Link
-      Url="Content/cxSuite/taSettings.htm" />
     <Link
       Url="Content/cxSuite/integrateTOC.htm" />
     <Link

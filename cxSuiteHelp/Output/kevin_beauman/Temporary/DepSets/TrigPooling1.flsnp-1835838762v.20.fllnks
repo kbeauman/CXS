@@ -6,25 +6,18 @@
   FilePriority="0">
   <Links>
     <Link
-      Url="Content/Replay/cxReplay.htm" />
-    <Link
-      Url="Project/VariableSets/Tooltips.flvar" />
+      Url="Content/cxMeasurement/replay.htm" />
   </Links>
   <LongLinks>
     <Link
-      Url="Content/Replay/cxReplay.htm" />
-    <Link
-      Url="Project/VariableSets/Tooltips.flvar" />
+      Url="Content/cxMeasurement/replay.htm" />
   </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
   <IndexControlNames />
-  <Variables>
-    <Variable
-      Name="Tooltips.Tooltip Topic" />
-  </Variables>
+  <Variables />
   <FileConditions />
   <FileTags />
   <AllConditions />
