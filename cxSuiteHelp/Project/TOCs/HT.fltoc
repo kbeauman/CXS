@@ -312,6 +312,11 @@
     </TocEntry>
   </TocEntry>
   <TocEntry
+    Title="Client Resources"
+    FrameName="_blank"
+    Link="http://learn.foresee.com/clientresources"
+    ReplaceMergeNode="false" />
+  <TocEntry
     Title="Glossary"
-    Link="/Content/cxSuite/glossary.htm" />
+    Link="/Content/cxSuite/glossary.htm"></TocEntry>
 </CatapultToc>

@@ -14,7 +14,7 @@
   MenuSkin="/Project/Skins/Menu.flskn"
   MasterPage="/Content/Resources/MasterPages/Foundation-responsive-offcanvas.flmsp"
   SearchBarSkin="/Project/Skins/ToolbarSearch.flskn"
-  DefaultUrl="/Content/cxSuite/changeLog.htm"
+  DefaultUrl="/Content/cxSuite/home.htm"
   MasterToc="/Project/TOCs/HT.fltoc"
   OutputFolder="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide">
   <PrintedOutput
