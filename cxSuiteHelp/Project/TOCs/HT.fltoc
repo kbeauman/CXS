@@ -209,6 +209,9 @@
     <TocEntry
       Title="Analyzing Data"
       Link="/Content/TextAnalytics/analyzing.htm" />
+    <TocEntry
+      Title="Custom Data Feeds"
+      Link="/Content/TextAnalytics/customFeed.htm" />
   </TocEntry>
   <TocEntry
     Title="Notifications"

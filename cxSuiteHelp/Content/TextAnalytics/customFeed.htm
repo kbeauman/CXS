@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="488" MadCap:lastWidth="1388" class="Topic">
+    <head><title>Custom Data Feeds</title>
+        <link href="../Resources/Stylesheets/CX_Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Custom Data Feeds</h1>
+        <p>You can upload data from outside sources, such as social media, for processing by <span class="wintitle">Text Analytics</span>. Additionally, you can set Text Analytics to process data automatically through the <span class="wintitle">ForeSee® API</span>. Data files must meet the following requirements:</p>
+        <ul>
+            <li>Comma Separated Values (CSV) format</li>
+            <li>Maximum 1000 rows per file</li>
+            <li>Column headers must say <span class="option">Text</span> or <span class="option">Timestamp</span></li>
+            <li><span class="wintitle">Text</span> columns format must be <span class="option">text</span>, with 15-10,000 characters per comment</li>
+            <li><span class="wintitle">Timestamp</span> columns must be ISO format of <span class="systemoutput">YYYY-MM-DDThh:mm:ss</span> (empty columns are filled automatically with the UTC Date and Time of the upload)</li>
+        </ul>
+        <h2>Upload Data</h2>
+        <ol>
+            <li>Go to <a href="../cxSuite/globalSettings.htm" title="[%=Tooltips.Tooltip Topic%]" alt="[%=Tooltips.Tooltip Topic%]">Global Settings</a> &gt; <span class="wintitle">Apps</span> &gt; <span class="wintitle">Text Analytics</span> &gt; <span class="uicontrol">Custom Data Feeds</span>. The <span class="wintitle">Custom Data Feeds</span> page displays.</li>
+            <li>Click <span class="uicontrol">Create New Feed</span>. A three-step wizard displays.</li>
+            <li><span class="wintitle">Name Your New Feed</span> - In the <span class="wintitle">Name</span> text box, type a required label that is easily associated with the type of data in the file. <span class="uicontrol">Next</span> becomes enabled. Optionally, type any additional information in the <span class="wintitle">Description</span> text box and click <span class="uicontrol">Next</span>.</li>
+            <li><span class="wintitle">Choose File Type</span> - Click <span class="uicontrol">Select this Option</span> for the desired type of data feed:<ul><li><span class="wintitle">Upload a CVS</span> - The <span class="wintitle">Process File</span> page displays where you can type the file directory, or browse to the desired CVS file.</li><li><span class="wintitle">Generate Feed ID (API)</span> -</li></ul></li>
+            <li>Click <span class="uicontrol">Finish</span>. The file is first validated and then processed.</li>
+        </ol>
+    </body>
+</html>
