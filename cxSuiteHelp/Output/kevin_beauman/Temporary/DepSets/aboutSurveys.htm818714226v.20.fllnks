@@ -12,6 +12,8 @@
     <Link
       Url="Content/Resources/Multimedia/BuildFilter.mp4" />
     <Link
+      Url="Content/Resources/Images/BuildFilterThumbnail.png" />
+    <Link
       Url="Content/Resources/Images/starClear.png" />
     <Link
       Url="Content/Resources/Images/starSelect.png" />
@@ -41,6 +43,8 @@
       Url="Content/Resources/Stylesheets/CX_Styles.css" />
     <Link
       Url="Content/Resources/Multimedia/BuildFilter.mp4" />
+    <Link
+      Url="Content/Resources/Images/BuildFilterThumbnail.png" />
     <Link
       Url="Content/Resources/Images/starClear.png" />
     <Link
