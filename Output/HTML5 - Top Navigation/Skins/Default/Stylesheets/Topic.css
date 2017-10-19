@@ -675,6 +675,11 @@ a.MiniTOC3:link
 	text-decoration: none;
 }
 
+video._0
+{
+	display: inline-block;
+}
+
 .dropDown
 {
 	display: block;

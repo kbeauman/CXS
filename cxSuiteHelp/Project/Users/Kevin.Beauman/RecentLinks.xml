@@ -9,4 +9,7 @@
     <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
         <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Snippets\CustomizeColumnsProcess.flsnp" />
     </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage">
+        <Link Value="C:\Users\kevin.beauman\Documents\CX-Help-and-Training-Guide\cxSuiteHelp\Content\Resources\Multimedia\BuildFilter.mp4" />
+    </Dialog>
 </RecentLinks>
